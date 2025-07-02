@@ -1,17 +1,11 @@
 Changelog
 =========
 
-29/06/2025
+02/07/2025
 ---------------
-- Add back nos fp and animation
-- Pull oomadjuster, cacheoptimizer and ActivityManager changes from Clo
+- Back to Prebuilt audio
+- Fix quicksettings text padding
 - Powerhint changes
-- volume slider haptics
-- Drop some usless features
-- Improve Expressive Design collapsing toolbar ui
-- Use system_accent1_200 for monetized privacy indicators
-- Update inbuild pif
-- Tune new biometric dialog UI
-- Increase max fling velocity from AOSPA
-- Add a toggle for Settings UI Styles
-- Merge arter97 LMKD changes
+- Decrease qs transperency 
+- Add Alternate themed icons tone
+- Add Alternate dark qs tone
