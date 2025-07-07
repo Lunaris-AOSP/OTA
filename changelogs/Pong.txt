@@ -1,6 +1,30 @@
 Changelog
 =========
 
+07/07/2025
+---------------
+- Ongoing action progressbar chip implementation
+- Fix media art scrim issue
+- Drop OOS icons pack
+- Set entire screenrecord as the default option
+- Add haptic feedback in Power menu
+- Add few more tiles
+- Improvements to performance and system stability
+
+05/07/2025
+---------------
+- Add lockscreen media art
+- Adapt refresh rate tile for new A16 QS
+- Dismiss screenshot window on touch outside
+- Implement keyguard user switcher
+- Add support for Lockscreen clock fonts
+- Add fluid notfication style
+- Add music Pulse
+- Use jemalloc by default
+- Introduce pocket mode
+- Allow disabling ripple effect on unlock
+- Fingerprint authentication vibration
+
 02/07/2025
 ---------------
 - Back to Prebuilt audio
