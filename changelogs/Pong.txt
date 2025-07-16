@@ -1,6 +1,17 @@
 Changelog
 =========
 
+16/07/2025
+---------------
+- Use expressive design for Singularuty icons
+- Add QuickTap Service
+- Tune QS round tile
+- Fix cloned profile issues
+- Fix Keyguard slice
+- Screenrecord: Add delete action to the notification
+- Update PIF
+- Fix bluetooth time out
+
 07/07/2025
 ---------------
 - Ongoing action progressbar chip implementation
