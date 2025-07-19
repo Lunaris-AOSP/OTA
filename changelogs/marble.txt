@@ -1,0 +1,15 @@
+Changelog
+=========
+
+19/07/2025
+---------------
+- Add Launcher QuickSwitch
+- Fix vpn connection issue
+- Introduce app lock
+- Fix AOD and pulsing scrim color
+- Disable full transperent notifcation
+- Add fluid/transperent norification configurable
+- Enable QS notification colored icon
+- Disable full transperent notifcation
+- Allow tuning extra padding for statusbar layout
+- Add edge light customizations
