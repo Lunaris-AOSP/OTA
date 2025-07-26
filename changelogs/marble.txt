@@ -1,6 +1,25 @@
 Changelog
 =========
 
+26/07/2025
+---------------
+- Fix Storage settings crash
+- Fix random audio crack issue
+- Fix apps crash issue due to network permission
+- Fix edge scroll fling haptics settings
+- Fix Google soundpicker
+- Added PowerHint support
+- Switched to libqti-perfd and power-libperfmgr
+- Enabled ADPF hints for SurfaceFlinger and HWUI
+- Removed QTI perfd, WALT boosting, L3 boost_freq, and old cpusets
+- Improved GPU scaling by adjusting min and max freq
+- Removed unsupported hwc_vds prop and disabled HWC for VDS
+- Fixed lag during music seek
+- Allowed mediacodec access to required hwservices via sepolicy
+- Allowed untrusted_app ioctl on UDP socket in sepolicy
+- Miscellaneous other changes to make rom smoother and better
+
+
 19/07/2025
 ---------------
 - Add Launcher QuickSwitch
