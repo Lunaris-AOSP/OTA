@@ -1,6 +1,26 @@
 Changelog
 =========
 
+27/07/2025
+---------------
+- Add Quick Switch
+- Fix apple music crash
+- Spoof netflix to komodo
+- Use lineage SetupWizard for vanilla
+- Full transparent notification toggle
+- Limit Max album artwork bitmap size
+- Switch to low ram policy for bitmaps
+- Allow use app icons for notifications in statusbar
+- Forward-port notification counters
+- Fix Google soundpicker
+- Switch to md3 reactive lockscreen clock
+- Improve a few strings
+- Icon scaling changes
+- Blur rendering enhancements
+- Improve dolby effect
+- Drop cloned app (buggy)
+- Some other fixes and Improvements
+
 16/07/2025
 ---------------
 - Use expressive design for Singularuty icons
