@@ -1,6 +1,31 @@
 Changelog
 =========
 
+27/07/2025
+---------------
+- Merge Kernel branch android12-5.10
+- Implement KernelSU-next Manual Hooks
+- Update KSUN version
+- Remove deprecated config_mobile_tcp_buffers/networkAttributes
+- CONFIG_IEEE80211AX -> WIFI_FEATURE_HOSTAPD_11AX
+- Use HintManager for HWUI
+- Dalvik VM runtime to libart
+- Set frame rate multiple threshold to 120
+- Enable content detection for refresh rate switching
+- Set SF idle timeout to 1100 ms
+- Relax timers for automatic refresh rate switching
+- Add display smooth motion
+- Enable idle timer with kernel support
+- silence android.hardware.power-service-qti
+- Explicitly disable "Enable GL comp backpressure"
+- Enable frame pacing for smoother visual performance
+- Disable Properly Skia tracing
+- Enable Client Composition Cache
+- Support Wifi6
+- Disable MemPlus Prefetcher
+- Import Qti Memory optimisation
+- Avoid delay for vblank disable from DRM
+
 25/07/2025
 ---------------
 - Initial official release
