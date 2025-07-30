@@ -1,6 +1,23 @@
 Changelog
 =========
 
+30/07/2025
+---------------
+- Added Support for nonui gesture
+- Added Support for Secure NFC
+- Added Haptic level control 
+- Added Haptics at more places
+- Switch to libperf
+- Switch to OSS NFC
+- Fixed FP issues on Goodix TS
+- Fixed AOD
+- Fixed Custom recoveries
+- Disable debug.sf.latch_unsignaled
+- Enable Qualcomm TrueWireless Stereo
+- Implement DSPVolumeSynchronizer
+- Increase battery backup & system stability
+- Misc Changes & Improvement 
+
 27/07/2025
 ---------------
 - Merge Kernel branch android12-5.10
