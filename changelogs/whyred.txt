@@ -1,6 +1,10 @@
 Changelog
 =========
 
+03/08/2025
+----------
+- Synced with latest source
+
 25/07/2025
 ---------------
 - Initial official release
