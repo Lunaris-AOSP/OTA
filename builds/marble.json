@@ -5,15 +5,15 @@
       "currently_maintained": true,
       "oem": "POCO",
       "device": "marble",
-      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.1-Gapps-2025072608.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.1-Gapps-2025072608.zip/download",
-      "timestamp": 1753518163,
-      "md5": "9660693d42a93f8edf83ccb59046672d",
-      "sha256": "4537a62bf40317087dd2c84f051360d152cb67e87db8be64f2078b77acfda1e5",
-      "size": 2902884758,
+      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.1-Gapps-2025080318.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.1-Gapps-2025080318.zip/download",
+      "timestamp": 1754245030,
+      "md5": "0b1621a30955a5fe7dc593b9f0c75549",
+      "sha256": "788f9d066a2103ee35905de2b5c3f8565b77829a3c393b440798c1ba9d668714",
+      "size": 2794399637,
       "version": "3.1",
       "buildtype": "user",
-      "forum": "",
+      "forum": "https://t.me/Anils_RomHub",
       "firmware": "https://xmfirmwareupdater.com/firmware/marble",
       "paypal": "https://www.paypal.com/paypalme/9487274659",
       "github": "AnilShebin",
@@ -22,4 +22,3 @@
     }
   ]
 }
-
