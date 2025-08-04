@@ -1,6 +1,29 @@
 Changelog
 =========
 
+04/08/2025
+---------------
+- TEMP Revert: Revert Dolby Vision support
+- Legacy Cpuset Cleanup
+- Simplified Partition Logic
+- Panic to Recovery Instead of Bootloader
+- Set loop.max_part to 8
+- Allow File Spec Access on Waipio
+- PELT Half-Life Configuration
+- Default Affinity Bootarg for Waipio
+- Performance Tuning Split and Setup
+- Powerhint: WALT and QCOM_LPM Configuration
+- SDR Dimming Support
+- Fix HDR with Vulkan Enablement
+- Disable GPU HDR10 Specific Processing
+- Remove Lineage PowerShare HAL
+- WiFi AX Support via Hostapd Config
+- Disable HWC for VDS (Except WFD)
+- Override Doze Mode Support
+- Added Gamebar Back
+- Removed Firmware (Flash latest of your region)
+
+
 26/07/2025
 ---------------
 - Fix Storage settings crash
