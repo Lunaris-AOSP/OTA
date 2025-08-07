@@ -1,6 +1,26 @@
 Changelog
 =========
 
+07/08/2025
+---------------
+- Improve spinner animation
+- Remove duplicate snapchat option
+- Headsup time out option
+- Ensure task transform is applied on main thread of launcher3 quickspace
+- Fix qs crash due to missing/unsupported drawable
+- Update arm optimised routines and jamalloc
+- Animate the UsageProgressBarPreference
+- Change collapsed header color to match background color
+- Drop unnecessary qs resources recomposing, improving UI performance and fluidity
+- Fix launcher3 crash when press app drawer searchbar
+- Introduce Adaptive Playback
+- Improve slider haptics
+- Make fallback qs shade darker
+- Fix boot failure with white wallpaper
+- Optimize AbsListView to reduce click operation latency
+- Add smart pixel
+- Fix hardware buffer crash
+
 27/07/2025
 ---------------
 - Add Quick Switch
