@@ -1,0 +1,27 @@
+Changelog
+=========
+
+10/08/2025
+----------
+- Synced with latest source (3.2)
+- Fixed powerprofiles not updating via qs tile
+- Tweaked autobrightness values for more smooth experiences
+- configure SQLite to operate in MEMORY mode
+- fix connecting BLE devices
+- Enable ADPF CPU hints for improved UI performance
+- powerhint: Optimise values for smooth experiences
+- Enable optimized dexopt tuning and usage of dex2oat64
+- Fixed LMOFreeform crash
+
+31/07/2025
+---------------
+- Initial a16 Build
+- Build type: User ,Enforcing
+- Latest source changes
+- June security patch (QPR2) ,HyperOS 2 based (user build)(stock hyperos kernel)
+- Based on blobs from OS2.0.104.0.VNPMIXM
+- Created libsensor-notifier-ext-light-peridot for improved autobrightness experience
+- Updated powertools with bug fix 6gb zram not working properly
+- Tuned powerhint for smooth scrolling
+- Updated sidebar and LMOFreeform (packages/apps/sidebar)
+- Created libsensor-notifier-ext-light-peridot for improved autobrightness experience and quick adjustment of brightness using rawlightnotifier

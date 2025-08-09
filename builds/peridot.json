@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "",
+      "currently_maintained": false,
+      "oem": "",
+      "device": "",
+      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025080910.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/peridot/Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025080910.zip/download",
+      "timestamp": 1754734922,
+      "md5": "af7eb09c90e47e650616f5b173d049ba",
+      "sha256": "ed0ce5dda15f31787799bedbf0120eb41162ad04e6d243fe77db26b14e615db8",
+      "size": 3512565984,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "",
+      "firmware": "",
+      "paypal": "",
+      "github": "",
+      "sourceforge": "",
+      "initial_installation_images": []
+    }
+  ]
+}
