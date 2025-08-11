@@ -1,7 +1,25 @@
 Changelog
 =========
 
-07/08/2025
+11/08/2025
+---------------
+- Update fingerprints and security string to August 2025 release
+- Add default values in monet option
+- Add option for compact qs brightness slider position
+- Fix notification color shade in light theme
+- Add simple day and moto space grotesk font
+- Add lens icon in launcher3 all app search bar
+- Implement json-based game spoofing
+- Fix launcher3 crash during recent swipe
+- Switch to lawnicons for launcher3
+- Reduce launcher3 icon size to match nos launcher
+- Fixup fonts not updating on new compose QS
+
+# Device
+- Add Simulated Nothing Charging service
+- Enable AIDL fastboot HAL
+- Sync props from stock
+
 ---------------
 - Improve spinner animation
 - Remove duplicate snapchat option
