@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "Rayyan",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "sweet",
+      "filename": "Lunaris-AOSP-sweet-OFFICIAL-3.2-Gapps-2025081118.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/sweet/Lunaris-AOSP-sweet-OFFICIAL-3.2-Gapps-2025081118.zip/download",
+      "timestamp": 1754935381,
+      "md5": "40aff3fe726b4a2f4e87e4b9261c908d",
+      "sha256": "13dd32e0589c6f14a8eca866cfcfcb6d9d5787da35346143fb7b19f5f279a3db",
+      "size": 2944000682,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "https://t.me/Sweetbuilds",
+      "firmware": "https://xmfirmwareupdater.com/firmware/sweet/stable/V14.0.9.0.TKFEUXM",
+      "paypal": "https://rayyan-x95.github.io/Donate-link/",
+      "github": "Rayyan-x95",
+      "sourceforge": "rayyan-x95",
+      "initial_installation_images": [
+        ""
+      ]
+    }
+  ]
+}
