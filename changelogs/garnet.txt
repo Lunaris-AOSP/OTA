@@ -1,6 +1,16 @@
 Changelog
 =========
 
+12/08/2025
+---------------
+- tune background cgroup uclamp values
+- Add SystemUI restart in restart advanced menu
+- Add missing wakeup genfscon rule for I2C device at a80000.i2c/i2c-3/3-0028
+- Fix up libperfmgr crash on logs
+- Implement LiveDisplay HAL
+- Enable ADPF CPU hints for improved UI performance
+- optimize dalvik vm heap parameters
+
 30/07/2025
 ---------------
 - Added Support for nonui gesture
