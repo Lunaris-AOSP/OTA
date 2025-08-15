@@ -1,6 +1,21 @@
 Changelog
 =========
 
+15/08/2025
+---------------
+- Add pulse option in wake on charge
+- Blur the power menu
+- Fix full transparent notification switch
+- Sync power menu and restart menu layout
+- improve app close animation to handle new themed icons scaling
+- Remove the app from recent after kill using gesture
+- Update lawnchair
+- Drop shade configurable blur (increase qs jitter)
+- Force disable various google components
+- add some perf tunings
+- Add volume panel media card
+- Add animated volume icon when playing media
+
 11/08/2025
 ---------------
 - Update fingerprints and security string to August 2025 release
