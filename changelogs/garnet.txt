@@ -1,6 +1,13 @@
 Changelog
 =========
 
+17/08/2025
+---------------
+- Revert tune background cgroup uclamp values
+- Fix lag in WhatsApp video calls
+- Fix qs lags when notifications came
+- Enable throttle background groups
+
 12/08/2025
 ---------------
 - tune background cgroup uclamp values
