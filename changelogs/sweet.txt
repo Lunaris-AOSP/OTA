@@ -1,3 +1,24 @@
 Changelog
 =========
-Initial Build
+20/08/2025
+---------------
+- Fix privacy chip on large screen header
+- Redesign composed QS layout
+- Drop tile squishy effect
+- Merge Legacy and composed qs customization in one
+- Use accent color for seekbar progress
+- Add back qs dualtone shade
+- Add qs clock style
+- Add back OOS icons
+- Add haptic feedback for tile
+- Add system animation style
+- Improve keyguard transition
+- Use spacegrotesk as default font
+- Drop alternate qs shade for now (Will improve for new qs and add back later)
+- Fix qs data usage switch
+- Fix music card crash after changing music
+
+# Device
+- Switched to Vantom kernel
+- Switched to Miui default Cam
+- Removed Lineage LiveDisplay HAL
