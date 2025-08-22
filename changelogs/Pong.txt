@@ -1,6 +1,30 @@
 Changelog
 =========
 
+22/08/2025
+---------------
+- Drop system icons auto brightness icons
+- Fix powermenu style in light theme
+- Drop Limit Max album artwork bitmap size
+- Disable qs data usage by default
+- clean heap memory on screen off
+- Support legacy vibrator haptics for slider haptics as well
+- Fix brightness slider animation during qs swipe
+- Remove all app search bar hint text
+- Add Google weather provider support to launcher3 quickspace
+- Add Slide system animation
+- Minimal import app grid from Pixel launcher
+- Drop 6x6 grid
+- Adjust the icon size to the grid size
+- Adjust hotseat grid size
+- Fix qs junk due to media art
+- Optimze boost frameworks
+- Blur the background of SysUI dialogs
+- Add 2 new icon shapes
+
+# Device
+- Fix Dolby crash
+
 20/08/2025
 ---------------
 - Add qs header image (compose qs)
