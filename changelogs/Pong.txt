@@ -1,6 +1,19 @@
 Changelog
 =========
 
+24/08/2025
+---------------
+- Fix notification row transparency switch
+- Only use dual target color scheme for dual target tiles
+- Fix Tile End Padding
+- Reduce MediaMetadata bitmap max size to 256dp
+- Fix data ussage font size for legacy qs
+- Set compact heads up default
+- disable some log spams
+- Support non-animated custom brightness icons from icon packs
+- Fix power button hold when using assistant
+- Drop some unnecessary changes
+
 22/08/2025
 ---------------
 - Drop system icons auto brightness icons
