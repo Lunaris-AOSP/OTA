@@ -1,6 +1,27 @@
 Changelog
 =========
 
+24/08/2025
+---------------
+- Kernel is upstreamed to 5.10.237
+- Drop QTI perfd blobs
+- Disable blur on app launch
+- props: Setup LMKD
+- LMK Props: Force disable low ram config
+- Enhance LE Audio and voice codec configurations
+- Disable vendor.audio.feature.kpi_optimize.enable
+- Remove QTI perfd
+- Further cleanup of legacy cpuset remnants (Lunaris only)
+- parts: Add support for long-press actions on QS tiles:
+  - ThermalTileService 
+  - AutoHbmTileService 
+  - HbmTileService 
+- Enable allow_file_spec_access on waipio
+- pixel and lawnchair launchers dropped
+- swappiness set to 60
+- Dropped Gamebar
+
+
 04/08/2025
 ---------------
 - TEMP Revert: Revert Dolby Vision support
