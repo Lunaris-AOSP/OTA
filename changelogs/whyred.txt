@@ -1,6 +1,9 @@
 Changelog
 =========
 
+27/08/2025
+- Synced with latest source
+
 11/08/2025
 ----------
 - Synced with latest source
