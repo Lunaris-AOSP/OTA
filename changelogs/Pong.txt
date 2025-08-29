@@ -1,6 +1,17 @@
 Changelog
 =========
 
+29/08/2025
+---------------
+- Use MD2 icons for power menu
+- Add switch for small landscape notifications
+- Disable VRR feature to meet power expectations
+- Fix black screen during Wakeup
+- Launcher3: Add option to force all apps on bottom sheet
+- More systemui boostfw cleanup
+- Fix media player on theme change
+- Fixup fonts not updating on new compose QS
+
 24/08/2025
 ---------------
 - Fix notification row transparency switch
@@ -182,4 +193,5 @@ Changelog
 - Powerhint changes
 - Decrease qs transperency 
 - Add Alternate themed icons tone
+
 - Add Alternate dark qs tone
