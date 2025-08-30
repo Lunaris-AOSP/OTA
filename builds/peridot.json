@@ -1,23 +1,23 @@
 {
   "response": [
     {
-      "maintainer": "",
-      "currently_maintained": false,
-      "oem": "",
-      "device": "",
-      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025080910.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/peridot/Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025080910.zip/download",
-      "timestamp": 1754734922,
-      "md5": "af7eb09c90e47e650616f5b173d049ba",
-      "sha256": "ed0ce5dda15f31787799bedbf0120eb41162ad04e6d243fe77db26b14e615db8",
-      "size": 3512565984,
+      "maintainer": "kenway214",
+      "currently_maintained": true,
+      "oem": "POCO",
+      "device": "peridot",
+      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025083017.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Peridot/Lunaris-AOSP-peridot-OFFICIAL-3.2-Gapps-2025083017.zip/download",
+      "timestamp": 1756575471,
+      "md5": "8e29fe97f514329ce6a903b9c793471d",
+      "sha256": "c64424e5783ad0b1eef7cf2e554278c82c8be8cee06646af1edc24a585ed1039",
+      "size": 3485769868,
       "version": "3.2",
       "buildtype": "user",
-      "forum": "",
-      "firmware": "",
+      "forum": "https://t.me/kenwayplayground",
+      "firmware": "https://xmfirmwareupdater.com/firmware/peridot",
       "paypal": "",
-      "github": "",
-      "sourceforge": "",
+      "github": "kenway214",
+      "sourceforge": "frozen24king",
       "initial_installation_images": []
     }
   ]
