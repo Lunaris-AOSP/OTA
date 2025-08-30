@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "JINWOO",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Fogos",
+      "filename": "Lunaris-AOSP-fogos-OFFICIAL-3.2-Gapps-2025083014.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/fogos/Lunaris-AOSP-fogos-OFFICIAL-3.2-Gapps-2025083014.zip/download",
+      "timestamp": 1756562818,
+      "md5": "96016ff39a2d258e3e9e50300ba5a8a9",
+      "sha256": "043db781d312f812cc631a4e9a5a0fd9c99c72ed17f63c931b72bf292d3f7b5e",
+      "size": 2285523300,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "https://t.me/JNW_HUB",
+      "firmware": "",
+      "paypal": "",
+      "github": "JNWSG",
+      "sourceforge": "stavya09",
+      "initial_installation_images": []
+    }
+  ]
+}

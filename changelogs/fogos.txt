@@ -1,0 +1,8 @@
+Changelog
+=========
+
+30/08/2025
+---------------
+- Initial official release
+- aosp dolby added
+- Moto Camera added
