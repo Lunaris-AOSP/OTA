@@ -1,6 +1,15 @@
 Changelog
 =========
 
+30/08/2025
+---------------
+- Revert "Relax timers for automatic refresh rate switching"
+- Remove dex2oat groups related changes 
+- Set default pin amount for home app
+- Disable Pocket Lock
+- Improve Battery backup
+- Misc Changes and improvement 
+
 17/08/2025
 ---------------
 - Revert tune background cgroup uclamp values
