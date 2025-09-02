@@ -1,0 +1,8 @@
+Changelog
+=========
+
+02/09/2025
+---------------
+- Initial Official release
+- Added Moto Dolby
+- Added Viper4Android
