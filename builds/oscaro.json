@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Chethan(No_Cache)",
+      "currently_maintained": true,
+      "oem": "Oneplus",
+      "device": "Oneplus Nord CE2 Lite 5G",
+      "filename": "Lunaris-AOSP-oscaro-OFFICIAL-3.2-Gapps-2025090204.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/oscaro/Lunaris-AOSP-oscaro-OFFICIAL-3.2-Gapps-2025090204.zip/download",
+      "timestamp": 1756786115,
+      "md5": "cc133db62ff9e76d984139430e76b409",
+      "sha256": "3b7665e10deff085d329013b228bd8cfb7b9e7412185b62df87b5f00cc6af43a",
+      "size": 2593328764,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "https://t.me/oscaro_aosp",
+      "firmware": "",
+      "paypal": "",
+      "github": "NoCache-69",
+      "sourceforge": "no-cache",
+      "initial_installation_images": []
+    }
+  ]
+}
