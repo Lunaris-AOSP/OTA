@@ -1,6 +1,30 @@
 Changelog
 =========
 
+03/09/2025
+---------------
+- Fix deepsleep issue
+- Tune qs media player card
+- Allow to toggle data usage cycle type
+- Fix unlock ripple animation
+- Add material expressive design for preferences in Launcher3, quicktap, GameSpace
+- Set lmo freeform default
+- Ship Inbuild keybox key (User still can change)
+- Set pif by default
+- Improve and refactor QuickTap service
+- Add missing cpuset for dex2oat processes
+- Disable ambient AOD wallpaper
+- Remove glitchy depth push scaling effect
+- reduce sf boost
+- fix race condition due to async
+- qs expansion animation fixes
+- fix audio playback regressions when screen off
+- Fix screen on/off janks
+- Update pif fp
+- Address CachedAppOptimizer denial
+- Switch recent Pixel props and tensor codes to P10
+- Split shade missing issue
+
 29/08/2025
 ---------------
 - Use MD2 icons for power menu
