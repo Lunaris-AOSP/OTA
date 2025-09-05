@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Akky",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "rhodep",
+      "filename": "Lunaris-AOSP-rhodep-Community-3.2-Gapps-2025090417.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/rhodep/Lunaris-AOSP-rhodep-Community-3.2-Gapps-2025090417.zip/download",
+      "timestamp": 1757007562,
+      "md5": "63e373c9a41dc8c4898e8dd09e84a4b5",
+      "sha256": "da5c2e83d0f33eb2da7060519f308b291fa1683212cf100d890a794bf1be87a1",
+      "size": 2121265915,
+      "version": "3.2",
+      "buildtype": "user",
+      "forum": "https://t.me/akkybuilds",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/Akkyhere",
+      "sourceforge": "https://sourceforge.net/projects/akky-builds/files/lunarisv3.2/Lunaris-AOSP-rhodep-Community-3.2-Gapps-2025090417.zip/download",
+      "initial_installation_images": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Changelog
+=========
+
+Initial Build
+- Android 16
+- All functions working without bug
+- Dolby added
+- ViperFX added
