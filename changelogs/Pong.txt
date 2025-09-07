@@ -1,6 +1,23 @@
 Changelog
 =========
 
+07/09/2025
+---------------
+- Allow configuring haptics for wake gestures
+- Setup optional Frosted blur and decrease default blur value
+- Make Stock big QS media player configurable
+- Three long press screenshot
+- Set launcher3 all apps on bottom sheet by default
+- Fix new memory leaks
+- Use -O3 performance enhancements
+- Restart SystemUI for default QS header clock style
+- Fix notification icon color in sound settings
+- Don't blur too many layers
+- Drop system dialog blur
+- Replace device restart with targeted package killing for PIF updates
+- Implement targeted game/app package killing for per apps/game props instead of restart device
+- Fix qs clock overlap after ui restart
+
 03/09/2025
 ---------------
 - Fix deepsleep issue
