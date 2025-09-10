@@ -1,0 +1,14 @@
+Changelog
+=========
+
+10/09/2025
+----------
+- Initial official release
+- Synced with latest source
+- Reduce lag while app opening and QS lags
+- Fixed charging info in lock screen
+- Enable UDFPS animations
+- Fixed sudden high brightness after unlock device with pin/fp
+- Disable frame rate override feature
+- Add system ui restart option
+- Many more underhood changes
