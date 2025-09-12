@@ -1,6 +1,21 @@
 Changelog
 =========
 
+12/09/2025
+---------------
+- [BOOST] added a short boost in camera open/close and picture clicking algorithm
+- [BOOST] refined the display imminent boost logic with smoother experience
+- [BOOST] added screen orientation boost logic for better transition in rotation
+- [STABILITY] improved/refined thermal hint for better heat management
+- [STABILITY] reduced touch boost logic for better experience
+- [FIXED] a sudden battery drain caused by touch up/down boost
+- [FIXED][PERF] fixed detection of game profile after user exits game
+- Fixed low volume from speaker while using Dolby
+- Added Quick Tap back
+- Removed Lawnchair
+- Refined overall stability and experience
+
+
 24/08/2025
 ---------------
 - Kernel is upstreamed to 5.10.237
