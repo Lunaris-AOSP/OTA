@@ -1,6 +1,16 @@
 Changelog
 =========
 
+13/09/2025
+---------------
+- Kernel is upstreamed to 5.4.295
+- Update Firmware V1UGS35H.75-14-13-1
+- Aug Security Patch
+- fix QS header clock
+- Switched to XiaomiDolby
+- Implementation Qcom Audio
+- VIPER4AndroidFX added
+
 30/08/2025
 ---------------
 - Initial official release
