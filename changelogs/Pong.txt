@@ -1,6 +1,34 @@
 Changelog
 =========
 
+15/09/2025
+---------------
+- Back to private key spoofing
+- Allow configuring haptics for wake gestures
+- Add perf activity anim override
+- Make sure our redesigned QS retains the same size when dpi is changed
+- Add QS tile layout settings
+- Fix split shade missing issue
+- Fix SenseProvider breaking biometric settings control
+- Merge new lineage changes
+- Switch to axion torch strength (hold to on/off, click to change torch strength)
+- Some fixes related to quickspace and Launcher3
+- Fix custom header doesn't load with gphotos
+- Increase Settings card radius
+- Switch to tile dialog for flashlight strength
+- Fix preferences getting clipped in expressive theme
+- Use secondaryClick onClick behaviour if available when using small QS tiles
+- Add haptic feedback to Singularity settings preferences
+- Fix some memory leaks
+
+# Device
+- Update from NOS V3.2-250828-1921
+- Switch to material expressive design for all packages (glyph, dolby, gamebar etc)
+- Remove audio EQ config
+- Make haptics a bit tighter
+- Enable hardware rounded corner feature
+- dolby: Settings refactor and enhancements
+
 07/09/2025
 ---------------
 - Allow configuring haptics for wake gestures
