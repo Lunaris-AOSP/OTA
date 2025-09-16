@@ -1,6 +1,16 @@
 Changelog
 =========
 
+16/09/2025
+---------------
+- Force disable low ram config
+- Enable config_avoidGfxAccel
+- Enable QPower and Deep sleep at the same time
+- Disable doze display state supported
+- Set doze_proximity_sensor_supported to false
+- Don't check proximity sensor before pulsing
+- Improve Smoothness & Stability
+
 15/09/2025
 ---------------
 - Remove PowerProfile.POWER_NONE
