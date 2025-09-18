@@ -1,6 +1,24 @@
 Changelog
 =========
 
+18/09/2025
+---------------
+- Switched to Strix Kernel, thnx to @known_name123 fiqri bro.  
+- Power strength Torch added  
+- Strix Kernel version 5.10.244  
+- [OPT] refined interaction boosts for smoother UI  
+- [FIXUP] Unnecessary cpu/gpu goes aggressive on touch, cause unnecessary heat/drain issue  
+- Added some sepolicy/fixes related to alipay payment app freezes/problems  
+- Fixed selinux denial of WeChat fingerprint payment  
+- [STABILITY] Improved the thermal profiles  
+- [PERF] Refined boosts for the better gaming/performance  
+- Fixed NFC crash outside India
+- Fixed idle drain issue
+- Disabled broken Dolby AC4 audio decoder
+- Improved Dolby performance
+- Miscellaneous other changes to make rom smoother and better
+
+
 12/09/2025
 ---------------
 - [BOOST] added a short boost in camera open/close and picture clicking algorithm
