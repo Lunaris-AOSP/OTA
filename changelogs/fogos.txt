@@ -1,6 +1,16 @@
 Changelog
 =========
 
+20/09/2025
+---------------
+- Kernel is upstreamed to 5.4.295
+- September Security Patch
+- Fix mic issues in apps like WhatsApp
+- Fix Qs lag & Jitter
+- Fix Battery Drain
+- Fix Double Tap To Wake
+- Add Spatial Audio
+
 13/09/2025
 ---------------
 - Kernel is upstreamed to 5.4.295
