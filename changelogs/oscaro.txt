@@ -1,6 +1,12 @@
 Changelog
 =========
 
+20/09/2025
+---------------
+- Add support for AoD
+- Switch to Sony Dolby(OSS UI)
+- Synced with latest source
+
 02/09/2025
 ---------------
 - Initial Official release
