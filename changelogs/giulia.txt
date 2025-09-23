@@ -1,6 +1,15 @@
 Changelog
 =========
 
+24/09/2025
+---------
+- Synced with latest source
+- Fixed bt issue
+- Fixed heating issue caused by thermals
+- Fixed deepsleep
+- Improved touch response
+- Many more underhood changes
+
 10/09/2025
 ----------
 - Initial official release
