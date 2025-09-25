@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "ReaperLord",
+      "currently_maintained": true,
+      "oem": "OnePlus",
+      "device": "benz",
+      "filename": "Lunaris-AOSP-benz-OFFICIAL-3.3-Gapps-2025092516.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/benz/Lunaris-AOSP-benz-OFFICIAL-3.3-Gapps-2025092516.zip/download",
+      "timestamp": 1758818224,
+      "md5": "e53782758925c4af125e21c9af3a9b9b",
+      "sha256": "667e84b30642b0442b712e351d4f6ef355558c34cc919ed613bf3937578cdc49",
+      "size": 3393303864,
+      "version": "3.3",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/ReaperLord10",
+      "firmware": "",
+      "paypal": "",
+      "github": "reaperlord10",
+      "sourceforge": "reaperlord10",
+      "initial_installation_images": []
+    }
+  ]
+}
