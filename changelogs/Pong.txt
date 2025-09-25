@@ -1,6 +1,28 @@
 Changelog
 =========
 
+25/09/2025
+---------------
+- Back to Private key spoofing
+- Merged September patch
+- Disable ui boosts by default and add option in performance mode (If anyone face qs or ui lag turn on core boosts)
+- Drop wake on charge behavior
+- Load boot image profile from frameworks/base
+- Free up SystemUI memory after sleep for better idle
+- Fix some memory leak issues
+- Reduce grace window to kill cache after user unlock
+- SliderHaptics tweaks
+- Update fingerprints to mustang
+- Allow disabling time to full on keyguard
+- Add Altel and Tele2 apn
+
+# Device
+- Import pinned service libs from AOSPA
+- Pin SDM Extension Library 
+- Move to 100 swappiness
+- Update from NOS V3.2-250917-1451
+- Don't latch unsignal buffers
+
 15/09/2025
 ---------------
 - Back to private key spoofing
