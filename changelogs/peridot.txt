@@ -1,6 +1,17 @@
 Changelog
 =========
 
+25/09/2025
+----------
+- Latest source changes
+- Sep security patch (QPR2) ,HyperOS 2 based (user build)
+- Updated kernel based on rebased tree. (ksu-next added by default)
+- Audio for fs19xx driver fixed
+- Fixed HTSR for focaltech panel user
+- Wifi display/cast fixed
+- Bypass Charging fixed
+- st2w/sw2a and dt2w added (system/gestures)
+
 30/08/2025
 ----------
 - Latest source changes
