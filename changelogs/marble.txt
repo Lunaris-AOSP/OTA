@@ -1,6 +1,15 @@
 Changelog
 =========
 
+27/09/2025
+---------------
+- Back to LOS kernel
+- tune CPU/GPU/DDR configs for balanced performance
+- [FIXUP] Update powerhint JSON to use policy-based CPUfreq paths
+- Reduced Poco Logo Boot animation
+- Miscellaneous other changes to make rom smoother and better
+
+
 18/09/2025
 ---------------
 - Switched to Strix Kernel, thnx to @known_name123 fiqri bro.  
