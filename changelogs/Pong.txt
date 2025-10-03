@@ -1,6 +1,25 @@
 Changelog
 =========
 
+05/10/2025
+---------------
+- Sync with lineage 23.0 changes
+- Add switch to spoof private key (You can use if you have valid keybox)
+- Change heads up ticker text style to match clock
+- Optimize AbsListView to reduce click operation latency
+- Fade the qs clock insted of scale effect
+- Show icon of package associated with Toast
+- Enable move transition animation layer
+- Import Fluid power menu style
+- Add battery fill and path for Victor & Sam iconpack
+- Fix visualizer when media art on
+- Fix Network Traffic tinting for arrows to match dark/light properly
+- Launcher3 rebase
+- Drop qs layout customizer
+- Fix "aidl/stats" log spam
+- Improve handling of lockscreen media art
+- Increase tile margins
+
 25/09/2025
 ---------------
 - Back to Private key spoofing
