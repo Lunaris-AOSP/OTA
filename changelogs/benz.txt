@@ -1,5 +1,9 @@
 Changelog
 =========
+10/10/2025
+---------
+- Fixed launcher memory issue
+- Synced with Lunaris 3.4
 
 25/09/2025
 ---------
