@@ -1,6 +1,15 @@
 Changelog
 =========
 
+12/10/2025
+---------------
+- Update blobs from OS2.0.209.0.VMRMIXM
+- Enable frame pacing for smoother visual performance
+- powerhint: raise UclampFGMin during interaction
+- parts: Drop per-app refresh rate
+- Standardize qca6490 WiFi config filename and symlink names
+- Dropped Strix Kernel
+
 27/09/2025
 ---------------
 - Back to LOS kernel
