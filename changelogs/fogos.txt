@@ -1,6 +1,13 @@
 Changelog
 =========
 
+14/10/2025
+---------------
+- synced latest rom source
+- fixed whatsapp call mic issue
+- fixed jitter and lag
+- Kernel is upstreamed to 5.4.300
+
 20/09/2025
 ---------------
 - Kernel is upstreamed to 5.4.295
