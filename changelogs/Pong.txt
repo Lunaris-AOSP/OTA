@@ -1,6 +1,36 @@
 Changelog
 =========
 
+14/10/2025
+---------------
+- Update fingerprints to October 2025 release
+- Update GMS from mustang BD3A.250721.001.B7
+- Add clone app and private space support
+- Adding system-wide glass blur filter
+- Improve handling of lockscreen media art
+- Increase tile margins
+- Allow to change system-wide blur intensity
+- Implement notification row transparency level feature
+- Add context-aware notification row transparency setting
+- Option to keep the screen awake while screen recording
+- Revamp Network Traffic
+- Rearrange some settings category
+- Ambient display show battery & cpu temperature
+- Add ability to resize QS & statusbar clock
+- Some Launcher3 fixes and improvements
+- Play haptic feedback on taking screenshot
+- Add island notification
+- Add preferred network switches between 2G->3G->4G->5G.
+- Silence delay restart debug log
+- Make Ongoing chip size and position configurable
+- LMOfreeform fixes and improvements
+- Improve dataswitch tile
+- improve app launch blur
+- Add back dialog bg blur
+- Consolidated ap band changes
+- Axion widgets system integration
+- Improvements to performance and system stability
+
 05/10/2025
 ---------------
 - Sync with lineage 23.0 changes
