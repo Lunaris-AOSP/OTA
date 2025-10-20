@@ -1,15 +1,37 @@
 Changelog
 =========
-20/08/2025
+20/10/2025
 ---------------
-- Add 2 new icon shapes
-- Blur the background of SysUI dialogs
-- Optimize boost frameworks
-- Fix qs junk due to media art
-- Add Slide system animation
-- Remove all app search bar hint text
+- Update fingerprints to October 2025 release
+- Update GMS from mustang BD3A.250721.001.B7
+- Add clone app and private space support
+- Adding system-wide glass blur filter
+- Improve handling of lockscreen media art
+- Increase tile margins
+- Allow to change system-wide blur intensity
+- Implement notification row transparency level feature
+- Add context-aware notification row transparency setting
+- Option to keep the screen awake while screen recording
+- Revamp Network Traffic
+- Rearrange some settings category
+- Ambient display show battery & cpu temperature
+- Add ability to resize QS & statusbar clock
+- Some Launcher3 fixes and improvements
+- Play haptic feedback on taking screenshot
+- Add island notification
+- Add preferred network switches between 2G->3G->4G->5G.
+- Silence delay restart debug log
+- Make Ongoing chip size and position configurable
+- LMOfreeform fixes and improvements
+- Improve dataswitch tile
+- improve app launch blur
+- Add back dialog bg blur
+- Consolidated ap band changes
+- Axion widgets system integration
+- Improvements to performance and system stability
 
 
 # Device
-- Switched to AIDL LiveDisplay
-- Improved Device performance and stability
+- Switched to Spiteful kernel
+- Switched to Sony Dolby
+- Improved RAM management
