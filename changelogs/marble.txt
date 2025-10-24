@@ -1,6 +1,20 @@
 Changelog
 =========
 
+24/10/2025
+---------------
+- Drop RawLightNotifier and switch to stock CIT sensors
+- Drop per-app refresh rate feature
+- Standardize qca6490 WiFi config filenames and symlinks
+- Enable ADPF CPU hints for smoother UI performance
+- Enable QTI Memory Optimization for better system efficiency
+- Fix fatal Dolby HAL denial for improved stability
+- Kernel: Upstream to 5.10.245 (includes random reboot fix)
+- Rootdir: Enable WLAN SSR recovery
+- Lockscreen cpu info fix
+- Miscellaneous other changes to make rom smoother and better
+
+
 12/10/2025
 ---------------
 - Update blobs from OS2.0.209.0.VMRMIXM
@@ -9,6 +23,7 @@ Changelog
 - parts: Drop per-app refresh rate
 - Standardize qca6490 WiFi config filename and symlink names
 - Dropped Strix Kernel
+
 
 27/09/2025
 ---------------
