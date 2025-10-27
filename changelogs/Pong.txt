@@ -1,6 +1,41 @@
 Changelog
 =========
 
+27/10/2025
+---------------
+- Introduce Lock Glymps
+- Introduce video wallpaper
+- Add option for custom udfps icons
+- Add UDFPS animation size and offset control
+- Add new edge light style (4 side mode)
+- Add UDFPS icon and animation customization
+- Add custom font picker from Axion
+- Add support animated qs header (WebP and GIF)
+- Add 5 new edge light animation effects
+- 3 new pulse music visualizers style
+- Improve Launcher scaling reveal animation
+- Add slider to control Pulse light height
+- Add option to disable ambient/aod pulse
+- Fix qs shade color not changing after theme change
+- Fix Pulse doesn't show when using lift or tap to wake
+- Resolve memory leaks in QuickSpace components
+- Add option in GameSpace to disable headsup
+- Some fixes for edge animator effect
+- Add 11 wallpaper effects 
+- Fix Dozing condition when lockscreen album and ambient wallpaper both enable
+- Drop Notification transparency slider
+- Customize bottom corner swipe up action
+- Update contextual search id from a16 (CTS)
+- Set Default Notification alpha 80%/0.8f
+- Merge latest arm-optimized-routines changes
+- Update default wallpaper
+- Implement memory leak prevention with bitmap recycling
+- Simplification of app usage data collection api
+
+# Device
+- Add new GameBar
+- Fix custom Glyph animation running even after end/pick
+
 14/10/2025
 ---------------
 - Update fingerprints to October 2025 release
