@@ -1,6 +1,38 @@
 Changelog
 =========
 
+30/10/2025
+----------
+- Latest source changes
+- Kernel: NitronKernel v2.3 (~6.1.155) (ksu-next added by default)
+- Fixed touch delay for goodix(enable high touch polling rate toggle)
+- Hopefully fixed high battery drain due to service crash and network drain
+- Updated blobs from OS2.0.205.0.VNPMIXM
+- Removed bypass charging and turbo charging
+- Implemented gesture anywhere
+- Implemented lineage health hal with 3 modes (slow,fast,superfast charging speed)
+- Gamebar: Fixed some graphs not prashing correctly
+- Kprofile added and merger with powerprofile changes (kprofile plus)
+- Kprofile plus : Added Enhance dose (disable by default)
+- Enable auto kp mode by default
+- powertools: Refactor to implement kprofiles plus
+- Implement auto kprofile mode
+- Fixed issue where no sound in mic in voip calls
+- Fixed background noise echo in voip calls
+- Fixed issue where phone disconnects bluetooth randomly while bluetooth is connected for prolonged peridot
+- Tuned kprofiles modes and fixup auto kp mode causing slow charging screen off
+- Powertools: added Network configuration and TCP Congestion control
+- Powertools: Fix TCP Congestion control not able to change mode
+- parts: Refactor and switch to Switch to material expressive design
+- Added Launcher icons for Gamebar and powertools for easy access
+- Switch back to Leica Camera 5.2
+- Updated dsp blobs for better image processing in leica camera
+- Fixed double click on powerbutton not launching camera stuck to wallpaper
+- Updated CPU Architecture to armv8-2a-dotprod and variant kryo785
+- refactor gesture: Flip to shhh and updated to material expressive design
+- Updated ViPER4AndroidFX to 8.0
+- Misc Other Changes
+
 12/10/2025
 ----------
 - Latest source changes
