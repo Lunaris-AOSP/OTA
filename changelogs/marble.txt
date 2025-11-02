@@ -1,6 +1,17 @@
 Changelog
 =========
 
+02/11/2025
+---------------
+- Dropped stock recovery and unused QTI blobs
+- Updated blobs from OS2.0.209.0.VMRMIXM
+- Major powerhint and performance boosts (UI, battery, thermals)
+- Disabled FRP
+- sepolicy: updated app/service access rules
+- Fixed auto brightness and fatal Dolby HAL denial
+- Many improvement for stability
+
+
 24/10/2025
 ---------------
 - Drop RawLightNotifier and switch to stock CIT sensors
