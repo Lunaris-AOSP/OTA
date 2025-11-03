@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Kenskuyy",
+      "currently_maintained": true,
+      "oem": "POCO",
+      "device": "munch",
+      "filename": "Lunaris-AOSP-munch-OFFICIAL-3.5-Gapps-2025110311.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/munch/Lunaris-AOSP-munch-OFFICIAL-3.5-Gapps-2025110311.zip/download",
+      "timestamp": 1762168097,
+      "md5": "fa865fca888048ade861a5ef37210c0b",
+      "sha256": "a396481ec16f6924002e806291d0c713275e3e14e227c9d1a2d995000ce4ffd3",
+      "size": 2727835875,
+      "version": "3.5",
+      "buildtype": "user",
+      "forum": "https://t.me/kenskuyyplayground",
+      "firmware": "https://xmfirmwareupdater.com/firmware/munch",
+      "paypal": "https://www.paypal.com/paypalme/kenskuyy",
+      "github": "kenaidi01",
+      "sourceforge": "kenskuyy",
+      "initial_installation_images": []
+    }
+  ]
+}

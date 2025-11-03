@@ -1,0 +1,15 @@
+Changelog
+=========
+
+03/11/2025
+---------------
+- Initial Official release
+- overlay: Enable vonr for Airtel and Jio
+- overlay: Allow seamless Doze state transitions
+- overlay: Allow more cached apps in the background
+- parts: Introduce GameBar v4.0
+- parts: Implement Pocket Detection service
+- prop: Enable Qualcomm TrueWireless™ Stereo
+- Kernelsu-Next included
+- SUSFS inlcuded
+- etc
