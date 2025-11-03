@@ -1,6 +1,15 @@
 Changelog
 =========
 
+03/11/2025
+---------------
+- Update Firmware V1UGS35H.75-14-3-4
+- Major powerhint and performance boosts (UI, battery, thermals)
+- powerhint Decrease launch boost to 3sec
+- powerhint uclamp boosting
+- powerhint Boost more devfreq nodes
+- Drop QTI perfd blobs
+
 14/10/2025
 ---------------
 - synced latest rom source
