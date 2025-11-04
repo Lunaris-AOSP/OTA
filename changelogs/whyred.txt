@@ -1,6 +1,13 @@
 Changelog
 =========
 
+04/11/2025
+----------
+- Synced with latest source
+- Update media hals
+- Partially fixed youtube framedrop issue
+- Many more underhood changes
+
 10/11/2025
 ----------
 - Synced with latest source
