@@ -1,6 +1,33 @@
 Changelog
 =========
 
+04/11/2025
+---------------
+- Introduces custom MiniPlayer to QS
+- Allow change/disable qs media player
+- Introduce music info tile
+- Add ringer tile
+- Add option to tint status bar icons with system accent color
+- Improve doze animation
+- Improve Charging ripple animation
+- Guard SparkMusic updates when music panel is disabled
+- Improve Idle manager
+- Delay showing pulse to fix flicker
+- Make google msg app optional with flag
+- Allow disable floating rotate button
+- Allow to always show the time in media player
+- Removing most Clock font and system fonts
+- Removing some ugly wifi and signal icon style
+- Add user avatar near settings searchbar
+- Fix dim wallpaper permission log spam
+- Fix Internet Tile secondary click
+- Enhance ongoing action progress chip with animations and theming
+- Add back boost hints
+- Drop 2-3 unnecessary gms package from full gms
+
+# Device
+- Drop GameBar
+
 27/10/2025
 ---------------
 - Introduce Lock Glymps
