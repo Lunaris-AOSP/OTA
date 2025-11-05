@@ -1,6 +1,17 @@
 Changelog
 =========
 
+06/11/2025
+----------
+
+- Latest source changes
+- Kernel: Updated NitronKernel v2.4 (~6.1.155) (ksu-next added by default)
+- Rework boost freq implementation with seperate implementation
+- Rework fastcharge implementation (only super-fast charge mode)
+- Build External GameBar 13.1.1 
+- Fixed launcher icon issueswhere opening one icon launching another app
+- Misc Other Changes
+
 30/10/2025
 ----------
 - Latest source changes
