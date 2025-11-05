@@ -1,6 +1,15 @@
 Changelog
 =========
 
+05/11/2025
+---------------
+- Synced with latest source
+- Fixed dolby crash
+- Updated firmware version to CPH2381_14.0.0.2400(EX01)
+- Remove some unwanted gms packages
+- Enabled battery cycle count
+- Enable VoNR calls support
+
 11/10/2025
 ---------------
 - Synced with latest source
