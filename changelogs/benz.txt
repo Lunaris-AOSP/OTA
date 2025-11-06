@@ -1,5 +1,16 @@
 Changelog
 =========
+06/11/2025
+---------
+- Fixed FOD not working when brightness is below 10%
+- Fixed FP not registering in Settings
+- Enabled Burn-In Protection
+- Fixed DT2W not working
+- Added Bypass Charging
+- Fixed CPU Temp Info in Lockscreen & QS Tiles
+- Reduced Scroll Jitters/Lag
+- Synced with Lunaris 3.5
+
 10/10/2025
 ---------
 - Fixed launcher memory issue
