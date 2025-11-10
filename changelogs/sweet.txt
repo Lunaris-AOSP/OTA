@@ -1,37 +1,54 @@
 Changelog
 =========
-20/10/2025
+10/11/2025
 ---------------
-- Update fingerprints to October 2025 release
-- Update GMS from mustang BD3A.250721.001.B7
-- Add clone app and private space support
-- Adding system-wide glass blur filter
-- Improve handling of lockscreen media art
-- Increase tile margins
-- Allow to change system-wide blur intensity
-- Implement notification row transparency level feature
-- Add context-aware notification row transparency setting
-- Option to keep the screen awake while screen recording
-- Revamp Network Traffic
-- Rearrange some settings category
-- Ambient display show battery & cpu temperature
-- Add ability to resize QS & statusbar clock
-- Some Launcher3 fixes and improvements
-- Play haptic feedback on taking screenshot
+- Bump security string to November 1, 2025
+- Add support animated qs header (WebP and GIF) (https://t.me/lunaris_update/65?single)
 - Add island notification
-- Add preferred network switches between 2G->3G->4G->5G.
-- Silence delay restart debug log
+- Add 11 wallpaper effects and video wallpaper (https://t.me/lunaris_update/76)
+- Add UDFPS icon and animation customization
+- Add option for custom udfps icons (https://t.me/lunaris_update/72)
+- Add UDFPS animation size and offset control
+- Customize bottom corner swipe up action
+- Add new edge light style (4 side mode) 
+- 3 new pulse music visualizers style (Neon, Retro and minimal)
+- Add option to disable ambient/aod pulse
+- Add 5 new edge light animation effects (https://t.me/lunaris_update/65?single)
+- New edge light pulse rainbow effect (https://t.me/lunaris_update/65?single)
+- Add slider to control Pulse light height
+- Introduce Lock Glymps (https://t.me/lunaris_update/81)
+- Add custom font picker
+- Implement Pulse gesture changes from Axion
+- Introduce Video wallpaper selector (https://t.me/lunaris_update/75)
 - Make Ongoing chip size and position configurable
-- LMOfreeform fixes and improvements
+- Add option to tint status bar icons with system accent color
+- Introduces custom MiniPlayer to QS
+- Make QS media players configurable (https://t.me/Ghost_OS/787?single)
+- KeyboxImitationHooks changes and updates
+- Introduce music info tile
+- Charging ripple style (https://t.me/Ghost_OS/789?single)
+- Allow disable floating rotate button
+- Allow to always show the time in media player
+- Add clone app support
+- Add axion launcher widget
+- Enhance ongoing action progress chip with animations and theming
 - Improve dataswitch tile
 - improve app launch blur
 - Add back dialog bg blur
-- Consolidated ap band changes
-- Axion widgets system integration
-- Improvements to performance and system stability
+- Improve Launcher scaling reveal animation
+- Resolve memory leaks in QuickSpace components
+- Add double tap to doze
+- Improve Charging ripple animation
+- Improve Idle manager
+- Sync FWboost, appmanager, scrollmanager changes from Axion
+- Switch to slmk
+- Fix AOD not turning off when sensor blocked
+- Quick settings improvements 
+- Fix Internet Tile secondary click
+- Merge latest arm-optimized-routines changes
+- LMOfreeform fixes and improvements
+- Improve system stability and performance*
 
 
 # Device
-- Switched to Spiteful kernel
-- Switched to Sony Dolby
-- Improved RAM management
+- Rebase Device trees
