@@ -1,6 +1,29 @@
 Changelog
 =========
 
+13/11/2025
+---------------
+- Merge few ui related changes from qpr1
+- Introduce timer-based wallpaper change feature to Lock Glymps
+- Add sparkle pulse renderer style
+- Improving ScrimUtils performance
+- Add qs calendar view (Chinese Lunar, Indian Saka and Bangabda)
+- Add option to disable Always show mini media player
+- Improve dual-tone visibility when blur off
+- Add haptic feedback to ringer mode slider
+- Add lmo clocks
+- Add aod doze state switch
+- Use stock udfps icons for aod
+- Update easter egg
+- Add back nowplaying prebuild for aod smartspace music info
+- Merge new lineage changes
+
+# Device
+- KSU 2.0.x
+- Add Glyph schedule
+- Drop interaction clamp boosting
+- Reduce swappiness to 60%
+
 04/11/2025
 ---------------
 - Introduces custom MiniPlayer to QS
