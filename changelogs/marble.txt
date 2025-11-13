@@ -1,6 +1,29 @@
 Changelog
 =========
 
+13/11/2025
+---------------
+- Updated blobs from OS 2.0.210.0 hyperOS.
+- Powerhint: cleanup and refinement for better perf and battery backup.
+- Fixed the touch issues during the gaming.
+- Switch to pico gapps variant with aosp apps (remove Google apps yourself).
+- Updated blobs and firmware from OS2.0.209.0.VMRMIXM.
+- upstreamed kernel to version 5.10.245.
+- Decommonized vendor security patch level.
+- Added fix for auto brightness.
+- Aligned verified boot algorithms and rollback indices with stock.
+- Remove software OMX blobs.
+- sepolicy: Allow camera HAL to find quickcamera HAL.
+- sepolicy: Drop unused thermal_zone87 temp label.
+- sepolicy: Drop unused Goodix touchscreen wakeup label.
+- sepolicy: Cleaned up audio related policies.
+- sepolicy: Drop unused qcom-battery sysfs rules.
+- sepolicy: Cleaned up batterysecret rules using wakelock_use macro.
+- Improved the network reception for better frequency.
+- Added overlay for systemui restart option in advance restart menu.
+- Fixed the bluetooth audio slight delay after connecting for 1 or 2 seconds.
+
+
 02/11/2025
 ---------------
 - Dropped stock recovery and unused QTI blobs
