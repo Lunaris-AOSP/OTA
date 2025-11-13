@@ -1,23 +1,23 @@
 {
   "response": [
     {
-      "maintainer": "Anil Shebin_x_Dhanush",
+      "maintainer": "Ashwani",
       "currently_maintained": true,
       "oem": "POCO",
       "device": "marble",
-      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.4-Gapps-2025102410.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.4-Gapps-2025102410.zip/download",
-      "timestamp": 1761303327,
-      "md5": "5fb379477a67a484ccfe2a547c76483c",
-      "sha256": "60f69e638f5306d6b149ac8b352e27bf259b490fba9a2cefaa1c5dfb2f0eb4ea",
-      "size": 2741713527,
-      "version": "3.4",
+      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.5-Gapps-2025111315.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.5-Gapps-2025111315.zip/download",
+      "timestamp": 1763047871,
+      "md5": "a5ae1252921ab20675c91ebd5cd3a7e1",
+      "sha256": "999410b3d940b4afb2085dc603da81c6f2407682362ec033a9ab4ca4438a30d2",
+      "size": 3235677211,
+      "version": "3.5",
       "buildtype": "user",
       "forum": "https://t.me/Anils_RomHub",
       "firmware": "https://xmfirmwareupdater.com/firmware/marble",
-      "paypal": "https://www.paypal.com/paypalme/9487274659",
-      "github": "AnilShebin",
-      "sourceforge": "anilshebin",
+      "paypal": "http://buymeacoffee.com/ashwani_02",
+      "github": "beingashwani",
+      "sourceforge": "ashwani02",
       "initial_installation_images": []
     }
   ]
