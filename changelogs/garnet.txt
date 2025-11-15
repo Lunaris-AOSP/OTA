@@ -1,5 +1,9 @@
 Changelog
 =========
+- Fix Idle Drain
+- increase TA interaction boosting
+- set surface flinger min uclamp to ~30%
+- Misc Chnages and Improvement
 
 31/10/2025
 ---------------
