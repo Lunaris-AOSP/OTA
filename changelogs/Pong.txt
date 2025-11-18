@@ -1,6 +1,21 @@
 Changelog
 =========
 
+18/11/2025
+---------------
+- Introduce Lockscreen Now playing
+- Add smartspace random messages
+- Improve expressive card text
+- Change seekbar progress color
+- Switch to material expressive design for status bar tuner
+- Allow to override Mock Location restriction
+- Reduce expand qs clock size
+- Drop use jemalloc by default
+- Merge new lineage changes
+
+# Device
+- Bring back interaction clamp boosting
+
 13/11/2025
 ---------------
 - Merge few ui related changes from qpr1
