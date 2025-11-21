@@ -1,5 +1,12 @@
 Changelog
 =========
+21/11/2025
+---------
+- Added GameBar
+- Fixed sepolicy denials related to charging
+- Enabled O3 Optimisations in Kernel
+- Misc changes
+
 06/11/2025
 ---------
 - Fixed FOD not working when brightness is below 10%
