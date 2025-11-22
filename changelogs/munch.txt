@@ -1,6 +1,22 @@
 Changelog
 =========
 
+23/11/2025
+----------
+- parts: Adapt to Material 3 Expressive design
+- parts: fix dirac and touch profile cant turned on
+- parts: Bring back Torch control
+- parts: Drop gamebar v4.0
+- build external Gamebar 13.1.1
+- Opt out of speaker_layout_channel_mask field
+- Import some media props from HOS
+- Update sepolicy
+- prop: Add a property to enable prefetching video
+- props: Disable unsignaled buffer latching
+- props: enable_camera_smooth
+- set surfaceflinger uclamp min to 20%
+- switch to aosp wfd
+
 03/11/2025
 ---------------
 - Initial Official release
