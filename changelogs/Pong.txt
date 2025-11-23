@@ -3,6 +3,19 @@ Changelog
 
 18/11/2025
 ---------------
+- Theme SetupWizard with Expressive UI
+- Add mediaart Pixelation/Mosaic filter
+- Remove double haptic during app drawer pull
+- Restore default l3 animation value
+- Set launcher3 Default
+- Add back quick share extension
+- Add missing audio-app cpuset and taskprofile changes
+
+# Device
+- Add support for 12/24 hour time formats in Glyph schedule 
+
+18/11/2025
+---------------
 - Introduce Lockscreen Now playing
 - Add smartspace random messages
 - Improve expressive card text
