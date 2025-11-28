@@ -1,7 +1,29 @@
 Changelog
 =========
 
-18/11/2025
+28/11/2025
+---------------
+- Introduce new charging effects
+- Add support for home screen wallpaper change in wallpaper Glymps
+- Wallpaper glymps wallpaper preview with manual trigger
+- Allow use custom udfps icon for aod also
+- Option to use custom udfps on aod
+- Add launcher3 gestural burn in protection
+- Reduce media max bitmap size
+- Fix nowplaying memory leaks and performance issues
+- Fix volume slider color mismatch
+- Fix telegram scroll lag 
+- Fix suppressing icon cache corruption that leads to anr
+- Fix memory leaks and thread safety in statusbar ongoing chip
+
+# Device
+- Enable back boot dexopt (first boot might take time, depends on installed apps)
+- Optimize dalvik vm heap parameters
+- Fix glyph crash when schedule glyph on
+- Reduce aod brightness value
+- Add back boot dexopt, first boot might take time
+
+23/11/2025
 ---------------
 - Theme SetupWizard with Expressive UI
 - Add mediaart Pixelation/Mosaic filter
