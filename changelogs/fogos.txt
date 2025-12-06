@@ -3,6 +3,16 @@ Changelog
 
 03/11/2025
 ---------------
+- Fixed Power Button issue
+- Fixed QS Lag and Jitter
+- Fixed 60Hz Refresh Rate Lag
+- Fixed Audio Crackling issue
+- implement GameBar
+- implement Lineage Charging Control
+- December Security Patch
+
+03/11/2025
+---------------
 - Update Firmware V1UGS35H.75-14-3-4
 - Major powerhint and performance boosts (UI, battery, thermals)
 - powerhint Decrease launch boost to 3sec
