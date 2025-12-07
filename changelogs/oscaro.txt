@@ -1,6 +1,11 @@
 Changelog
 =========
 
+07/12/2025
+---------------
+- Synced with latest source
+- Added offline charging support
+
 05/11/2025
 ---------------
 - Synced with latest source
