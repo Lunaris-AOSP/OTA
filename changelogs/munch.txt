@@ -1,6 +1,18 @@
 Changelog
 =========
 
+07/12/2025
+----------
+- Drop AOSP WFD
+- Update WFD blobs from dada OS2.0.217.0.WOCMIXM
+- parts: SettingsFragment: Defer applying divider
+- Update sepolicy
+- Enable aosp surfaceflinger
+- Disable skia Tracing
+- enable small battery configuration
+- Disable FRP
+- etc
+
 23/11/2025
 ----------
 - parts: Adapt to Material 3 Expressive design
