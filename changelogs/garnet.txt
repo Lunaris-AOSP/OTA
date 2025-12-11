@@ -1,5 +1,14 @@
 Changelog
 =========
+11/12/2025
+---------------
+- Add GPU Boost
+- Add touch Boost
+- Enable blur by default
+- optimize dalvik vm heap parameters
+- Add support for ViPER4Android FX
+- Add KSU v3.0.0 Support with SUSFS v2.0.0 (Replaced with KSUN)
+- Minor Fixes and Improvement
 
 27/11/2025
 ---------------
