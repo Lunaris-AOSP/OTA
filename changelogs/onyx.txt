@@ -1,0 +1,9 @@
+Changelog
+=========
+
+21/12/2025
+----------
+
+- Initial Official A16 Build
+- Ultrawide Camera Fixed
+- Upstream Kernel to 6.6.77
