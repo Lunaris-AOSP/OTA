@@ -1,6 +1,12 @@
 Changelog
 =========
 
+28/12/2025
+---------------
+- Latest source synced
+- About device fixed 
+- Misc improvements
+
 13/11/2025
 ---------------
 - Updated blobs from OS 2.0.210.0 hyperOS.
