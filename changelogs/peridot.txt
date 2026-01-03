@@ -1,6 +1,27 @@
 Changelog
 =========
 
+03/01/2026
+----------
+
+- Latest source changes
+- Kernel: Switched to Glacium-2.5 (Non-Root)
+- Updated blobs from OS2.0.207.0.VNPMIXM
+- Better tuned devfreq boost for better performance, active and idle drain
+- Implemented touch based input boost in gameboost mode for better scrooling/finger movement
+- Impletemted focaltech game mode touch delay fix (still under testing) (use htsr switch to apply)
+- updated some graphics blobs for better stability
+- Added New GameBar
+- Added New Powertools
+- Added New Dolby specially tuned for peridot
+- Improved cgroup tuning
+- Implemented camera privacy toggle
+- Rework fastcharge implementation (custom implementation in slow and superfast mode)
+- Implement haptics xiaomi effects
+- Minor improvement in autobrightness responsivity
+- Misc Other Changes
+
+
 05/12/2025
 ----------
 
