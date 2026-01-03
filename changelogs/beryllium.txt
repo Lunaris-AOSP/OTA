@@ -1,0 +1,17 @@
+Changelog
+=========
+
+01/01/2026
+----------
+
+- Initial Official A16 Build
+- Drop LiveDisplay
+- Enable incall music support
+
+
+***
+
+Special Thanks:
+==============
+
+• Thanks to  @duckyduck616 @mrartemsid & @EdwinMoq for their work on 4.19 base and fixes
