@@ -1,0 +1,7 @@
+Changelog
+=========
+
+01/01/2026
+---------------   
+- Initial Official release
+- Added sony dolby
