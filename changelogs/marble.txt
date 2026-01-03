@@ -1,6 +1,12 @@
 Changelog
 =========
 
+03/01/2026
+---------------
+- Redesign dolby interface
+- marble: Include app debloater
+- marble: call gamebar package
+
 28/12/2025
 ---------------
 - Latest source synced
