@@ -1,6 +1,15 @@
 Changelog
 =========
 
+06/01/2026
+----------
+- CLEAN FLASH NEEDED!!!!
+- Rebase whole trees
+- Use Lunaris Dolby Atmos
+- FusionX + RKSU with bpf backport
+- BPF kernel was must
+- Many improvement under the hood
+
 07/12/2025
 ----------
 - Drop AOSP WFD
