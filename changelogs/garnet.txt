@@ -1,5 +1,12 @@
 Changelog
 =========
+07/01/2026
+---------------
+- Increase System security to January Security patch
+- Smoother scrolling
+- Switch back to KSUN v1.1.1
+- Misc fixes and Improvement
+
 11/12/2025
 ---------------
 - Add GPU Boost
