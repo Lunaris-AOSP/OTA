@@ -1,6 +1,12 @@
 Changelog
 =========
 
+09/01/2026
+---------------
+- Dolby bands added
+- import qti && power opt
+- fixed Disable doze brightness handling every time
+
 03/01/2026
 ---------------
 - Redesign dolby interface
