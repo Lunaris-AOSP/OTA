@@ -1,6 +1,27 @@
 Changelog
 =========
 
+11/01/2026
+----------
+
+- Latest source changes
+- Fixed video call like WhatsApp.
+- Fixed System UI lags & jitter (QS,app open/close etc)
+- Added missing libbeluga & Add libskewknob_system from OS2.0.204
+- Switch to kyber scheduler
+- parts: Introduced TouchSamplingService
+- Increate nr_requests to 256
+- Removed unused debug services
+- Disable phantom process monitoring
+- perf: Enable Preferred Apps
+- perf: Enable EXPENSIVE_RENDERING hint
+- perf: Import powerhint.xml from stock rom
+- Relax timers for automatic refresh rate switching
+- Added GameBar
+- Address various sepolicy denials.
+- Added webview pinning
+- Other more changes and improvements.
+
 21/12/2025
 ----------
 
