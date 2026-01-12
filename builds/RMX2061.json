@@ -1,16 +1,16 @@
- {
-     "response": [
+{
+  "response": [
     {
       "maintainer": "Shahid Shamim",
       "currently_maintained": true,
       "oem": "Realme",
       "device": "RMX2061",
-      "filename": "Lunaris-AOSP-RMX2061-OFFICIAL-3.6-Gapps-2025122819.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/RMX2061/Lunaris-AOSP-RMX2061-OFFICIAL-3.6-Gapps-2025122819.zip/download",
-      "timestamp": 1766948089,
-      "md5": "8bfa1655428bc487c7385c4a4a18c8e7",
-      "sha256": "55630908261f757501fe7bfced738e5cf8233f647491ce1102d4972f2fe2fcfc",
-      "size": 2784474381,
+      "filename": "Lunaris-AOSP-RMX2061-OFFICIAL-3.6-Gapps-2026011215.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/RMX2061/Lunaris-AOSP-RMX2061-OFFICIAL-3.6-Gapps-2026011215.zip/download",
+      "timestamp": 1768232998,
+      "md5": "484e60839cbf7d3cf5c2a2282426f0ce",
+      "sha256": "f3902485467c97e8c4510c04844dff941d5184c0e7a164ccd446aefda8149afc",
+      "size": 2775680826,
       "version": "3.6",
       "buildtype": "userdebug",
       "forum": "",
@@ -22,5 +22,3 @@
     }
   ]
 }
-
-

@@ -1,0 +1,30 @@
+Changelog
+=========
+
+12/01/2026
+- Merge security r3 changes
+- Add new Matrix style pulse
+- Merge some qs animation fixes from qpr1
+- Switch to neutral qs color shade
+- Improve qs smoothness when media player running
+- Disable pulse visualizer when qs panel expands
+- Add nothing os charging ripple to ripple style
+- Allow toggle single tone QS background
+- Hide emergency call button from PIN/pattern UI
+- Merge SliderPreference changes from qpr2
+- Merge package installer ui changes from qpr2
+- Improve system dialog ui
+- Add omnijaw lockscreen weather support
+- Merge latest arm-optimized-routines changes
+- Drop some gms packages
+- Update default wall
+
+# Device
+- Kernel-level improvements for stability and performance
+- System-wide performance optimizations
+- Minor bug fixes and under-the-hood improvements
+
+28/12/2025
+---------------
+- Initial official release
+- aosp dolby added
