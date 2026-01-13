@@ -1,8 +1,8 @@
 Changelog
 =========
-10/11/2025
+13/01/2025
 ---------------
-- Bump security string to Jan 2, 2026
+- Bump security string to Jan 1, 2026
 - Picked QPR1 fixes and updates
 
 
