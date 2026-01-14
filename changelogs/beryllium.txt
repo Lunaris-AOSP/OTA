@@ -1,5 +1,20 @@
-Changelog
-=========
+⚠️  Disclaimer:
+==============
+- I am not responsible for any damage to your device. Flash at your own risk.
+
+
+✨ Changelog:
+=============
+
+14/01/2026
+----------
+- Kernel: Use new kernel defconfig
+- Settings: 
+      + Remove HBM support (beryllium uses IPS LCD)
+      + App Singularity : add support Vietnamese
+- Remove some GMS
+- Change default browser from Chrome to Via
+
 
 01/01/2026
 ----------
@@ -11,7 +26,11 @@ Changelog
 
 ***
 
-Special Thanks:
-==============
+🙏 Special Thanks:
+==================
 
 • Thanks to  @duckyduck616 @mrartemsid & @EdwinMoq for their work on 4.19 base and fixes
+
+
+
+
