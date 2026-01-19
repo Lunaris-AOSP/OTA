@@ -1,6 +1,14 @@
 Changelog
 =========
 
+19/01/2026
+---------------
+- Dolby add spanish es-rES translations
+- dolby: Add Credits & Contributors dialog
+- Fix volume leveler not reading config && many more changes
+- included SuvMusic (Ytm and jio savaan)
+- latest Source synced
+
 09/01/2026
 ---------------
 - Dolby bands added
