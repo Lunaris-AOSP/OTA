@@ -1,6 +1,14 @@
 Changelog
 =========
 
+19/01/26
+---------------
+- Vanilla build available
+- Dolby atmos changes from lunaris dolby
+- Included fixes for nos cam (only portrait and night mode are broken>
+- Silenced some log spams
+- Device as webcam service enabled
+
 01/01/2026
 ---------------   
 - Initial Official release
