@@ -1,6 +1,15 @@
 Changelog
 =========
 
+21/01/2026
+--------------
+- Synced Latest Source
+- Downgrade Kernel 5.4.295
+- Implemented RKSU
+- Fix Battery Drain
+- January Security Patch
+- Update Lunaris Dolby Atmos
+
 31/12/2025
 ---------------
 - Update Firmware V1UGS35H.75-14-3-5
