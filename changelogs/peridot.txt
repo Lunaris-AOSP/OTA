@@ -1,5 +1,11 @@
 Changelog
 =========
+30/01/2026
+----------
+- Allow games to use 120fps
+- qcom perf boosts into powerhint.json
+- Add HBM and Saturation
+- Misc fixes and Improvement
 
 27/01/2026
 ----------
