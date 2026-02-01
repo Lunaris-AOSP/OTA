@@ -2,6 +2,11 @@ Changelog
 =========
 07/01/2026
 ---------------
+- Add LunarisDolby
+- Increease System stability 
+
+07/01/2026
+---------------
 - Increase System security to January Security patch
 - Smoother scrolling
 - Switch back to KSUN v1.1.1
