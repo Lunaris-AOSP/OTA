@@ -1,6 +1,12 @@
 Changelog
 =========
 
+06/02/2026
+---------------
+- sensors: Use unique_ptr for _oem_msg to avoid memory leaks
+- Whitelist permissions for Dolby && Add Indonesian localization
+- suv music updated to 1.0.6
+
 19/01/2026
 ---------------
 - Dolby add spanish es-rES translations
