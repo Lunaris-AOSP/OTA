@@ -2,25 +2,27 @@
   "response": [
     {
       "maintainer": "GHOST",
-      "currently_maintained": true,
       "oem": "Nothing",
       "device": "Pong",
-      "filename": "Lunaris-AOSP-Pong-OFFICIAL-3.6-Gapps-2025120905.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/Pong/Lunaris-AOSP-Pong-OFFICIAL-3.6-Gapps-2025120905.zip/download",
-      "timestamp": 1765266502,
-      "md5": "5f750cde6bbd533039ca6295d92bdf10",
-      "sha256": "1462e100777330b7fd496fafde705dae6be582dc57c8bb2fea66474c487722ba",
-      "size": 2990178628,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-Pong-OFFICIAL-3.7-GMS-2026021214.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Pong/Lunaris-AOSP-Pong-OFFICIAL-3.7-GMS-2026021214.zip/download",
+      "timestamp": 1770908014,
+      "md5": "bed0819f6ade2b129a7469562910a181",
+      "sha256": "5ea1dc92f1a443177f491b3cbca98e30d0d1407495a7e2f3de13e0f6d367e58a",
+      "size": 3005508788,
+      "version": "3.7",
       "buildtype": "user",
       "forum": "https://t.me/GhostRX89",
+      "gapps": "",
       "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "https://buymeacoffee.com/clashraja1p",
-      "github": "Ghosuto",
-      "sourceforge": "ghosuto",
-      "initial_installation_images": [
-        ""
-      ]
+      "telegram": "https://t.me/GhostRX89",
+      "dt": "https://github.com/Pong-Development/device_nothing_Pong",
+      "common-dt": "",
+      "kernel": "https://github.com/Pong-Development/kernel_nothing_sm8475"
     }
   ]
 }
