@@ -1,6 +1,14 @@
 Changelog
 =========
 
+13/02/2026
+---------------
+- sepolicy: allow power HAL to access cpu_dma_latency
+- powerhint: tune launch and uclamp durations
+- powerhint: tune cpu_dma_latency on launch
+- Disable AptX voice property (Bluetooth through incoming call fixed)
+- suv music updated to latest
+
 06/02/2026
 ---------------
 - sensors: Use unique_ptr for _oem_msg to avoid memory leaks

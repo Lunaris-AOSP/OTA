@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Dhanush",
+      "oem": "poco",
+      "device": "marble",
+      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.7-VANILLA-2026021309.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/marble/vanilla/Lunaris-AOSP-marble-OFFICIAL-3.7-VANILLA-2026021309.zip/download",
+      "timestamp": 1770973427,
+      "md5": "d09576aff1d712455493a5c94ba897fd",
+      "sha256": "dfe5bbb92e491f3b5e58e794fa5b40b1c7f93ba5a1c432e50e9af33f57a8444f",
+      "size": 1992871777,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

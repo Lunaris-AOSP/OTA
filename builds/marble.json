@@ -2,23 +2,27 @@
   "response": [
     {
       "maintainer": "Dhanush",
-      "currently_maintained": true,
-      "oem": "POCO",
+      "oem": "poco",
       "device": "marble",
-      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.6-Gapps-2026020516.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.6-Gapps-2026020516.zip/download",
-      "timestamp": 1770310272,
-      "md5": "f43c33a19b62701aef5bc9d01f91c7a4",
-      "sha256": "4e88340891f034a9d016e7aaa22a1ea18622be6324b58464bad0ceaf05da8861",
-      "size": 3053420477,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.7-GMS-2026021308.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/marble/vanilla/Lunaris-AOSP-marble-OFFICIAL-3.7-GMS-2026021308.zip/download",
+      "timestamp": 1770970956,
+      "md5": "4d98bbaf13c443058da0ff385d8e452c",
+      "sha256": "8d62a8b7e9912bd1ff7e9a53a1f2169670871ef041d17774abfe3cb5dd6fe75b",
+      "size": 2914421274,
+      "version": "3.7",
       "buildtype": "user",
       "forum": "https://t.me/Captain_Clans",
-      "firmware": "https://xmfirmwareupdater.com/firmware/marble",
-      "paypal": "https://buymeacoffee.com/dhanush281",
-      "github": "dhanush281",
-      "sourceforge": "dhanush369",
-      "initial_installation_images": []
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
