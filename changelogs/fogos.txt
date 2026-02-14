@@ -4,6 +4,16 @@ Changelog
 21/01/2026
 --------------
 - Synced Latest Source
+- Kernel is upstreamed to 5.4.302
+- February Security Patch
+- Switch to 64-bit only
+- Implement DeviceAsWebcam
+- Fixed in-app call volume control (WhatsApp, Telegram)
+- Set CPU UP_Rate_Limit To 0 For INTERACTIVE
+
+21/01/2026
+--------------
+- Synced Latest Source
 - Downgrade Kernel 5.4.295
 - Implemented RKSU
 - Fix Battery Drain
