@@ -1,24 +1,28 @@
 {
   "response": [
     {
-      "maintainer": "Mohammad Kibria",
-      "currently_maintained": true,
+      "maintainer": "kibria5",
       "oem": "Xiaomi",
       "device": "garnet",
-      "filename": "Lunaris-AOSP-garnet-OFFICIAL-3.6-Gapps-2026013112.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/garnet/Lunaris-AOSP-garnet-OFFICIAL-3.6-Gapps-2026013112.zip/download",
-      "timestamp": 1769861526,
-      "md5": "52f674d0db5e9aeb8d3c6d38c8519301",
-      "sha256": "47990be1e2e7005c480dc6120b5a33efa9851aa64657dba75cb2a102557b1b74",
-      "size": 2890667867,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-garnet-OFFICIAL-3.7-GMS-2026021508.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/garnet/Lunaris-AOSP-garnet-OFFICIAL-3.7-GMS-2026021508.zip/download",
+      "timestamp": 1771143763,
+      "md5": "772e975d9aa6ca0e9588ad812020ebeb",
+      "sha256": "f19fa458348f3abaa793c18dd9c95e54e9dec095faa674521bd955fe18e60df1",
+      "size": 2915290777,
+      "version": "3.7",
       "buildtype": "user",
       "forum": "https://xdaforums.com/t/rom-16-garnet-official-lunaris-aosp-android-16-for-for-redmi-note-13-pro-5g-poco-x6-5g.4764237/",
+      "gapps": "",
       "firmware": "https://xmfirmwareupdater.com/archive/firmware/garnet/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "https://www.paypal.com/paypalme/kibria05",
-      "github": "kibria5",
-      "sourceforge": "kibria5",
-      "initial_installation_images": []
+      "telegram": "https://t.me/kibria5",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }

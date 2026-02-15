@@ -1,6 +1,11 @@
 Changelog
 =========
-07/01/2026
+15/02/2026
+---------------
+- A16-QPR2 Build
+- Misc fixes and Improvement
+
+31/01/2026
 ---------------
 - Add LunarisDolby
 - Increease System stability 
