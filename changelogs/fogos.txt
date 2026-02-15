@@ -4,68 +4,9 @@ Changelog
 21/01/2026
 --------------
 - Synced Latest Source
-- Downgrade Kernel 5.4.295
-- Implemented RKSU
-- Fix Battery Drain
-- January Security Patch
-- Update Lunaris Dolby Atmos
-
-31/12/2025
----------------
-- Update Firmware V1UGS35H.75-14-3-5
-- Drop DT2W (tmp)
-- Tune powerhint for 16 qpr1
-- increase performance
-- increase smoothness
-
-03/11/2025
----------------
-- Fixed Power Button issue
-- Fixed QS Lag and Jitter
-- Fixed 60Hz Refresh Rate Lag
-- Fixed Audio Crackling issue
-- implement GameBar
-- implement Lineage Charging Control
-- December Security Patch
-
-03/11/2025
----------------
-- Update Firmware V1UGS35H.75-14-3-4
-- Major powerhint and performance boosts (UI, battery, thermals)
-- powerhint Decrease launch boost to 3sec
-- powerhint uclamp boosting
-- powerhint Boost more devfreq nodes
-- Drop QTI perfd blobs
-
-14/10/2025
----------------
-- synced latest rom source
-- fixed whatsapp call mic issue
-- fixed jitter and lag
-- Kernel is upstreamed to 5.4.300
-
-20/09/2025
----------------
-- Kernel is upstreamed to 5.4.295
-- September Security Patch
-- Fix mic issues in apps like WhatsApp
-- Fix Qs lag & Jitter
-- Fix Battery Drain
-- Fix Double Tap To Wake
-- Add Spatial Audio
-
-13/09/2025
----------------
-- Kernel is upstreamed to 5.4.295
-- Update Firmware V1UGS35H.75-14-13-1
-- Aug Security Patch
-- fix QS header clock
-- Switched to XiaomiDolby
-- Implementation Qcom Audio
-- VIPER4AndroidFX added
-
-30/08/2025
----------------
-- Initial official release
-- aosp dolby added
-- Moto Camera added
+- Kernel is upstreamed to 5.4.302
+- February Security Patch
+- Switch to 64-bit only
+- Implement DeviceAsWebcam
+- Fixed in-app call volume control (WhatsApp, Telegram)
+- Set CPU UP_Rate_Limit To 0 For INTERACTIVE
