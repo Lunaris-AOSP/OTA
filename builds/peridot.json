@@ -1,24 +1,28 @@
 {
   "response": [
     {
-      "maintainer": "Mohammad Kibria",
-      "currently_maintained": true,
-      "oem": "POCO",
+      "maintainer": "kibria5",
+      "oem": "Xiaomi",
       "device": "peridot",
-      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.6-Gapps-2026013022.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/Peridot/Lunaris-AOSP-peridot-OFFICIAL-3.6-Gapps-2026013022.zip/download",
-      "timestamp": 1769810278,
-      "md5": "14745d87d128b24b35f685ffd8e30218",
-      "sha256": "abf4c39ada7ae7a3c0c2fcbd3446db6ab8fef713a83a2cdc5daadb1b9b9feea1",
-      "size": 3795354920,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.7-GMS-2026021509.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Peridot/Lunaris-AOSP-peridot-OFFICIAL-3.7-GMS-2026021509.zip/download",
+      "timestamp": 1771146489,
+      "md5": "84d9ad4a79e3fa6cbdf2067c70b194c4",
+      "sha256": "414716e2d6d6de38f5bc85f7a4c01f01c7debf942e85337ad9c83d4265a8eedc",
+      "size": 3624065737,
+      "version": "3.7",
       "buildtype": "user",
-      "forum": "https://t.me/Peridot_Support",
-      "firmware": "https://xmfirmwareupdater.com/firmware/peridot",
+      "forum": "",
+      "gapps": "",
+      "firmware": "https://xmfirmwareupdater.com/archive/firmware/peridot/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "https://www.paypal.com/paypalme/kibria05",
-      "github": "kibria5",
-      "sourceforge": "kibria5",
-      "initial_installation_images": []
+      "telegram": "https://t.me/kibria5",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
