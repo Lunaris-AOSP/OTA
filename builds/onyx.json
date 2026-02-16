@@ -2,23 +2,27 @@
   "response": [
     {
       "maintainer": "Sachin",
-      "currently_maintained": true,
-      "oem": "POCO",
+      "oem": "Xiaomi",
       "device": "onyx",
-      "filename": "Lunaris-AOSP-onyx-OFFICIAL-3.6-Omni-2026011010.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/onyx/Lunaris-AOSP-onyx-OFFICIAL-3.6-Omni-2026011010.zip/download",
-      "timestamp": 1768040777,
-      "md5": "3e018371a2c1d5222f32c85de08e0119",
-      "sha256": "15f4648ece2485b391901a7762603520bedd2a1a8519ab1eb83b67976deabdc5",
-      "size": 4173581071,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-onyx-OFFICIAL-3.7-GMS-2026021604.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/onyx/Lunaris-AOSP-onyx-OFFICIAL-3.7-GMS-2026021604.zip/download",
+      "timestamp": 1771217612,
+      "md5": "fa5b29ea4b2efe605ca6b16d6682a716",
+      "sha256": "5724cbe6d02d697f3a44df98dd00337a63fcccc1480f252f35ec7b08d26f962a",
+      "size": 4275094810,
+      "version": "3.7",
       "buildtype": "user",
       "forum": "",
+      "gapps": "",
       "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "",
-      "github": "Sachinpawar86",
-      "sourceforge": "sachinpawar07",
-      "initial_installation_images": []
+      "telegram": "https://t.me/sachinpawar_07",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }

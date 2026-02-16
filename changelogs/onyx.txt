@@ -1,6 +1,11 @@
 Changelog
 =========
 
+16/02/2026
+----------
+- A16-QPR2 Build
+- Misc fixes and Improvement
+
 11/01/2026
 ----------
 
