@@ -1,6 +1,20 @@
 Changelog
 =========
 
+03/01/2026
+----------
+- Synced with latest source
+- Update WCNSS config from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys - LA.UM.10.2.1.r1-03400-sdm660.0
+- Added display config file (fixes sudden auto brightness changes)
+- Declare IMS libs as symlinks during extraction
+- Convert WiFi firmware symlinks to install_symlink targets
+- rro_overlays: Update from qcom
+- Drop explicit sdk_version declaration
+- Set default hotspot device name
+- Update wifi conf from qcom
+- Explicitly disable protected management frames
+- Many more underhood changes
+
 04/11/2025
 ----------
 - Synced with latest source

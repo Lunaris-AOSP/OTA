@@ -1,0 +1,26 @@
+{
+  "response": [
+    {
+      "maintainer": "Jiro",
+      "currently_maintained": true,
+      "oem": "POCO",
+      "device": "beryllium",
+      "filename": "Lunaris-AOSP-beryllium-OFFICIAL-3.6-Gapps-2026011409.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/beryllium/Lunaris-AOSP-beryllium-OFFICIAL-3.6-Gapps-2026011409.zip/download",
+      "timestamp": 1768383647,
+      "md5": "968854a92e6563b99433ffe60c9992d2",
+      "sha256": "903f38250f3c4ece4f8656b2cfbe3fc4642207c443e75bd5d825a80883d1b598",
+      "size": 2448525134,
+      "version": "3.6",
+      "buildtype": "user",
+      "forum": "https://t.me/ktdisscution",
+      "firmware": "https://xmfirmwareupdater.com/firmware/beryllium",
+      "paypal": "https://www.paypal.me/trumtihon",
+      "github": "jiro28",
+      "sourceforge": "jiro688",
+      "initial_installation_images": [
+        ""
+      ]
+    }
+  ]
+}
