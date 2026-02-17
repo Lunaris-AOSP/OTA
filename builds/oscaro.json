@@ -1,24 +1,28 @@
 {
   "response": [
     {
-      "maintainer": "Chethan(No_Cache)",
-      "currently_maintained": true,
-      "oem": "Oneplus",
-      "device": "Oneplus Nord CE2 Lite 5G",
-      "filename": "Lunaris-AOSP-oscaro-OFFICIAL-3.6-Gapps-2025120716.zip",
-      "download": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/Lunaris-AOSP-oscaro-OFFICIAL-3.6-Gapps-2025120716.zip",
-      "timestamp": 1765126137,
-      "md5": "e8c9d31ad1bbeccc7a1c1da1091169ae",
-      "sha256": "7baee70ba01833cd4cd9d2ebb065e8152be81c7c65f621405b009e23ff317f5a",
-      "size": 2651663888,
-      "version": "3.6",
+      "maintainer": "Chethan",
+      "oem": "OnePlus",
+      "device": "oscaro",
+      "filename": "Lunaris-AOSP-oscaro-Official-3.7-GMS-2026021715.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/oscaro/Lunaris-AOSP-oscaro-Official-3.7-GMS-2026021715.zip/download",
+      "timestamp": 1771342369,
+      "md5": "08f7d13a267eeb01366f4ec9b803559d",
+      "sha256": "691d0c4145038f741f1e8503c0c400dd360b102da97468364b7948b83483d733",
+      "size": 2886737615,
+      "version": "3.7",
       "buildtype": "user",
       "forum": "https://t.me/oscaro_aosp",
+      "gapps": "",
       "firmware": "",
-      "paypal": "",
-      "github": "NoCache-69",
-      "sourceforge": "no-cache",
-      "initial_installation_images": []
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/nocache",
+      "telegram": "https://t.me/No_Cache",
+      "dt": "https://github.com/oscaro-resources/device_oneplus_oscaro.git",
+      "common-dt": "https://github.com/oscaro-resources/device_oneplus_sm6375-common.git",
+      "kernel": "https://github.com/oscaro-resources/android_kernel_oneplus_sm6375.git"
     }
   ]
 }
