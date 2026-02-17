@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "OscarM1019",
+      "oem": "OnePlus",
+      "device": "dodge",
+      "filename": "Lunaris-AOSP-dodge-OFFICIAL-3.7-GMS-2026021623.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/dodge/Lunaris-AOSP-dodge-OFFICIAL-3.7-GMS-2026021623.zip/download",
+      "timestamp": 1771284937,
+      "md5": "1546228af00caa45d13e09a031e6fb76",
+      "sha256": "e1e2fb3664f1776949ef1604eafdf4852d4576cd53c88d315113be22425ea899",
+      "size": 4336904977,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/OscarM1019",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.me/osmjr1019",
+      "telegram": "https://t.me/OP13CustomRoms/5696",
+      "dt": "https://github.com/osm1019/device_oneplus_dodge",
+      "common-dt": "https://github.com/osm1019/device_oneplus_sm8750-common",
+      "kernel": "https://github.com/osm1019/android_kernel_oneplus_sm8750"
+    }
+  ]
+}

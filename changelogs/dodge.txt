@@ -1,0 +1,7 @@
+Changelog
+=========
+
+02/16/2026
+---------------   
+- Initial Official release
+- Added Amber Kernel (LOS kernel with a few tweaks)
