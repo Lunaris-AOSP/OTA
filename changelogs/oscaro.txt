@@ -1,33 +1,10 @@
 Changelog
 =========
 
-07/12/2025
+17/02/2026
 ---------------
-- Synced with latest source
-- Added offline charging support
-
-05/11/2025
----------------
-- Synced with latest source
-- Fixed dolby crash
-- Updated firmware version to CPH2381_14.0.0.2400(EX01)
-- Remove some unwanted gms packages
-- Enabled battery cycle count
-- Enable VoNR calls support
-
-11/10/2025
----------------
-- Synced with latest source
-- Update KSU-Next to v1.1.1
-
-20/09/2025
----------------
-- Add support for AoD
-- Switch to Sony Dolby(OSS UI)
-- Synced with latest source
-
-02/09/2025
----------------
-- Initial Official release
-- Added Moto Dolby
-- Added Viper4Android
+- Synced with latest source (QPR2)
+- Merged BPF patches from kernel v5.10
+- Included OOS camera
+- New DolbyUI implementation
+- Upstream kernel version to v5.4.302
