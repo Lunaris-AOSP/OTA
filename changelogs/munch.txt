@@ -3,6 +3,12 @@ Changelog
 
 06/01/2026
 ----------
+- A16-QPR2 Build
+- Misc fixes and Improvement
+- CLEAN FLASH NEEDED!!!!
+
+06/01/2026
+----------
 - CLEAN FLASH NEEDED!!!!
 - Rebase whole trees
 - Use Lunaris Dolby Atmos
