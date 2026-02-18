@@ -1,6 +1,12 @@
 Changelog
 =========
 
+17/02/2026
+--------------
+- Droped Switch to 64-bit only
+- Fixed Screen Recoding Not Save issue
+- Fixed Social Media Apps Picture & Video not Uploading issue
+
 21/01/2026
 --------------
 - Synced Latest Source
