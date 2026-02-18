@@ -1,6 +1,13 @@
 Changelog
 =========
 
+02/17/2026
+---------------  
+- Update Rom Source to Latest
+- Add Missing Config for Alert Slider
+- Add CrDroid LTPO
+- Add more Kernel Tweaks
+
 02/16/2026
 ---------------   
 - Initial Official release
