@@ -1,6 +1,17 @@
 Changelog
 =========
 
+19/02/2026
+----------
+- Synced with latest source
+- Disable NL80211_REG_CHANGED event
+- Opt out of speaker_layout_channel_mask field
+- Improve surfaceflinger Service
+- Set systemui/server dex profiles to performance
+- audio: Remove FM Tuner from input devices
+- Disable backpressure prop
+- Many more underhood changes
+
 03/01/2026
 ----------
 - Synced with latest source

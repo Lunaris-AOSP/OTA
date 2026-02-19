@@ -2,23 +2,27 @@
   "response": [
     {
       "maintainer": "Arijit Saha",
-      "currently_maintained": true,
       "oem": "Xiaomi",
       "device": "whyred",
-      "filename": "Lunaris-AOSP-whyred-OFFICIAL-3.6-Gapps-2026010310.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/whyred/Lunaris-AOSP-whyred-OFFICIAL-3.6-Gapps-2026010310.zip/download",
-      "timestamp": 1767435595,
-      "md5": "fb740f5b91f8010d12027fc40eb22d71",
-      "sha256": "db49b70a76272c8c541adb0fc6dbe04f93fc114f945c319b2a73743f51097925",
-      "size": 2547384785,
-      "version": "3.6",
+      "filename": "Lunaris-AOSP-whyred-OFFICIAL-3.7-GMS-2026021904.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/whyred/Lunaris-AOSP-whyred-OFFICIAL-3.7-GMS-2026021904.zip/download",
+      "timestamp": 1771474717,
+      "md5": "325e4aacb333f89950050f85ad893832",
+      "sha256": "94d4ad1f17668071bd287e76ece3f8ec1b79c4de8fe1c6f238752270423002d3",
+      "size": 2739494788,
+      "version": "3.7",
       "buildtype": "userdebug",
       "forum": "",
+      "gapps": "",
       "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "",
-      "github": "Arijit78",
-      "sourceforge": "whyred-404",
-      "initial_installation_images": []
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }
