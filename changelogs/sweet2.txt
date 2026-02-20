@@ -1,0 +1,9 @@
+Changelog
+=========
+
+20/02/2026
+----------
+- Synced with latest source
+- Improve surfaceflinger Service
+- Using latest MeMeDo Kernel KSUN 3.0.1 builtin
+- Many more underhood changes

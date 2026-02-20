@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "MiDoNaSR",
+      "oem": "Xiaomi",
+      "device": "Sweet2",
+      "filename": "Lunaris-AOSP-sweet2-OFFICIAL-3.7-GMS-2026022015.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/sweet2/Lunaris-AOSP-sweet2-OFFICIAL-3.7-GMS-2026022015.zip/download",
+      "timestamp": 1771474717,
+      "md5": "413d572d6a36f6d4cd26a1cec8e9a16f",
+      "sha256": "a76a79d7fc861e973514f4635d6da1dd79a7e77d2cb3b9390d2d8f582aeae575",
+      "size": 2651858066,
+      "version": "3.7",
+      "buildtype": "userdebug",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
