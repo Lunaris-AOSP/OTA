@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Pyrtle93",
+      "currently_maintained": true,
+      "oem": "Google",
+      "device": "tokay",
+      "filename": "Lunaris-AOSP-tokay-OFFICIAL-3.7-GMS-2026022122.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/tokay/16/gapps/Lunaris-AOSP-tokay-OFFICIAL-3.7-GMS-2026022122.zip/download",
+      "timestamp": 1771712718,
+      "md5": "697eeac20b10822af981aec8cae7c72d",
+      "sha256": "dba25cfeef17791c62a8af11e747d53bd3155fdad6348962dd9d803a431a0916",
+      "size": 3175456347,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/PyrtlesPixels",
+      "paypal": "https://www.paypal.com/paypalme/Pyrtle93",
+      "telegram": "https://t.me/Pyrtle93",
+      "dt": "https://github.com/PisselShit/device_google_zumapro",
+      "common-dt": "https://github.com/PisselShit/device_google_caimito",
+      "kernel": "https://codeberg.org/Pyrtle93/device_google_caimito-kernels"
+    }
+  ]
+}
