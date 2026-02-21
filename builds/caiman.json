@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Pyrtle93",
+      "oem": "Google",
+      "device": "caiman",
+      "filename": "Lunaris-AOSP-caiman-OFFICIAL-3.7-GMS-2026022122.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/caiman/16/gapps/Lunaris-AOSP-caiman-OFFICIAL-3.7-GMS-2026022122.zip/download",
+      "timestamp": 1771712149,
+      "md5": "4edee3cacbcfcbecaa1d08497733eb30",
+      "sha256": "a9a30dfa11c477bc1b19f8b0bc5a1f14e6f57485b08a5c19a945161dcc08835d",
+      "size": 3183587431,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/PyrtlesPixels",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.com/paypalme/Pyrtle93",
+      "telegram": "https://t.me/Pyrtle93",
+      "dt": "https://github.com/PisselShit/device_google_zumapro",
+      "common-dt": "https://github.com/PisselShit/device_google_caimito",
+      "kernel": "https://codeberg.org/Pyrtle93/device_google_caimito-kernels"
+    }
+  ]
+}
