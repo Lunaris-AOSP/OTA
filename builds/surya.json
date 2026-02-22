@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "NothingHere",
+      "oem": "Xiaomi",
+      "device": "surya",
+      "filename": "Lunaris-AOSP-surya-OFFICIAL-3.7-GMS-2026022118.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/surya/Lunaris-AOSP-surya-OFFICIAL-3.7-GMS-2026022118.zip/download",
+      "timestamp": 1771697958,
+      "md5": "dd63a3c35f4e7e9fb64683432a20b974",
+      "sha256": "eff76fbf07411ee845f6fd0e79b3eda5cd683c78fba7d4d04411eed1bb08df08",
+      "size": 2898066001,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/RandomDiscussions69",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/NothingHere6969",
+      "dt": "https://github.com/NothingHere69/device_xiaomi_surya.git",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

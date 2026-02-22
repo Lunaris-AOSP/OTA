@@ -1,0 +1,9 @@
+Changelog
+=========
+
+22/02/2026
+---------------
+- Initial QPR2 Official Release
+- Included Beast Kernel with KernelSU-Next v3.0.1
+- Included Leica Cam 
+- Added Lunaris Dolby
