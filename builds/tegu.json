@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Pyrtle93",
+      "oem": "Google",
+      "device": "tegu",
+      "filename": "Lunaris-AOSP-tegu-OFFICIAL-3.7-GMS-2026022122.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/tegu/16/gapps/Lunaris-AOSP-tegu-OFFICIAL-3.7-GMS-2026022122.zip/download",
+      "timestamp": 1771713490,
+      "md5": "1c8a3fb70f9aeccb9b952f32c9b912a0",
+      "sha256": "a43626ed211d23db67c8d1fd1d558c045d6fb143706d33efd17684d84cac9334",
+      "size": 2985816755,
+      "version": "3.7",
+      "buildtype": "user",
+      "forum": "https://t.me/PyrtlesPixels",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.com/paypalme/Pyrtle93",
+      "telegram": "https://t.me/Pyrtle93",
+      "dt": "https://github.com/PisselShit/device_google_zumapro",
+      "common-dt": "https://github.com/PisselShit/device_google_tegu",
+      "kernel": "https://codeberg.org/Pyrtle93/device_google_tegu-kernels"
+    }
+  ]
+}
