@@ -1,6 +1,14 @@
 Changelog
 =========
 
+22/02/2026
+---------------
+- GPU limit in Flipendo battery saver
+- powerhint: FIXED_PERFORMANCE action
+- powerhint: improve FG interaction boost
+- increase LAUNCH BW duration
+- Dropped SuvMusic (user app now)
+
 13/02/2026
 ---------------
 - sepolicy: allow power HAL to access cpu_dma_latency
