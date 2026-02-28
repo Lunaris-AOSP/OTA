@@ -1,15 +1,15 @@
 Changelog
 =========
 
-19/01/26
+28/02/26
 ---------------
-- Vanilla build available
-- Dolby atmos changes from lunaris dolby
-- Included fixes for nos cam (only portrait and night mode are broken>
-- Silenced some log spams
-- Device as webcam service enabled
-
-01/01/2026
----------------   
-- Initial Official release
-- Added sony dolby
+- Synced with latest source (QPR2)
+- Merged BPF patches from kernel v5.10 and Upstream kernel version to v5.4.302
+- Device as webcam works perfectly now 
+- Glpyh related chnages from pong devlopment
+- Whitelist permissions for ParanoidGlyph
+- Kernel level tweaks 
+- Set SurfaceFlinger uclamp.min to 20%
+- Silenced some spammy logging
+- Disable high performance transitions
+- Reduce blur radius
