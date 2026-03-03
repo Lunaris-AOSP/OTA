@@ -4,13 +4,13 @@
       "maintainer": "Samarth",
       "oem": "Nothing",
       "device": "Spacewar",
-      "filename": "Lunaris-AOSP-Spacewar-OFFICIAL-3.7-GMS-2026022815.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/Spacewar/Lunaris-AOSP-Spacewar-OFFICIAL-3.7-GMS-2026022815.zip/download",
-      "timestamp": 1772290800,
-      "md5": "fd2f73fc062ee03d5496ea5f84d0b4bc",
-      "sha256": "1a3bf9a539ce04a539388d1ffbca42bc73094c1c",
-      "size": 2727304233,
-      "version": "3.7",
+      "filename": "Lunaris-AOSP-Spacewar-OFFICIAL-3.8-GMS-2026030315.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Spacewar/Lunaris-AOSP-Spacewar-OFFICIAL-3.8-GMS-2026030315.zip/download",
+      "timestamp": 1772551529,
+      "md5": "fcd2a7359c05f718637028fe2c50a6ca",
+      "sha256": "309682dcac35697b0561575731f26cbacd670cc6",
+      "size": 2721359095,
+      "version": "3.8",
       "buildtype": "user",
       "forum": "https://t.me/smrthbuilds",
       "gapps": "",
@@ -22,7 +22,7 @@
       "telegram": "t.me/smrth097",
       "dt": "https://github.com/smrth097/android_device_nothing_Spacewar.git",
       "common-dt": "",
-      "kernel": "https://github.com/smrth097/kernel_nothing_sm7325.git",
+      "kernel": "https://github.com/smrth097/kernel_nothing_sm7325.git"
     }
   ]
 }
