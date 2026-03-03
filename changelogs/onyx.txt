@@ -1,6 +1,24 @@
 Changelog
 =========
 
+03/03/2026
+----------
+- Add missing system library
+- Bring back Dolby Audio
+- Drop deprecated I/O Prefetcher from init
+- Introduce TouchSamplingService for stable touch sampling reapply
+- Add High Touch Polling Rate support
+- Fix ClassCastException in DfWrapper
+- Start Parts services as early as possible during boot
+- Rewrite & cleanup Miui ColorServices
+- Set standard display color mode in AOD
+- Introduce DisplayFeature Color Service and enable MIUI color modes
+- Reapply: Update overrideHdrTypes API for Android U
+- Reapply: Override HDR types for Dolby Vision
+- Set correct FPSInfoService sysfs node for primary CRTC
+- Remove unnecessary build flags
+- Update UDFPS customization flags
+
 16/02/2026
 ----------
 - A16-QPR2 Build
