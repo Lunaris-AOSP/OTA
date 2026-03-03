@@ -1,6 +1,11 @@
 Changelog
 =========
 
+03/03/2026
+---------------
+- Synced with latest source
+- Improved Deepsleep and idle drain
+
 17/02/2026
 ---------------
 - Synced with latest source (QPR2)
