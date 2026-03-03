@@ -1,6 +1,15 @@
 Changelog
 =========
 
+03/03/26
+---------------
+- Synced with latest source
+- Vanilla build available
+- Import qcom perf boosts in powerhint
+- Enable battery cycle overlay
+- Improve status bar visual consistency
+- Improved keyguard indicator margin bottom
+
 28/02/26
 ---------------
 - Synced with latest source (QPR2)
