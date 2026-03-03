@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Sachin",
+      "oem": "Xiaomi",
+      "device": "onyx",
+      "filename": "Lunaris-AOSP-onyx-OFFICIAL-3.8-VANILLA-2026030308.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/onyx/vanilla/Lunaris-AOSP-onyx-OFFICIAL-3.8-VANILLA-2026030308.zip/download",
+      "timestamp": 1772526813,
+      "md5": "ff71d31c6a0731a294138d0121fc5f75",
+      "sha256": "c8d46fb2653b1ad10dadf40cf9b481cebc95af794ab5a06488f30294ff839daa",
+      "size": 3526058901,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/Android-16/22-Feb-2026/",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/sachinpawar_07",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
