@@ -1,5 +1,14 @@
 Changelog
 =========
+03/03/2026
+---------------
+- Add missing system blobs for PowerOffAlarm
+- Enable apk fs-verity
+- Disable clinet composition cache
+- Neverallow app open access to /dev/ashmem
+- KSUN v3.1.0 & SUSFS v2.0.0 Included
+- FW included
+
 15/02/2026
 ---------------
 - A16-QPR2 Build
