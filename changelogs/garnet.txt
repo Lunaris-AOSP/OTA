@@ -1,5 +1,15 @@
 Changelog
 =========
+04/03/2026
+---------------
+- Added toggle for eSIM
+- Corrected eSIM perms
+- Fixed BLE devices pairing
+- Kernel upstream
+- Enable apk fs-verity
+- KSUN v3.1.0 & SUSFS v2.0.0 Included
+- Misc fixes and Improvement
+
 15/02/2026
 ---------------
 - A16-QPR2 Build
