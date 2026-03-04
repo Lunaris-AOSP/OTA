@@ -1,6 +1,13 @@
 Changelog
 =========
 
+04/03/2026
+--------------
+- Synced Latest Source
+- Fixed Black Screen issue with Fingerprint Unlocking
+- Switched To Sedona Kernel
+- Minor improvement & Lag Free
+
 17/02/2026
 --------------
 - Droped Switch to 64-bit only
