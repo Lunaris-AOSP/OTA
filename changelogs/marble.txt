@@ -1,6 +1,19 @@
 Changelog
 =========
 
+05/03/2026
+---------------
+- Import pinned service libs from AOSPA
+- Drop force triple frame buffers
+- Perform a synchronized wake for waiting processes
+- arm64: cache: Lower ARCH_DMA_MINALIGN to 64 bytes
+- goodix: Fix memory leak
+- goodix: Handle properly IRQ wake
+- custom: Enable power efficient workqueues
+- goodix: Fix free input device twice
+- goodix: Avoid allocating memory frequently
+- touch: goodix: Handle properly IRQ wake
+
 22/02/2026
 ---------------
 - GPU limit in Flipendo battery saver
