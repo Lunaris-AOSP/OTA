@@ -1,5 +1,18 @@
 Changelog
 =========
+08/03/2026
+----------
+- Synced with latest source
+- Using latest MeMeDo Kernel KSUN 3.0.1 builtin
+- Restrict apps access to /proc/net/unix ( Helps in root detection)
+- Update XiaomiParts from sm8450
+- Enable display smooth motion
+- Disable phantom processing
+- Update CPU variant
+- Enable Qualcomm TrueWireless™ Stereo
+- Fixed heating
+- Fixed fastcharging
+- Many more underhood changes
 
 20/02/2026
 ----------
