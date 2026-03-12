@@ -1,6 +1,12 @@
 Changelog
 =========
 
+12/03/2025
+----------
+- Initial official release again
+- Synced with latest source
+- KernelSU-Next by default
+
 24/09/2025
 ---------
 - Synced with latest source
