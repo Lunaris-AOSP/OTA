@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Arijit Saha",
+      "oem": "OnePlus",
+      "device": "giuliac",
+      "filename": "Lunaris-AOSP-giuliac-OFFICIAL-3.8-GMS-2026031205.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/giuliac/Lunaris-AOSP-giuliac-OFFICIAL-3.8-GMS-2026031205.zip/download",
+      "timestamp": 1773294374,
+      "md5": "fd74637f8658a3e4a86722fc45119357",
+      "sha256": "6fd0b79d13062aca00495e833da5a9559580b657d9586122286d5926b9974143",
+      "size": 4117590929,
+      "version": "3.8",
+      "buildtype": "userdebug",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

@@ -2,23 +2,27 @@
   "response": [
     {
       "maintainer": "Arijit Saha",
-      "currently_maintained": true,
       "oem": "OnePlus",
       "device": "giulia",
-      "filename": "Lunaris-AOSP-giulia-OFFICIAL-3.3-Gapps-2025092314.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/giulia/Lunaris-AOSP-giulia-OFFICIAL-3.3-Gapps-2025092314.zip/download",
-      "timestamp": 1758638548,
-      "md5": "1d8e0d35cc60fd8a6de6cff77074508b",
-      "sha256": "5541e78d75e361f71986fbedd5d31668089702543961aa8bef269c6dde556aea",
-      "size": 3401332654,
-      "version": "3.3",
-      "buildtype": "user",
+      "filename": "Lunaris-AOSP-giulia-OFFICIAL-3.8-GMS-2026031205.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/giulia/Lunaris-AOSP-giulia-OFFICIAL-3.8-GMS-2026031205.zip/download",
+      "timestamp": 1773293116,
+      "md5": "378518a166685f2de3bcd4404458baa9",
+      "sha256": "ad2f644253be4264b37be478ae873280d1179fcf6c0fd5fd234fe8b4b3f697a1",
+      "size": 4088905619,
+      "version": "3.8",
+      "buildtype": "userdebug",
       "forum": "",
+      "gapps": "",
       "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "",
-      "github": "Arijit78",
-      "sourceforge": "whyred-404",
-      "initial_installation_images": []
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
     }
   ]
 }

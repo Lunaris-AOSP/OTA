@@ -1,0 +1,8 @@
+Changelog
+=========
+
+12/03/2026
+----------
+- Initial official release again
+- Synced with latest source
+- Added kernelSU-Next by default
