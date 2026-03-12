@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Jiro",
+      "oem": "Samsung",
+      "device": "a52sxq",
+      "filename": "Lunaris-AOSP-a52sxq-OFFICIAL-3.8-GMS-2026031212.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/a52sxq/Lunaris-AOSP-a52sxq-OFFICIAL-3.8-GMS-2026031212.zip/download",
+      "timestamp": 1773317124,
+      "md5": "01b1e5ad522d68b2ada02e02bf8639a3",
+      "sha256": "a1348b096157a0fb4ab7ef1f0897f7b13bf3d2d4a8e2d738b75cf8b14746c846",
+      "size": 2502915291,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.me/trumtihon",
+      "telegram": "https://t.me/ktcommunity1",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
