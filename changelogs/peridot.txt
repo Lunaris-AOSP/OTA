@@ -1,5 +1,22 @@
 Changelog
 =========
+12/03/2026
+---------------
+- Switch to armv8-2a-dotprod arch variant
+- Manually place msm_drm and msm_kgsl_3d0 IRQs
+- Enable uclamp latency_sensitive for top-app
+- Import cgroup tuning from gs101
+- Disable multiple kswapd threads
+- Chown the cgroup.procs nodes
+- Optimize cpuset configuration
+- Defer refresh rate changes when screen is off
+- Disable skia tracing
+- Tune adaptive suspend proprieties
+- tune sf region sampling
+- Increase CPU Boost duration from 120ms to 200ms
+- Tweak input boost
+- Enable adpf cpu hint session for SurfaceFlinger and HWUI
+
 03/03/2026
 ---------------
 - Add missing system blobs for PowerOffAlarm
