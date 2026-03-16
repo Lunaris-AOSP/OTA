@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Drxkaii",
+      "oem": "Xiaomi",
+      "device": "Miatoll",
+      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-3.8-GMS-2026031605.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-3.8-GMS-2026031605.zip/download",
+      "timestamp": 1773639910,
+      "md5": "2ed619fd323512dcc295187beb0d4dcc",
+      "sha256": "2c3c2dcf4e2911c2d4f0e0f8b31b71c572fcaa9558857398e37cb91862b217e8",
+      "size": 2706715758,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/drxkaii",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
