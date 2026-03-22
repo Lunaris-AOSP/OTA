@@ -1,6 +1,19 @@
 Changelog
 =========
 
+22/03/2026
+---------------
+- Remove trailing slashes from device.mk
+- Enable auto_latch_unsignaled for V
+- Set SurfaceFlinger uclamp.min to 20% - improved rendering stability
+- Drop debug.sf.latch_unsignaled property
+- Disable EGL image tracking
+- drop sched_boost and fix uclamp override
+- powerhint: adjust sched boost and uclamp thresholds for interaction
+- Defer refresh rate changes when screen is off
+- Bluetooth: Move PAN properties to system_ext
+- Bluetooth: Set "bluetooth.auto_connect_profiles.enabled" to true
+
 05/03/2026
 ---------------
 - Import pinned service libs from AOSPA
