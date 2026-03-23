@@ -1,6 +1,50 @@
 Changelog
 =========
 
+23/03/2026
+----------
+- gamebar: Add device-specific (ONYX) thermal nodes and permissions
+- gamebar: Update version to 15.1
+- overlay: Reorder advanced reboot actions options
+- overlay: Import stock brightness sensor calibration
+- overlay: Convert config_screenBrightnessDoze to float
+- init: Add power_state
+- init: Remove gps related folder creation
+- init: Remove the sysfs entries for subsystem ramdump
+- init: Add user to power_off_alarm exec
+- init: Add UID for service wifi-sdio-on
+- init: Removing qlogd service as it's not needed anymore
+- init: Add user root permissions in rc file for dumpstate
+- init: Remove move wifi data service
+- init: Remove mdm_launcher service
+- Remove wigig components
+- ueventd.rc: Add permissions for msm_lsm cdev
+- init: Remove QCOM system daemon service
+- Move testscripts file from main rc to test rc
+- rootdir: Tighten /dev/uhid permissions
+- rootdir: Fix chown used instead of chmod for metis parameters
+- rootdir: Remove duplicate mi-serial-sh and dead device references
+- Remove unused init.qcom.class_core script
+- properties: Remove duplicate definition prop
+- sepolicy: Allow SystemUI to read display properties
+- sepolicy: Allow hal_power_default to access IThermal
+- sepolicy: Label authsecret to fine suspend service
+- sepolicy: Address vendor_qti_init_shell for sysfsfile
+- Allow qti init shell to open/write page cluster size
+- init: Increase nr_requests to 256
+- Setup HWUI COMPILE FOR PERF flag
+- Add LMKD properties
+- sepolicy: Fix SELinux denial for P3 color mode property
+- sepolicy: Fix labelling on miui color modes
+- sepolicy: Label miui color modes
+- rootdir: Optimize sched_lib_name
+- Remove duplicate bluetooth.hfp.codec_aptx_voice.enabled prop
+- Enable bluetooth avrcp controller profile
+- audio: Enable volume listeners for voice, ring, alarm and notification streams
+- fixup: Import qcom perf boosts into powerhint.json
+- Update from OS3.0.6.0.WOLMIXM
+- overlay: Remove Dialer overlay
+
 03/03/2026
 ----------
 - Add missing system library
