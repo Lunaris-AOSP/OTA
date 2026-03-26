@@ -1,5 +1,10 @@
 Changelog
 =========
+25/03/2026
+---------------
+- Sync with latest source (till: https://t.me/lunaris_dailyUP/725)
+- Misc fixes and Improvement
+
 12/03/2026
 ---------------
 - Switch to armv8-2a-dotprod arch variant
