@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "xioyo",
+      "oem": "Google",
+      "device": "raven",
+      "filename": "Lunaris-AOSP-raven-OFFICIAL-3.8-GMS-2026032521.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/raven/Lunaris-AOSP-raven-OFFICIAL-3.8-GMS-2026032521.zip/download",
+      "timestamp": 1774473159,
+      "md5": "abbdc9ef97fb2388b987aa183590fac2",
+      "sha256": "7ec921c296ae79f51510c45914f55cecf273a99bd902e6a6d29e766e81601171",
+      "size": 3029708272,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "https://t.me/xoversechat",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/sufiyan777",
+      "telegram": "https://t.me/xioyo",
+      "dt": "https://github.com/xioyo/android_device_google_raviole",
+      "common-dt": "https://github.com/xioyo/android_device_google_gs101",
+      "kernel": "https://github.com/Biohazardousrom/device_google_raviole-kernels_6.1"
+    }
+  ]
+}

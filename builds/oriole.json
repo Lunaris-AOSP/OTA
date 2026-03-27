@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "xioyo",
+      "oem": "Google",
+      "device": "oriole",
+      "filename": "Lunaris-AOSP-oriole-OFFICIAL-3.8-GMS-2026032323.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/oriole/Lunaris-AOSP-oriole-OFFICIAL-3.8-GMS-2026032323.zip/download",
+      "timestamp": 1774308817,
+      "md5": "7343060724cdf230eae6942d9f1082fb",
+      "sha256": "dd0f61faa130dc552d561fc036672ff02fb823da0f7e022937a2d096e7bed9f5",
+      "size": 3027798170,
+      "version": "3.8",
+      "buildtype": "user",
+      "forum": "https://t.me/xoversechat",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/sufiyan777",
+      "telegram": "https://t.me/xioyo",
+      "dt": "https://github.com/xioyo/android_device_google_raviole",
+      "common-dt": "https://github.com/xioyo/android_device_google_gs101",
+      "kernel": "https://github.com/Biohazardousrom/device_google_raviole-kernels_6.1"
+    }
+  ]
+}
