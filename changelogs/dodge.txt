@@ -1,6 +1,12 @@
 Changelog
 =========
 
+03/30/2026
+---------------
+-Update Rom Source to latest
+-Readded Wild KSU Pre Root kernel With SUSFS
+-Updated Device Source and Kernel to latest F86
+
 03/13/2026
 ---------------
 -Update Rom Source to Latest
