@@ -1,5 +1,10 @@
 Changelog
 =========
+01/04/2026
+---------------
+- Synced Latest Source Changes
+- Upstreamed kernel to 4.14.357
+
 05/03/2026
 ---------------
 - Synced Latest Source Changes
