@@ -1,6 +1,11 @@
 Changelog
 =========
 
+01/04/2026
+----------
+- Synced Latest Source Changes
+- Workaround Qualcomm RIL disabling of cellular 464XLAT on IPv6-only carrier networks
+
 16/03/2026
 ----------
 - Initial official release
