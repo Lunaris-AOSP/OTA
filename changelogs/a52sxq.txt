@@ -1,6 +1,18 @@
 Changelog
 =========
 
+04/04/2026
+----------
+- Synced Latest Source
+- kernel:
+    + migrated from ResukiSU to KernelSU Next with SuSFS v2.1.0
+    + improve system stability and performance
+    + fix random issues and minor bugs
+    + clean up and optimize kernel code
+    + misc improvements
+- powerhint: tune for Adreno 642L bin 2 and add camera hints
+- common vendor: perf: align perfboostsconfig with firmware A736B
+
 12/03/2026
 ----------
 - Initial official release
