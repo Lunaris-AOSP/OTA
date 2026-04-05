@@ -1,6 +1,32 @@
 Changelog
 =========
 
+05/04/2026
+----------
+- gamebar: Update version to 15.5
+- init: Give proper permissions for /dev/diag
+- Allow access to measured_fps sysfs node
+- overlay: Disable UI touch sounds by default
+- rootdir: Don't install test apps
+- rootdir: rm package cache on early boot
+- Update frame rate settings and refine build flags
+- Setup permissions on smart_night xm_power node
+- Switch to dummy mcharge service
+- Reverse micharge ndk interface
+- overlay: Provide MIUI color mode options
+- sepolicy: Allow parts to use displayfeature
+- Introduce displayfeature color service for MIUI color modes
+- Reverse displayfeature_aidl ndk interface
+- Implement HTSR toggle
+- Bump touch sampling rates
+- Switch to new soong var for xiaomi biometrics
+- Remove fwk-detect lib from PRODUCT_PACKAGES
+- init: Set dex2oat thread count and cpuset
+- Set force_sysfs_fallback=1 sysctl via cmdline
+- Fix battery and USB OTG detection
+- init: Remove useless ptt_socket_app
+- init: Remove useless esepmdaemon
+
 23/03/2026
 ----------
 - gamebar: Add device-specific (ONYX) thermal nodes and permissions
