@@ -1,0 +1,9 @@
+Changelog
+=========
+
+09/04/2026
+---------------   
+- Initial Official release
+
+Note:
+* clean flash from previous unofficial build, sign key has been changed

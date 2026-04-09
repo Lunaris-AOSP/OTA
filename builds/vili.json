@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "swiitchOFF",
+      "oem": "Xiaomi",
+      "device": "vili",
+      "filename": "Lunaris-AOSP-vili-OFFICIAL-3.9-GMS-2026040904.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/vili/Lunaris-AOSP-vili-OFFICIAL-3.9-GMS-2026040904.zip/download",
+      "timestamp": 1775707868,
+      "md5": "9134af90a4064046b84814ee96c2c888",
+      "sha256": "5ae1c126df0ac2063498f3e62edcb86ff2e605090659621f8427b378a31961ca",
+      "size": 3284406079,
+      "version": "3.9",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://buymeacoffee.com/iamswiitchoff",
+      "telegram": "https://t.me/+d9Y_N7yuDpxkMmE1",
+      "dt": "https://github.com/Spanish-or-Vanish/device_xiaomi_vili",
+      "common-dt": "https://github.com/Spanish-or-Vanish/android_device_xiaomi_sm8350-common",
+      "kernel": "https://github.com/Spanish-or-Vanish/kernel_xiaomi_sm8350"
+    }
+  ]
+}
