@@ -1,0 +1,15 @@
+Changelog
+=========
+
+09/04/2026
+---------------
+- Synced with latest source
+- Tuned powerhint for better performance and smoothness
+- Included Leica camera v5
+- Added flashlight strength control
+- Included DolbyAtmos (Lunaris UI) & Viper4Android
+
+**IMPORTANT NOTES**
+> Clean flash mandatory from any previous builds
+> Format data from recovery after first boot to avoid storage permission issues
+> Recommended firmware: Latest A11 firmware based on your region
