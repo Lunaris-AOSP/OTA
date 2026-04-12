@@ -1,5 +1,13 @@
 Changelog
 =========
+12/04/2026
+---------
+- Switched to OSS HWC
+- Fixed vibration strength & duration
+- Fixed BT Audio
+- Switched to Dolby
+- Misc changes
+
 21/11/2025
 ---------
 - Added GameBar

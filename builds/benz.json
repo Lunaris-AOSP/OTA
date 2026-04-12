@@ -1,24 +1,28 @@
 {
   "response": [
     {
-      "maintainer": "ReaperLord",
-      "currently_maintained": true,
+      "maintainer": "ReaperLord10",
       "oem": "OnePlus",
       "device": "benz",
-      "filename": "Lunaris-AOSP-benz-OFFICIAL-3.5-Gapps-2025112113.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/benz/Lunaris-AOSP-benz-OFFICIAL-3.5-Gapps-2025112113.zip/download",
-      "timestamp": 1763732346,
-      "md5": "4c683a6be6be795180f0492495c1c687",
-      "sha256": "47aff359a91cb57edf14ef1c381dc5243a9127ea61061aa3c3c81a0e9172ff67",
-      "size": 3757037907,
-      "version": "3.5",
+      "filename": "Lunaris-AOSP-benz-OFFICIAL-3.9-GMS-2026041209.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/benz/Lunaris-AOSP-benz-OFFICIAL-3.9-GMS-2026041209.zip/download",
+      "timestamp": 1775973766,
+      "md5": "357e61df1e777d9a656761d97bc092bc",
+      "sha256": "3d087abaae444aeb4d157ef19e65ddc245e65d3d86026cc7752b661813de91d4",
+      "size": 3563570567,
+      "version": "3.9",
       "buildtype": "userdebug",
       "forum": "https://t.me/ReaperLord10",
+      "gapps": "",
       "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
       "paypal": "",
-      "github": "reaperlord10",
-      "sourceforge": "reaperlord10",
-      "initial_installation_images": []
+      "telegram": "https://t.me/ReaperLord10",
+      "dt": "https://github.com/reaperlord10/android_device_oneplus_benz",
+      "common-dt": "",
+      "kernel": "https://github.com/reaperlord10/android_kernel_oneplus_sm8550"
     }
   ]
 }
