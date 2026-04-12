@@ -1,6 +1,10 @@
 Changelog
 =========
 
+04/12/2026
+---------------
+-Sync With Latest Rom Source
+
 03/30/2026
 ---------------
 -Update Rom Source to latest
