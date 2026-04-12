@@ -1,6 +1,15 @@
 Changelog
 =========
 
+12/04/2026
+---------------
+- powerhint: optimize sustained performance frequencies and GPU utilization
+- powerhint: improve interaction boost and scheduler responsiveness
+- powerhint: enhance expensive rendering performance profile
+- Reduce surfaceflinger min uclamp value
+- Hos 3 fw included
+
+
 22/03/2026
 ---------------
 - Remove trailing slashes from device.mk
