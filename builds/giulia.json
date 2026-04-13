@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "maintainer": "Arijit Saha",
+      "maintainer": "0mar",
       "oem": "OnePlus",
       "device": "giulia",
-      "filename": "Lunaris-AOSP-giulia-OFFICIAL-3.8-GMS-2026031619.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/giulia/Lunaris-AOSP-giulia-OFFICIAL-3.8-GMS-2026031619.zip/download",
-      "timestamp": 1773689871,
-      "md5": "992e23248c4aaba638cb8597571d39ba",
-      "sha256": "f4b3561dc3ff784e1fa82381846752baa23e479b5fa04c9f7c35c31758eb7f89",
-      "size": 4077058597,
-      "version": "3.8",
+      "filename": "Lunaris-AOSP-giulia-OFFICIAL-3.9-GMS-2026041320.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/giulia/Lunaris-AOSP-giulia-OFFICIAL-3.9-GMS-2026041320.zip/download",
+      "timestamp": 1776111711,
+      "md5": "74b262e9531efeb11672528092ff734f",
+      "sha256": "603ae53bb7bde994e3a956250c8fd0e684d3946e98c3904fdf2a50bc22949cc2",
+      "size": 4113623790,
+      "version": "3.9",
       "buildtype": "user",
       "forum": "",
       "gapps": "",
@@ -18,11 +18,11 @@
       "modem": "",
       "bootloader": "",
       "recovery": "",
-      "paypal": "",
-      "telegram": "",
-      "dt": "",
-      "common-dt": "",
-      "kernel": ""
+      "paypal": "https://www.paypal.com/paypalme/OmarA99",
+      "telegram": "https://t.me/Omar99A",
+      "dt": "https://github.com/aosp-for-giulia/android_device_oneplus_giulia",
+      "common-dt": "https://github.com/aosp-for-giulia/android_device_oneplus_sm8650-common",
+      "kernel": "https://github.com/aosp-for-giulia/android_kernel_oneplus_sm8650"
     }
   ]
 }

@@ -1,6 +1,15 @@
 Changelog
 =========
 
+04/13/2026
+----------
+- Updated blobs and firmware from OOS 16.0.5.701
+- Added support for YAAP's vibrator profiles and effects (Settings > sound & vibrations > vibration & haptics)
+- Properly configured cpusets
+- Added alert slider animations
+- Updated GameBar
+- Upstreamed the kernel to 6.1.166
+
 17/03/2026
 ----------
 - Synced with latest source
