@@ -1,6 +1,20 @@
 Changelog
 =========
 
+14/04/2026
+----------
+- Synced with latest source
+- Drop Prefer 'cache' backing storage
+- audio: Remove deprecated audio daemon
+- audio: Remove unused hdmi_in_test
+- audio: Remove unsupported QAHW
+- audio: Remove disabled HW accelerated effects
+- audio: Remove OMX components
+- audio: Remove autoconf/automake files
+- audio-hal: oob read when doing the typecase
+- audio-hal: Fix kw issue
+- Many more underhood changes
+
 07/03/2026
 ----------
 - Synced with latest source
