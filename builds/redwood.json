@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Thereache",
+      "oem": "Xiaomi",
+      "device": "redwood",
+      "filename": "Lunaris-AOSP-redwood-OFFICIAL-3.9-GMS-2026041311.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/redwood/Lunaris-AOSP-redwood-OFFICIAL-3.9-GMS-2026041311.zip/download",
+      "timestamp": 1776078602,
+      "md5": "fd5d29b3b57e06788a98f29f2822e789",
+      "sha256": "8058ba2ff34338df702229911c9ffe9e62bbde6a5bcd7dbfa5f7168da22993ac",
+      "size": 2653626163,
+      "version": "3.9",
+      "buildtype": "Monthly",
+      "forum": "",
+      "gapps": "",
+      "firmware": "https://www.xmfirmwareupdater.com/firmware/redwood/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "http://paypal.me/thereache2003",
+      "telegram": "https://t.me/thereachebuildchat",
+      "dt": "https://github.com/Thereache/android_device_xiaomi_redwood",
+      "common-dt": "",
+      "kernel": "https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325"
+    }
+  ]
+}
