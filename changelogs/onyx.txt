@@ -1,6 +1,10 @@
 Changelog
 =========
 
+21/04/2026
+----------
+- Synced with latest source
+
 05/04/2026
 ----------
 - gamebar: Update version to 15.5
