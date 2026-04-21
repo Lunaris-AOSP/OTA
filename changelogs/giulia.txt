@@ -1,6 +1,14 @@
 Changelog
 =========
 
+04/21/2026
+----------
+- Synced with latest source
+- Switched to Lineage power-libperfmgr
+- Powerhint: Added hint to disable cpu7 automatically in battery baver mode
+- Disabled default frame rate limit for games
+- Set dex2oat thread count and cpuset
+
 04/13/2026
 ----------
 - Updated blobs and firmware from OOS 16.0.5.701
