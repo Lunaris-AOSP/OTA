@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Ashwani",
+      "oem": "Nothing",
+      "device": "Tetris",
+      "filename": "Lunaris-AOSP-Tetris-OFFICIAL-3.9-GMS-2026042517.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Tetris/Lunaris-AOSP-Tetris-OFFICIAL-3.9-GMS-2026042517.zip/download",
+      "timestamp": 1777136555,
+      "md5": "07cb063e79e5ff66bafca5fa7aa5cd64",
+      "sha256": "cb6fa3c3539ae9db517491c426088a7a73f99673681731ec4b00b444243b807b",
+      "size": 3568157285,
+      "version": "3.9",
+      "buildtype": "user",
+      "forum": "https://t.me/being_ashwani",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://buymeacoffee.com/ashwani_02",
+      "telegram": "https://t.me/being_ashwani",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
