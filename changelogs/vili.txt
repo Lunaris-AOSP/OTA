@@ -1,6 +1,13 @@
 Changelog
 =========
 
+27/04/2026
+---------------   
+- dolby: Enable volume leveler for Dynamic profile
+- dolby: Forcefully Enable bass-enhancer
+- Newer standalone Dolby Vision blobs
+- dolby: Add support for Dolby Vision Fully working with Netflix, OTT apps, offline content
+
 09/04/2026
 ---------------   
 - Initial Official release
