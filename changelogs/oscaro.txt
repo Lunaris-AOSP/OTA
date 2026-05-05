@@ -1,6 +1,16 @@
 Changelog
 =========
 
+05/05/2026
+---------------
+- Synced with latest source
+- Tweak powerhint for better efficiency
+- Switch to source side task_profiles
+- Increase vibration intensities slightly
+- Improved Lift to wake accuracy
+- Few more underhood changes
+- Upstreamed kernel with latest lineage source (qcom8350)
+
 09/04/2026
 ---------------
 - Synced with latest source
