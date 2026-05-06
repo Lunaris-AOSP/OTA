@@ -1,6 +1,19 @@
 Changelog
 =========
 
+06/05/2026
+---------------
+dolby: Add Polish translation
+Update Traditional Chinese translations
+Add per-device Dolby state memory
+dolby: Fix permission issue
+dolby: Make per-device audio memory configurable
+sm8450-common: powerhint: another cleanup
+sm8450-common: powerhint: drop sched_busy_hyst tuning
+sm8450-common: powerhint: Reduce GPUIdleTimer value
+sm8450-common: powerhint: Reduce INTERACTION UclampTAMin values
+sm8450-common: powerhint: Reduce LAUNCH cpu duration to 3s
+
 12/04/2026
 ---------------
 - powerhint: optimize sustained performance frequencies and GPU utilization
