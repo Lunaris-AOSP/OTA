@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "TwistedVis",
+      "oem": "Nothing",
+      "device": "Pacman",
+      "filename": "Lunaris-AOSP-Pacman-OFFICIAL-3.10-GMS-2026050608.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/Pacman/Lunaris-AOSP-Pacman-OFFICIAL-3.10-GMS-2026050608.zip/download",
+      "timestamp": 1778056146,
+      "md5": "70ef4f4226006769c850aebee8e34c03",
+      "sha256": "86579084daaaa3b7b7e12762ca98f67ad26acdbb6db4e28030b8063c0b3c97d3",
+      "size": 2828680343,
+      "version": "3.10",
+      "buildtype": "user",
+      "forum": "https://t.me/NothingPhone2a",
+      "gapps": "yes",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://github.com/sponsors/TwistedVision518/",
+      "telegram": "https://t.me/TwistedVis518",
+      "dt": "https://github.com/LunarisPacman/android_device_nothing_Aerodactyl",
+      "common-dt": "https://github.com/LunarisPacman/android_device_nothing_Aerodactyl",
+      "kernel": "https://github.com/LunarisPacman/android_device_nothing_Aerodactyl-kernel"
+    }
+  ]
+}
