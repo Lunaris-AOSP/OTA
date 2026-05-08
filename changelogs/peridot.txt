@@ -1,5 +1,16 @@
 Changelog
 =========
+07/05/2026
+---------------
+- Merged with lineageOS device tree
+- debug.renderengine.blur_algorithm kawase2
+- Offload WM Shell to Another Thread
+- Disable alpha compositing in WM
+- Relax WiFi re-association RSSI thresholds
+- Disable turbulence noise
+- Disable debug.sf.disable_client_composition_cache
+- Disable HWC on virtual displays
+
 25/03/2026
 ---------------
 - Sync with latest source (till: https://t.me/lunaris_dailyUP/725)

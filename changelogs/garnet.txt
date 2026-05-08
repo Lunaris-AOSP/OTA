@@ -1,5 +1,18 @@
 Changelog
 =========
+07/05/2026
+---------------
+- Merged with lineageOS device tree
+- Implement torch light control
+- Enable Fading Marquee
+- Disable high performance transitions
+- Disable turbulence noise
+- Relax WiFi re-association RSSI thresholds
+- Disable alpha compositing in WM
+- Offload WM Shell to Another Thread
+- debug.renderengine.blur_algorithm kawase2
+- Neverallow app open access to /dev/ashmem
+
 25/03/2026
 ---------------
 - Sync with latest source (till: https://t.me/lunaris_dailyUP/725)
