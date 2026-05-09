@@ -1,6 +1,12 @@
 Changelog
 =========
 
+09/05/2026
+---------------
+- DEXOPT Enabled 
+- Driver Updated 
+- Kernel Updated
+
 27/04/2026
 ---------------   
 - dolby: Enable volume leveler for Dynamic profile
