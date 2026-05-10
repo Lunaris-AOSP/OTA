@@ -1,6 +1,33 @@
 Changelog
 =========
 
+10/05/2026
+----------
+- overlay: Add default setting for automatic screen brightness mode
+- Remove Dolby Game and volume listener
+- sepolicy: Address window_service denial
+- sepolicy: Address isolated_app denial
+- Add cpu.uclamp tweaks
+- Update SurfaceFlinger duration to 12.3ms
+- Drop AVB hashtree footer args
+- init: Chown cgroup.procs nodes
+- overlay: Enable USB and skin temperature warnings
+- overlay: Set LTE+ threshold bandwidth to 0
+- overlay: Disable Bluetooth by default
+- props: Set SurfaceFlinger uclamp.min to 20%
+- props: Enable VoNR calls support
+- Enable Reality Engine support in Lunaris build flags
+- Drop debug.sf.latch_unsignaled property
+- rootdir: Allow all filesystems for USB-OTG
+- Enable Qualcomm TrueWireless™ Stereo support
+- Enable A2DP CPU hints for improved UI performance
+- Enable frame pacing for smoother visual performance
+- Drop forced triple frame buffers
+- Use HintManager for HWUI
+- overlay: Limit screen recorder framerate to 120 FPS
+- overlay: Show "Turbo charging" instead of "Charging rapidly"
+- sepolicy: Allow system_server to read fastcharge node
+
 21/04/2026
 ----------
 - Synced with latest source
