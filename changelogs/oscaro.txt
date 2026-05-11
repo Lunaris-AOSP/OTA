@@ -1,6 +1,11 @@
 Changelog
 =========
 
+11/05/2026
+---------------
+- Synced with latest source
+- Updated firmware from CPH2381_14.0.0.2700(EX01)
+
 05/05/2026
 ---------------
 - Synced with latest source
