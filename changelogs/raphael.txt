@@ -1,6 +1,13 @@
 Changelog
 =========
 
+11/05/2026
+---------------
+- Synced with latest source
+- Disable Smartpixels while udfps is being used
+- Enable burnin protection
+- Reduce AoD brightness
+
 09/04/2026
 ---------------
 - Synced with latest source
@@ -10,6 +17,5 @@ Changelog
 - Included DolbyAtmos (Lunaris UI) & Viper4Android
 
 **IMPORTANT NOTES**
-> Clean flash mandatory from any previous builds
 > Format data from recovery after first boot to avoid storage permission issues
 > Recommended firmware: Latest A11 firmware based on your region
