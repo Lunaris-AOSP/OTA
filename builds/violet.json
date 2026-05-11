@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "achu",
+      "oem": "Xiaomi",
+      "device": "violet",
+      "filename": "Lunaris-AOSP-violet-OFFICIAL-3.10-GMS-2026051112.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/violet/Lunaris-AOSP-violet-OFFICIAL-3.10-GMS-2026051112.zip/download",
+      "timestamp": 1778503324,
+      "md5": "53ac45e081f33b808ffc1dcbb7941d45",
+      "sha256": "0145ecb4efa108a6c39c24c02464c207a5c00631f82f374862fde307ad508475",
+      "size": 2633318271,
+      "version": "3.10",
+      "buildtype": "user",
+      "forum": "",
+      "gapps": "yes",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/niggaachu",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
