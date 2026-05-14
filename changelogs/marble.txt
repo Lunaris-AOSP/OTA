@@ -1,6 +1,10 @@
 Changelog
 =========
 
+14/05/2026
+---------------
+- latest source synced
+
 06/05/2026
 ---------------
 dolby: Add Polish translation
