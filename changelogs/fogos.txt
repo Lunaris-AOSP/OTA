@@ -1,6 +1,13 @@
 Changelog
 =========
 
+09/05/2026
+--------------
+- Switched to coral Powerhint
+- WhatsApp Call Voice Cracking After Notication is coming issue Fixed
+- Add Again Viper4AndroidFX
+- Remove fwk-detect lib from PRODUCT_PACKAGES
+
 02/04/2026
 --------------
 - Synced Latest Source

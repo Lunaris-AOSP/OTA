@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "OscarM1019",
+      "oem": "OnePlus",
+      "device": "salami",
+      "filename": "Lunaris-AOSP-salami-OFFICIAL-3.10-GMS-2026050921.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/salami/Lunaris-AOSP-salami-OFFICIAL-3.10-GMS-2026050921.zip/download",
+      "timestamp": 1778363469,
+      "md5": "20b062cafec8f89514f73a1f90afb0e4",
+      "sha256": "1a7f6796978d13f92760307fe55b8758859c72795f65a678a64e3fdedfcf1d3e",
+      "size": 3587983517,
+      "version": "3.10",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/OscarM1019",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://www.paypal.me/osmjr1019",
+      "telegram": "https://t.me/OnePlus11CustomRoms/68",
+      "dt": "https://github.com/osm1019/device_oneplus_salami",
+      "common-dt": "https://github.com/osm1019/device_oneplus_sm8550-common",
+      "kernel": "https://github.com/osm1019/kernel_oneplus_sm8550"
+    }
+  ]
+}
