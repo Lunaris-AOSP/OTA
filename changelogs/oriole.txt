@@ -1,6 +1,11 @@
 Changelog
 =========
 
+05/16/2026
+---------------
+- Synced with latest source
+- Swtiched to Lineage Kernel
+
 04/26/2026
 ---------------
 - Synced with latest source

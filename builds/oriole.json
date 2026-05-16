@@ -4,13 +4,13 @@
       "maintainer": "xioyo",
       "oem": "Google",
       "device": "oriole",
-      "filename": "Lunaris-AOSP-oriole-OFFICIAL-3.9-GMS-2026042523.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/oriole/Lunaris-AOSP-oriole-OFFICIAL-3.9-GMS-2026042523.zip/download",
-      "timestamp": 1777161017,
-      "md5": "359f017a1696dedd02487b70afc50d66",
-      "sha256": "31bdfd8da9b2cf3f7d1653fd8d576859c76f13f1824c7e981f223e3896bce8d2",
-      "size": 2665296174,
-      "version": "3.9",
+      "filename": "Lunaris-AOSP-oriole-OFFICIAL-3.10-GMS-2026051300.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/oriole/Lunaris-AOSP-oriole-OFFICIAL-3.10-GMS-2026051300.zip/download",
+      "timestamp": 1778633134,
+      "md5": "80c6d13f5e529e536520f495643dce0a",
+      "sha256": "1814e90d80519d06529ab38044b74ca583b406c8df40a1f72d6f324f23e8c134",
+      "size": 2754055284,
+      "version": "3.10",
       "buildtype": "user",
       "forum": "https://t.me/xoversechat",
       "gapps": "",
@@ -22,7 +22,7 @@
       "telegram": "https://t.me/xioyo",
       "dt": "https://github.com/xioyo/android_device_google_raviole",
       "common-dt": "https://github.com/xioyo/android_device_google_gs101",
-      "kernel": "https://github.com/Biohazardousrom/device_google_raviole-kernels_6.1"
+      "kernel": "https://github.com/LineageOS/android_device_google_raviole-kernels"
     }
   ]
 }

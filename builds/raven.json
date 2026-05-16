@@ -4,13 +4,13 @@
       "maintainer": "xioyo",
       "oem": "Google",
       "device": "raven",
-      "filename": "Lunaris-AOSP-raven-OFFICIAL-3.9-GMS-2026042608.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/raven/Lunaris-AOSP-raven-OFFICIAL-3.9-GMS-2026042608.zip/download",
-      "timestamp": 1777192179,
-      "md5": "b1cac95602b0dcd453a2836c3aa489d4",
-      "sha256": "8195f946d26839e9ed96ffda749708ef16798a9e16aeaeb404cf5f7a912fa3bc",
-      "size": 2666239144,
-      "version": "3.9",
+      "filename": "Lunaris-AOSP-raven-OFFICIAL-3.10-GMS-2026051407.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/raven/Lunaris-AOSP-raven-OFFICIAL-3.10-GMS-2026051407.zip/download",
+      "timestamp": 1778743117,
+      "md5": "07acdbfe2347da49fb58edfd2bb4ec51",
+      "sha256": "bf38aa163d06d05cf6d40096f675d237c5a3261dd3b94c8ac45189c8c757a99e",
+      "size": 2754643764,
+      "version": "3.10",
       "buildtype": "user",
       "forum": "https://t.me/xoversechat",
       "gapps": "",
@@ -22,7 +22,7 @@
       "telegram": "https://t.me/xioyo",
       "dt": "https://github.com/xioyo/android_device_google_raviole",
       "common-dt": "https://github.com/xioyo/android_device_google_gs101",
-      "kernel": "https://github.com/Biohazardousrom/device_google_raviole-kernels_6.1"
+      "kernel": "https://github.com/LineageOS/android_device_google_raviole-kernels"
     }
   ]
 }
