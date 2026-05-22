@@ -1,5 +1,12 @@
 Changelog
 =========
+22/05/2026
+---------------
+- Synced Latest Source Changes
+- Setup Device as WebCam
+- Updated KSU-NEXT to v3.2.0
+- More miscellaneous changes
+
 01/04/2026
 ---------------
 - Synced Latest Source Changes
