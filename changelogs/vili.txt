@@ -1,6 +1,12 @@
 Changelog
 =========
 
+25/05/2026
+---------------
+- Reapply "sm8350-common: Disable FRP"
+- Back to stock driver
+- Fixed camera issue with AI mode
+
 09/05/2026
 ---------------
 - DEXOPT Enabled 
