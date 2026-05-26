@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Rakhshan",
+      "oem": "OnePlus/Realme",
+      "device": "op6893",
+      "filename": "Lunaris-AOSP-op6893-OFFICIAL-3.10-GMS-2026052610.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/op6893/Lunaris-AOSP-op6893-OFFICIAL-3.10-GMS-2026052610.zip/download",
+      "timestamp": 1779792706,
+      "md5": "d3cb400db7debce33391c06ece2063b2",
+      "sha256": "904c4568cd4d3e8a2bb266a706c097e19f00933815f9a8e62d5419200f172252",
+      "size": 3518283357,
+      "version": "3.10",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/f/oneplus-nord-2-5g.12375/",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/ghosuto/files/op6893/recovery",
+      "paypal": "",
+      "telegram": "https://t.me/ararchive_shan_rakh_discussion",
+      "dt": "https://github.com/Denniz-Cupida-Development/android_device_oplus_op6893",
+      "common-dt": "",
+      "kernel": "https://github.com/Denniz-Cupida-Development/android_kernel_oplus_mt6893"
+    }
+  ]
+}

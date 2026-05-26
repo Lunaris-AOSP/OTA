@@ -1,0 +1,13 @@
+Changelog
+=========
+
+26/05/2026
+---------------   
+- Initial Official release
+- Switched to Motorola Dolby
+- Added screen off UDFPS
+- Enabled statusbar and ambient mode burn-in Protection
+- Fixed camera cutout ring allignment
+- Added oneplus camera
+- Added display color profiles
+- Fixed connected but not charging message
