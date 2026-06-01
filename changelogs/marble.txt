@@ -1,6 +1,17 @@
 Changelog
 =========
 
+01/06/26
+---------------
+- battmngr: iio: fix slave reg_status channel mapping
+- battmngr: iio: use pd_iio_channels in is_pd_chan_valid()
+- sm8450-common: import task profiles configuration
+- powerhint: refine interaction responsiveness and rendering stability
+- task_profiles: remove unsupported latency_sensitive policies
+- init: Always use lz4 for zram
+- sm8450-common: import cgroup.json from aospa
+
+
 14/05/2026
 ---------------
 - latest source synced
