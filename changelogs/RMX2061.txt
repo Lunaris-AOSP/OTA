@@ -1,6 +1,12 @@
 Changelog
 =========
 
+01/06/2026
+- Synced Latest Source Changes
+- Added GPU boost support in realmeparts
+- Added bypass charging support
+- Minor clean ups
+
 05/03/2026
 ---------------
 - Synced Latest Source Changes
