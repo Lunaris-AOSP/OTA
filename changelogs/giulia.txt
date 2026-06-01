@@ -1,6 +1,13 @@
 Changelog
 =========
 
+05/14/2026
+----------
+- Switched to vulkan UI renderer
+- Added BCR
+- Update primitive vibration effects
+- Upstreamed kernel to 6.1.170
+
 04/21/2026
 ----------
 - Synced with latest source

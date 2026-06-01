@@ -1,5 +1,13 @@
 Changelog
 ==========
+08/05/2026
+----------
+- Improved auto brightness behavior.
+- Refined LMK parameters for improved memory handling.
+- Reduced uclamp.min value to 125.
+- updated CPU configuration parameters.
+- Improved powerhint for better perf.
+
 12/04/2026
 ----------
 - initial official update.

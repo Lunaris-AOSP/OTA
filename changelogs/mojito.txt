@@ -1,0 +1,6 @@
+10/05/2026
+----------
+
+- Initial Official A16 Build
+- Fixed different blur intensity level when unlocking device
+- Fixed USB-C earphone mic not working for recording and VoIP

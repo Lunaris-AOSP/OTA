@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Chethan",
+      "oem": "Xiaomi",
+      "device": "raphael",
+      "filename": "Lunaris-AOSP-raphael-OFFICIAL-3.10-GMS-2026051100.zip",
+      "download": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/Lunaris-AOSP-raphael-OFFICIAL-3.10-GMS-2026051100.zip",
+      "timestamp": 1778450525,
+      "md5": "a220688b139b49dd45d602a617301ebc",
+      "sha256": "19a13007afa6825945e200753f617c277f073568603f122829f4e2d2082f7fd9",
+      "size": 3023146508,
+      "version": "3.10",
+      "buildtype": "user",
+      "forum": "https://t.me/oscaro_aosp",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/nocache",
+      "telegram": "https://t.me/No_Cache",
+      "dt": "https://github.com/raphael-resources/android_device_xiaomi_raphael",
+      "common-dt": "https://github.com/raphael-resources/android_device_xiaomi_sm8150-common",
+      "kernel": "https://github.com/raphael-resources/android_kernel_xiaomi_sm8150"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Changelog
+=========
+05/09/2026
+--------------- 
+- Initial Official release
+- Added Amber Kernel v1 with KSUN and SUSFS(LOS kernel with a few tweaks)

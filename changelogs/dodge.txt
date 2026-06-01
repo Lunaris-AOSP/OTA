@@ -1,5 +1,11 @@
 Changelog
 =========
+05/09/2026
+---------------
+-Sync Rom Source to Lunaris AOSP 3.10
+-Update Device Trees to latest Source
+-Uprev Amber Kernel v3 with more tweaks (updated KSUN 3.2 and SUSFS 2.1)
+
 
 04/12/2026
 ---------------
