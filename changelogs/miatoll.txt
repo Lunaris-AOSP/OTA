@@ -1,6 +1,17 @@
 Changelog
 =========
 
+05/06/2026
+---------
+- Synced Latest Source Changes
+- Shipped With Nexus 4.14.357 kernel
+- Bump kernel BPF version override to 5.10.239
+- Migrate to AIDL camera provider
+- sepolicy: Commonize vendor_camera_remapid_prop set_prop rule
+- Allow to skip failed camera ids from initialization
+- sepolicy: Remove already commonized proc_dirty rule
+- Dropped Improve post_boot tuning for performance
+
 07/05/2026
 ----------
 - Synced Latest Source Changes

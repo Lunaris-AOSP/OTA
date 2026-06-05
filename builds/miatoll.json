@@ -4,13 +4,13 @@
       "maintainer": "Drxkaii",
       "oem": "Xiaomi",
       "device": "miatoll",
-      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-3.10-GMS-2026050708.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-3.10-GMS-2026050708.zip/download",
-      "timestamp": 1778140828,
-      "md5": "d5adc0c04e904cbd73bae11ff00bf9f9",
-      "sha256": "153346d2bf487bbe31398d545c9d043d1a417c01f80180d2c438edabb2889b5d",
-      "size": 2879487345,
-      "version": "3.10",
+      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026060513.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026060513.zip/download",
+      "timestamp": 1780664909,
+      "md5": "256efeeb7298f8528a8506e8bbcc1712",
+      "sha256": "fa85f86c41076f3236daa1f4c63f7c486ac8765278b3d9e2eab4861055d7a5bf",
+      "size": 2896524078,
+      "version": "3.11",
       "buildtype": "user",
       "forum": "",
       "gapps": "",
@@ -18,11 +18,12 @@
       "modem": "",
       "bootloader": "",
       "recovery": "",
-      "paypal": "",
-      "telegram": "https://t.me/drxkaii",
+      "paypal": "https://www.paypal.me/OctasouL",
+      "telegram": "https://t.me/buissdrx",
       "dt": "",
       "common-dt": "",
       "kernel": ""
     }
   ]
 }
+
