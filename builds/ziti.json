@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "okkotsu",
+      "oem": "OnePlus",
+      "device": "ziti",
+      "filename": "Lunaris-AOSP-ziti-OFFICIAL-3.11-GMS-2026060513.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/ziti/Lunaris-AOSP-ziti-OFFICIAL-3.11-GMS-2026060513.zip/download",
+      "timestamp": 1780665807,
+      "md5": "cc240c58170a38ca6c7fa9dbffa0bdee",
+      "sha256": "3919117cb768bb43436b7e9abf3a86dae8f518c9dcdee2555984e3d3b1f42892",
+      "size": 3344244613,
+      "version": "3.11",
+      "buildtype": "",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "https://t.me/okkotsu66",
+      "dt": "https://github.com/ziti-resources/device_oneplus_ziti",
+      "common-dt": "https://github.com/ziti-resources/device_oneplus_sm8350-common",
+      "kernel": "https://github.com/ziti-resources/kernel_oneplus_sm8350"
+    }
+  ]
+}
