@@ -1,0 +1,12 @@
+Changelog
+=========
+
+05/06/2026
+---------------
+- Initial Official release
+- Synced with latest source 
+- tweaked auto-brightness mapping
+- boosted sf uclamp for smoother UI
+- added GameBar
+- always use lz4 for zram
+- other miscellaneous changes
