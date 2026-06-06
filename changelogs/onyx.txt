@@ -1,6 +1,39 @@
 Changelog
 =========
 
+06/06/2026
+----------
+- Update blobs from OS3.0.7.0.WOLMIXM
+- onyx-kernel: Update from OS3.0.7.0.WOLMIXM
+- Reduce audio offload buffer size from 256KB to 64KB
+- Remove unused GPU profiling property
+- Reduce SurfaceFlinger minimum uclamp value
+- rootdir: Reset readahead values to 128 KB
+- rootdir: Always use LZ4 for ZRAM
+- rootdir: Use foreground cpuset/uclamp for gralloc
+- rootdir: Use foreground uclamp for hwcomposer
+- Allow vendor_init to modify proc_sched
+- Add MLBB and MCGG to sched_lib_name
+- rootdir: Remove printk loglevel setup from init.qcom.sh
+- rootdir: Don't modify ownership of ondemand cpufreq nodes
+- overlay: Remove unused config_speed_up_audio_on_mt_calls
+- overlay: Remove telephony Euicc overlays
+- Force disable REDIR_PARTY_NUM_SUPPORT
+- overlay: Expose VoNR wherever possible
+- overlay: Rename config_is_show_vonr_switch to vonr_setting_visibility_bool
+- overlay: Rename config_vonr_on_by_default_bool to vonr_enabled_bool
+- Update CarrierConfig from OS3.0.7.0.WOLMIXM
+- Move touch report rate handling to power-ext
+- sepolicy: Allow parts to use touchfeature
+- parts: Hook up touch report rate using touchfeature
+- Revert touch sampling rate bump
+- Reverse touchfeature NDK interface
+- dolby: Ensure Dolby privapp permissions are included in system_ext
+- dolby: Make per-device audio memory configurable
+- dolby: Add per-device Dolby state memory
+- dolby: Add device state memory strings for Indonesian localization
+- dolby: Add device state memory strings for Russian localization
+
 10/05/2026
 ----------
 - overlay: Add default setting for automatic screen brightness mode
