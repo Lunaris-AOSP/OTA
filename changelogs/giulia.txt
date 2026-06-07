@@ -1,6 +1,12 @@
 Changelog
 =========
 
+06/06/2026
+----------
+- Updated blobs and firmware from OOS 16.0.7.200
+- Dolby: Import dax config from waffle
+- Adjusted ambient display and AOD brigthness
+
 05/14/2026
 ----------
 - Switched to vulkan UI renderer
