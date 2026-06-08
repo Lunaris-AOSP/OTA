@@ -1,5 +1,13 @@
 Changelog
 =========
+07/06/2026
+---------------
+- Sync with latest source upto (https://t.me/lunaris_dailyUP/934)
+- Improve performance
+- Increase smoothness 
+- Improve Idle drain issue
+- add ksun & susfs latest
+
 12/05/2026
 ---------------
 - Sync with latest source upto (https://t.me/lunaris_dailyUP/868)
