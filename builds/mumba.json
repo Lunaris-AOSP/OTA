@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "ZaraKnYu",
+      "oem": "Motorola",
+      "device": "mumba",
+      "filename": "Lunaris-AOSP-mumba-OFFICIAL-3.11-GMS-2026060808.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/mumba/Lunaris-AOSP-mumba-OFFICIAL-3.11-GMS-2026060808.zip/download",
+      "timestamp": 1780914213,
+      "md5": "4b00f94f8883448aa2bdef59e9d30c88",
+      "sha256": "09965de8ea1795eb764541d55d669f7231ae0e673a675977d370c0cfa3651b91",
+      "size": 2344932495,
+      "version": "3.11",
+      "buildtype": "user",
+      "forum": "https://t.me/zaraknyu",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
+      "paypal": "",
+      "telegram": "https://t.me/zaraknyu",
+      "dt": "https://github.com/motorola-sm6435/android_device_motorola_mumba",
+      "common-dt": "",
+      "kernel": "https://github.com/motorola-sm6435/android_device_motorola_mumba-kernel"
+    }
+  ]
+}
