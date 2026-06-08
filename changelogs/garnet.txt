@@ -1,5 +1,11 @@
 Changelog
 =========
+08/06/2026
+---------------
+- Sync with latest source upto (https://t.me/lunaris_dailyUP/934)
+- Based on OS3.0.5.0.WNRMIXM
+- KSUN v3.2.0 & SUSFS v2.1.0 Included
+
 12/05/2026
 ---------------
 - Sync with latest source upto (https://t.me/lunaris_dailyUP/868)
