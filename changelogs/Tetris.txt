@@ -1,5 +1,15 @@
 Changelog
 ==========
+09/06/2026
+----------
+- Forced down to triple frame buffers.
+- Allow more cached apps in the background.
+- Powerhint: optimize launch and sustained perf boosts.
+- Fixed issue where incoming call sound comes out of bt headsets or earbuds.
+- disabled blur by default (enable if needed).
+- Disabled EGL image tracking This is a surfaceflinger.
+- Tuned gpu rendering and interaction boost.
+
 08/05/2026
 ----------
 - Improved auto brightness behavior.
