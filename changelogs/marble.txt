@@ -1,6 +1,17 @@
 Changelog
 =========
 
+09/06/26
+------------
+• bring back dolby vision(thanks to @JoseoPablo)
+• Update common blobs from diting OS3.0.4.0.VLFMIXM
+• Introduce double tap on fingerprint sensor gesture
+• Parts: Complete rewrite in Jetpack Compose
+• parts: Introduce per-app aux camera access controls
+• update Marble blobs and camera from OS3.0.4.0.VMRMIXM
+• Switch to stock fp hal
+• Switch to Qti for a balanced battery experience
+
 01/06/26
 ---------------
 - battmngr: iio: fix slave reg_status channel mapping
