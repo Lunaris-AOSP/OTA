@@ -1,1 +1,15 @@
-Initial Build no changelog
+Added new animation when invoking assistant from long pressing power button.
+Fixed media player not openeing when tapping on the ios style music widget in quick settings.
+Added gradient color support in ios style brightness and volume widget.
+Introduced new waveform animation in dynamicbar chip in lockscreen and statusbar.
+Introduced animations and haptics when swipping on cards of the dynamic bar on lock screen. 
+Tweaked the look on dynamicbar including the colors and the size.
+
+#######################################################################################################
+
+June 9th 2026
+
+Synced with latest source 
+Included device as webcam 
+Included Compact searchbar 
+Changed scudo values for a better experience
