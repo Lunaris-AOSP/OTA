@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "maintainer": "Thereache",
+      "maintainer": "BlueHeart016|Sᴀʏᴀɴシ",
       "oem": "Xiaomi",
       "device": "redwood",
-      "filename": "Lunaris-AOSP-redwood-OFFICIAL-3.9-GMS-2026041311.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/redwood/Lunaris-AOSP-redwood-OFFICIAL-3.9-GMS-2026041311.zip/download",
-      "timestamp": 1776078602,
-      "md5": "fd5d29b3b57e06788a98f29f2822e789",
-      "sha256": "8058ba2ff34338df702229911c9ffe9e62bbde6a5bcd7dbfa5f7168da22993ac",
-      "size": 2653626163,
-      "version": "3.9",
+      "filename": "Lunaris-AOSP-redwood-OFFICIAL-3.11-GMS-2026061208.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/redwood/Lunaris-AOSP-redwood-OFFICIAL-3.11-GMS-2026061208.zip/download",
+      "timestamp": 1781252052,
+      "md5": "b01f5226b5fe1a651a3e24e0cfdfc74d",
+      "sha256": "ff3efaad831ad999d1cc05ffda9394950342c269e88eac16b3e1e37198d2cbac",
+      "size": 2892003167,
+      "version": "3.11",
       "buildtype": "Monthly",
       "forum": "",
       "gapps": "",
@@ -18,11 +18,11 @@
       "modem": "",
       "bootloader": "",
       "recovery": "",
-      "paypal": "http://paypal.me/thereache2003",
-      "telegram": "https://t.me/thereachebuildchat",
-      "dt": "https://github.com/Thereache/android_device_xiaomi_redwood",
+      "paypal": "https://paypal.me/blueheart016",
+      "telegram": "https://t.me/bluehearts_Builds016",
+      "dt": "",
       "common-dt": "",
-      "kernel": "https://github.com/Atom-X-Devs/scarlet_xiaomi_sm7325"
+      "kernel": ""
     }
   ]
 }
