@@ -1,6 +1,30 @@
 Changelog
 =========
 
+12/06/2026
+---------------   
+• Initial Project Lunaris-AOSP bring-up
+• Update brightness values
+• Define vendor_sysfs_kgsl SELinux type
+• Increase LMK thresholds
+• Remove package cache during early boot
+• Fine-tune CPU scaling frequencies
+• Tune schedutil rate limits for better responsiveness
+• Disable blur effects by default
+• Import updated activity transition animations
+• Import Raven volume audio policies
+• Bump BPF version to 5.10
+• Adjust thread count and cpuset after Setup Wizard
+• Import updated APN configuration
+• Cleanup unused build properties
+• Remove unused cgroup configuration
+• Beautify RRO overlays
+• Remove unnecessary packages at build time
+• Drop obsolete launcher overlay
+• Drop deprecated NcmTetheringOverlay
+• Disable blur during app launches
+• Improve optimizations, stability, and performance
+
 08/04/2026
 ---------------   
 - Initial Official release
