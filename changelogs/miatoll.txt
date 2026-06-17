@@ -1,6 +1,14 @@
 Changelog
 =========
 
+17/06/2026
+---------
+- Synced Latest Source Changes
+- Workaround OCOM RIL doxlat override with blob fixup
+- drop Improve post_boot tuning for performance
+- audio: Increase mic sensitivity
+- Switch to prebuilt audio HAL
+
 05/06/2026
 ---------
 - Synced Latest Source Changes

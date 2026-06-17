@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "maintainer": "Drxkaii",
+      "maintainer": drxkaii"",
       "oem": "Xiaomi",
       "device": "miatoll",
-      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026060513.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026060513.zip/download",
-      "timestamp": 1780664909,
-      "md5": "256efeeb7298f8528a8506e8bbcc1712",
-      "sha256": "fa85f86c41076f3236daa1f4c63f7c486ac8765278b3d9e2eab4861055d7a5bf",
-      "size": 2896524078,
+      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026061716.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-3.11-GMS-2026061716.zip/download",
+      "timestamp": 1781713092,
+      "md5": "2fe3d962cb1c84bbcbd1c8d6af9ac83e",
+      "sha256": "b408da78aada2a11f38f3871a4972aa45b85d8ee42601477d2420a34942ef51f",
+      "size": 2766894257,
       "version": "3.11",
       "buildtype": "user",
       "forum": "",
@@ -26,4 +26,3 @@
     }
   ]
 }
-
