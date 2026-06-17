@@ -1,5 +1,11 @@
 Changelog
 =========
+
+06/16/2026
+---------------
+-Sync Rom Source to Lunaris AOSP 3.11
+-Update Device Trees to latest Source
+
 05/09/2026
 ---------------
 -Sync Rom Source to Lunaris AOSP 3.10
