@@ -1,6 +1,12 @@
 Changelog
 =========
 
+18/06/2026
+---------------
+- Synced with latest source
+- Excluded firmware to avoid arb trigger
+- Use appropriate charging thresholds in lockscreen info 
+
 11/05/2026
 ---------------
 - Synced with latest source
