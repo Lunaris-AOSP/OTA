@@ -1,6 +1,37 @@
 Changelog
 =========
 
+19/06/2026
+---------------
+- Synced with latest source
+- Lower gps debug level
+- Enabled Charging limit control support
+- Enable Smooth Display setting
+- Enable call recording by default
+- Always use lz4 for zram
+- Dropped Dolby effects and codecs
+- Cleanup init scripts
+- Enabled task profile and cgroups usage
+- Switch to STOCK kernel
+- Drop I/O prefetcher
+- Stop mounting TraceFS twice
+- Fixed random reboot 
+- Fixed OTA showing update with no updates
+- Added pvmfw partition support
+- Configured AlwaysOnDisplay
+- Configure aux camera for Aperture
+- Increase speaker volume
+- Disable WIFI RX wakelock feature
+- Make Powerhint json more compatible
+- Remove IO read_ahead_kb tune
+- Reset readahead values for 128 always
+- Remove duplicate bugreport service
+- remove not existing imports
+- Stop setting incremental prop
+- Build missing wifi-display libs
+- Build an enabled vbmeta image
+- fixed offline charging not working sometimes
+
 08/06/2026
 --------------
 - Initial Official lunaris release (3.11)
