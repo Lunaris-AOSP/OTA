@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "maintainer": "",
-      "oem": "",
+      "maintainer": "Dhanush",
+      "oem": "xiaomi",
       "device": "marble",
-      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.11-VANILLA-2026061910.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/marble/vanilla/Lunaris-AOSP-marble-OFFICIAL-3.11-VANILLA-2026061910.zip/download",
-      "timestamp": 1781864815,
-      "md5": "1c4267d5f8845f978d455f987811826b",
-      "sha256": "e3e5f0c34e0961c7acbb4c341ffadf45e875fc6b8fee57796fe53d0a83aa30bb",
-      "size": 2265409745,
+      "filename": "Lunaris-AOSP-marble-OFFICIAL-3.11-VANILLA-2026061913.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/marble/Lunaris-AOSP-marble-OFFICIAL-3.11-VANILLA-2026061913.zip/download",
+      "timestamp": 1781874572,
+      "md5": "4d347c579d3c56866c1d99c34d594490",
+      "sha256": "a5f4399be90e8417fd880f462a76bc7bb2a9b4ff77db30c02340e6b717c82896",
+      "size": 2265408671,
       "version": "3.11",
       "buildtype": "",
       "forum": "",
