@@ -1,6 +1,11 @@
 Changelog
 =========
 
+06/19/2026
+----------
+- Disabled vulkan UI renderer
+- Upstreamed kernel to 6.1.173
+
 06/06/2026
 ----------
 - Updated blobs and firmware from OOS 16.0.7.200
