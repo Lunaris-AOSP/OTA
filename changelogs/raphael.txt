@@ -1,6 +1,13 @@
 Changelog
 =========
 
+19/06/2026
+---------------
+- Synced with latest source
+- Enable screen-off udfps by default
+- Fix DC dimming impl
+- Add QS tiles for HBM & DC dimming
+
 11/05/2026
 ---------------
 - Synced with latest source
