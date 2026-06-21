@@ -1,5 +1,15 @@
 Changelog
 =========
+
+21/04/2026
+---------------
+- Sync with latest source
+- added proper flags
+- tuned powerhint for battery
+
+
+
+
 12/06/2026
 ---------------
 - Official release
@@ -12,8 +22,9 @@ Changelog
 - with scarlet NON ROOT kernel
 
 13/04/2026
----------------   
+---------------
 - Initial Official release
 
 Note:
 * clean flash from previous unofficial build, sign key has been changed
+
