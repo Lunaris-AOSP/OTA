@@ -1,6 +1,10 @@
 Changelog
 =========
 
+25/06/26
+------------
+- latest source synced
+
 09/06/26
 ------------
 • bring back dolby vision(thanks to @JoseoPablo)
