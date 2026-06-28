@@ -1,5 +1,10 @@
 Changelog
 =========
+28/06/2026
+----------
+- Synced with latest source
+- Using latest Reforge Kernel
+- Some perf tweaks 
 
 12/04/2026
 ----------
