@@ -1,6 +1,13 @@
 Changelog
 =========
 
+24/06/2026
+--------------
+- Update Firmware V1UGS35H.75-14-3-8
+- Allow games to use 120fps
+- Set ZRAM size to 25%
+- Switch to input current limit node for charge control
+
 09/05/2026
 --------------
 - Switched to coral Powerhint
