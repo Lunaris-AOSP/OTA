@@ -1,0 +1,23 @@
+{
+  "maintainer": "Viaan | NoEscape.exe",
+  "oem": "OnePlus",
+  "device": "larry",
+  "filename": "Lunaris-AOSP-larry-OFFICIAL-3.12-GMS-2026070612.zip",
+  "download": "https://sourceforge.net/projects/ghosuto/files/larry/GMS/Lunaris-AOSP-larry-OFFICIAL-3.12-GMS-2026070612.zip/download",
+  "timestamp": 1783349060,
+  "md5": "f14a97c6f4f31d3527378923d2c71acb",
+  "sha256": "6c368ff9c640785ea16d2d9929178734c5c01e3e9c7172f5bf5a0e84cbe5cce8",
+  "size": 2719561440,
+  "version": "3.12",
+  "buildtype": "GMS",
+  "forum": "",
+  "gapps": "",
+  "firmware": "",
+  "modem": "",
+  "bootloader": "",
+  "recovery": "https://sourceforge.net/projects/ghosuto/files/larry/Recovery/",
+  "telegram": "https://t.me/OPNordCE3Lite",
+  "dt": "https://github.com/Larry-ROM-Archive/device_oneplus_larry",
+  "common-dt": "https://github.com/Larry-ROM-Archive/device_oneplus_sm6375-common",
+  "kernel": "https://github.com/Larry-ROM-Archive/kernel_oneplus_sm6375"
+}
