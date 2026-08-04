@@ -1,5 +1,10 @@
 Changelog
 =========
+04/08/2026
+- Synced Latest Source Changes
+- Kernel-level improvements for stability and performance
+- Minor bug fixes and under-the-hood improvements
+
 
 13/07/2026
 - Synced Latest Source Changes
