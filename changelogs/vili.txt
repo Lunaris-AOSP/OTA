@@ -1,6 +1,10 @@
 Changelog
 =========
 
+04/09/2026
+---------------
+- sm8350-common: Update GPS from BSP
+
 18/08/2026
 ---------------
 - Fixed wallpaper crash issue
