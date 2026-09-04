@@ -1,6 +1,18 @@
 Changelog
 =========
 
+04/09/2026
+----------
+- Synced with latest source
+- Enabled ADPF CPU hints for improved UI performance
+- Add dolby stacks from stock hos 3
+- Dropped c2 media codecs
+- Added Lunaris Dolby manager
+- Re-configure dalvik props
+- Re-configure cpu sets
+- Disabled APEX compression
+- Many more underhood changes
+
 03/09/2026
 ----------
 - Initial official release
