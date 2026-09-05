@@ -1,0 +1,9 @@
+Changelog
+=========
+
+05/09/2026
+----------
+- Initial Official Release for Avicii
+- Implement Dolby Vision + Dolby Atmos
+- Implement GameBar
+- Drop Proprietary Firmware

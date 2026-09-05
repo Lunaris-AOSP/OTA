@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "NoEscape.exe",
+      "oem": "OnePlus",
+      "device": "OnePlus Nord",
+      "filename": "Lunaris-AOSP-avicii-OFFICIAL-3.12-VANILLA-2026090515.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/avicii/vanilla/Lunaris-AOSP-avicii-OFFICIAL-3.12-VANILLA-2026090515.zip/download",
+      "timestamp": 1788620593,
+      "md5": "3b6886d41b019cf92681a14703f95838",
+      "sha256": "399ac2978c6469644f1f1f95dcff8cb7a7aa1d8b11d69bd6847e11d79865fb49",
+      "size": 2042375618,
+      "version": "3.12",
+      "os_patch_level": "2026-08-01",
+      "os_sdk_level": 36,
+      "buildtype": "user",
+      "forum": "https://t.me/noescape_basement",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/ghosuto/files/avicii/recovery/",
+      "paypal": "",
+      "telegram": "https://t.me/noescape_basement",
+      "dt": "https://github.com/Avicii-Resources/device_oneplus_avicii",
+      "common-dt": "",
+      "kernel": "https://t.me/noescape_basement"
+    }
+  ]
+}
