@@ -1,6 +1,10 @@
 Changelog
 =========
 
+24/09/2026
+---------------   
+• Fixed Error1 when flashing via Orangefox
+
 20/09/2026
 ---------------   
 • Fixed MTP, Wi-Fi, and Charging control
