@@ -8,3 +8,11 @@ Changelog
 21/08/2026
 ---------------
 - Update from latest source changes
+
+02/10/2026
+--------------
+- Fenrir Included
+- Rework GameBar
+- Implement Bypass Charging
+- Include 4K60FPS recording in MiuiCamera
+- Unlock Leica features and update camera to V6.7
