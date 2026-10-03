@@ -12,5 +12,10 @@ Notes:
 - Rom already pre rooted use ReSukiSU manager from here : https://t.me/ReSukiSU/5.
 - Flash twice if you stuck at POCO Logo to update both slots.
 
+===== 03/10/2026 ====
+- Match KSU-Next and SUSFS latest changes 
+- miuicamera-mondrian: Add new adaptive Leica camera icon
+- Match the latest source changes
+
 ===== 16/08/2026 ====
 - initial official release
