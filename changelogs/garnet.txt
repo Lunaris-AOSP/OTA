@@ -1,5 +1,22 @@
 Changelog
 =========
+05/10/2026
+---------------
+- Set SurfaceFlinger frame-rate categories to 60–120 Hz
+- enable display-stack jemalloc, tune expensive-rendering boosts
+- use stock work-duration timings per refresh rate
+- Adjust rendering and Dalvik settings
+- including virtual-display HWC behavior (except Wi-Fi Display) 
+- GL composition backpressure; add the device CPU-temperature scale
+- torch brightness control with maximum default strength
+- excluding auxiliary camera packages.
+- Use Xiaomi vibrator effects and customized haptic feedback, with a softer long-press response.
+- Enable 5G SA/NSA, expose VoLTE and Wi-Fi calling by default, and adjust LTE+ and 5G+ network indicators.
+- Use AVC 3.1 for screen recording and switch the Dolby package to LunarisDolby.
+- Enable APK fs-verity support
+- KSUN v3.4.0 & SUSFS v2.3.0 Included
+- Some Other fixes and Improvement
+
 21/08/2026
 ---------------
 - sync with latest source
