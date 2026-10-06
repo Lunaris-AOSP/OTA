@@ -1,5 +1,17 @@
 Changelog
 =========
+05/10/2026
+---------------
+-Enabled 5G Standalone and Non-Standalone, with VoLTE and Wi-Fi Calling enabled by default.
+- Improved carrier display settings, including the LTE+ indicator.
+- Tuned performance and frame pacing, including boosts for demanding rendering and refresh-rate-specific display timing.
+- Added optimized Wi-Fi power management and device power-saving adjustments.
+- Updated the vibrator service integration to AIDL and applied Xiaomi-specific haptic configuration.
+- Adjusted audio offload buffering and added camera compatibility configuration.
+- Updated Peridot’s Lunaris AOSP device bring-up and device information.
+- KSUN v3.4.0 & SUSFS v2.3.0 Included
+- Some Other fixes and Improvement
+
 21/08/2026
 ---------------
 - sync with latest source

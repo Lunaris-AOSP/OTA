@@ -4,13 +4,15 @@
       "maintainer": "kibria5",
       "oem": "Xiaomi",
       "device": "peridot",
-      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.12-VANILLA-2026082104.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/peridot/vanilla/Lunaris-AOSP-peridot-OFFICIAL-3.12-VANILLA-2026082104.zip/download",
-      "timestamp": 1787287662,
-      "md5": "cdf4f77cc352e698da36453279c490b3",
-      "sha256": "313bf358440cae85f7a4a354dc97b34262a3262a084e3508f51666e384dc447e",
-      "size": 3117591435,
+      "filename": "Lunaris-AOSP-peridot-OFFICIAL-3.12-VANILLA-2026100521.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/peridot/vanilla/Lunaris-AOSP-peridot-OFFICIAL-3.12-VANILLA-2026100521.zip/download",
+      "timestamp": 1791236513,
+      "md5": "b438a69daab0de200cb16d05d65acc5c",
+      "sha256": "d46f77512b37506790c73ee6af503c688e424a188d37b134120e8b03e2c3a9e2",
+      "size": 3119288427,
       "version": "3.12",
+      "os_patch_level": "2026-09-01",
+      "os_sdk_level": 36,
       "buildtype": "user",
       "forum": "",
       "gapps": "",
@@ -18,11 +20,11 @@
       "modem": "",
       "bootloader": "",
       "recovery": "https://sourceforge.net/projects/ghosuto/files/Peridot/recovery/recovery.img/download",
-      "paypal": "https://www.paypal.com/paypalme/kibria05",
-      "telegram": "https://t.me/kibria5",
+      "paypal": "https://telegra.ph/Support-Our-Build-Server-08-08",
+      "telegram": "https://t.me/PG_Supports",
       "dt": "",
       "common-dt": "",
-      "kernel": ""
+      "kernel": "https://gitlab.com/sm8635-peridot/android_kernel_xiaomi_sm8635.git"
     }
   ]
 }
