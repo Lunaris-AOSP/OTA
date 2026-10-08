@@ -1,6 +1,15 @@
 Changelog
 =========
 
+08/10/2026
+---------------
+- vili: Reverts
+- Remove HotwordEnrollment and SoundTrigger
+- Reapply "sm8350-common: Blob out audio HAL extensions"
+- Revert "sm8350-common: Build more audio extension from source"
+- Revert "sm8350-common: Build Audio HAL from source"
+- sm8350-common: Enable ADB by default on user build
+
 26/09/2026
 ---------------
 - sm8350-common: audio: Add back usb device supporting for "fast input" and "quad mic"
