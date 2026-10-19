@@ -1,5 +1,14 @@
 Changelog
 =========
+19/10/2026
+---------------
+First Vanilla build (no GApps)
+Add Charging mode in Settings > Battery: Slow, Fast and Super fast (33 W)
+Fix fast charging stuck at 5V/500mA when booting with the charger connected
+Add XiaomiParts: Thermal profiles, Saturation and Clear speaker
+Fix WhatsApp number verification getting stuck on "Allow access" (GMS)
+Sync with latest Lunaris 16.2 source
+
 01/09/2026
 ---------------
 Update Udfps/UdfpsHandler.cpp to fox false HBM toich  light on lockscreen 

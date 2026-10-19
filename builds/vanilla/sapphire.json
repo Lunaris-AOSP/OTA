@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+      "maintainer": "Angelpro09_Dev",
+      "oem": "Xiaomi",
+      "device": "sapphire",
+      "filename": "Lunaris-AOSP-sapphire-OFFICIAL-3.12-VANILLA-2026101905.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/sapphire/vanilla/Lunaris-AOSP-sapphire-OFFICIAL-3.12-VANILLA-2026101905.zip/download",
+      "timestamp": 1792387533,
+      "md5": "fb99199f8c1a87eb833861d9a0ec3cf2",
+      "sha256": "4736263d13a3443f0effa6345e7303f56472339bbe2d1756ad5c62de7f11313b",
+      "size": 2153115288,
+      "version": "3.12",
+      "os_patch_level": "2026-09-01",
+      "os_sdk_level": 36,
+      "buildtype": "Official",
+      "forum": "",
+      "gapps": "Not included",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "https://github.com/LunarisAOSP-Devices/android_device_xiaomi_sapphire",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
