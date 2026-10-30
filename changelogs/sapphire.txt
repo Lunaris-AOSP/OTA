@@ -1,5 +1,21 @@
 Changelog
 =========
+30/10/2026
+---------------
+Update to Lunaris 3.13
+October 2026 security patch
+New modular QS with OneUI style media tiles and notification media panel
+Add Moto Compose volume panel style (now default)
+Add native backup/restore solution (AppDataBackup)
+Add Quick Launch and configurable spring bounce scrolling in Settings
+Add Lunaris Monet and update default wallpaper
+Revamp Updater UI with Material 3 Expressive
+Tune scroll, shade and fingerprint interaction boosts
+Fix split screen gesture, split QS swipe flicker and VoIP call volume
+Merge latest Settings security fixes
+Rework XiaomiParts for sapphire (Thermal profiles, Saturation and Clear speaker)
+ChargeControl: Add Brazilian Portuguese translation
+
 19/10/2026
 ---------------
 First Vanilla build (no GApps)
