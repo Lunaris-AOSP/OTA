@@ -1,6 +1,25 @@
 Changelog
 =========
 
+12/11/26
+Pixel launcher back
+No more freeze Bluetooth connecting
+sm8450-common:vintf: declare KeyMint IRemotelyProvisionedComponent
+upstream kernel 5.10.269 gki
+media: align diwali_v2 codec config with default includes
+sm8450-common: Move Bluetooth profile property to system_ext
+Revert "sm8450-common: Load goodix_3626 module for Goodix fingerprint"
+Drop unused Aperture camera app configuration
+DEVICE_HOST_WHITE_LIST -> DEVICE_HOST_ALLOW_LIST
+Silence libssccalapi spam when light sensor is enabled
+Dolby:Dax updated
+powerhint: Fix uclamp boost priority
+powerhint: add different session for ADPF (Blur & Game)
+add sched_boost PowerHint node
+powerhint: optimise adpf & remove unnecessary actions
+powerhint: Preserve the top-app uclamp baseline
+
+
 01/10/26
 - Wire up per fps sf durations. (Enjoy more smoothness now)
 - Moved from phase offsets to work durations.
