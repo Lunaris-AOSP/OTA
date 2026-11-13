@@ -16,3 +16,8 @@ Changelog
 - Implement Bypass Charging
 - Include 4K60FPS recording in MiuiCamera
 - Unlock Leica features and update camera to V6.7
+
+13/10/2026
+-------------
+- Incude Thermal limit to XiaomiParts
+- Redesign Xiaomi Parts Ui
