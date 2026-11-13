@@ -1,5 +1,10 @@
 Changelog
 =========
+13/11/2026
+---------------
+November 2026 security patch
+Sync with latest Lunaris 16.2 source
+
 30/10/2026
 ---------------
 Update to Lunaris 3.13
