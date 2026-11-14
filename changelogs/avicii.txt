@@ -1,6 +1,16 @@
 Changelog
 =========
 
+14/11/2026
+- Sync with Source
+- Switch to Motorola Dolby Atmos
+- Fix Pixel Binning on Front 32MP Camera
+- Update Adreno Drivers from hollywood
+- Switch to 64 Bit
+- Switch to libperfmgr and Drop QTI Power HAL
+- Kang SF Props from tegu
+- Enable suspend to RAM
+
 12/09/2026
 - Revamp LunarisDolby UI
 - Add OnePlus Camera

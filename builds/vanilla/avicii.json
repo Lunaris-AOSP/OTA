@@ -3,15 +3,15 @@
     {
       "maintainer": "NoEscape.exe",
       "oem": "OnePlus",
-      "device": "OnePlus Nord",
-      "filename": "Lunaris-AOSP-avicii-OFFICIAL-3.12-VANILLA-2026091206.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/avicii/vanilla/Lunaris-AOSP-avicii-OFFICIAL-3.12-VANILLA-2026091206.zip/download",
-      "timestamp": 1789194505,
-      "md5": "df013d9a8fae0ec7f42d5f4e8cafa23b",
-      "sha256": "890c38047778b23203f08ea82d122fe781ea5f8d05eb3f38f8972a7bc15f3a96",
-      "size": 2070936496,
-      "version": "3.12",
-      "os_patch_level": "2026-09-01",
+      "device": "OnePlus Nord 5G",
+      "filename": "Lunaris-AOSP-avicii-OFFICIAL-3.13-VANILLA-2026111402.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/avicii/Lunaris-AOSP-avicii-OFFICIAL-3.13-VANILLA-2026111402.zip/download",
+      "timestamp": 1794622196,
+      "md5": "299dda4fec4b58b4078fc5e67d5130ee",
+      "sha256": "7c7c837525ade52898f0316120d3c49cacd3d84ee9bf67488f01a5a54b4d70a7",
+      "size": 2034419615,
+      "version": "3.13",
+      "os_patch_level": "2026-11-01",
       "os_sdk_level": 36,
       "buildtype": "user",
       "forum": "https://t.me/noescape_basement",
@@ -19,12 +19,12 @@
       "firmware": "",
       "modem": "",
       "bootloader": "",
-      "recovery": "https://sourceforge.net/projects/ghosuto/files/avicii/recovery",
+      "recovery": "https://sourceforge.net/projects/ghosuto/files/mumba/recovery/recovery.img/download",
       "paypal": "",
       "telegram": "https://t.me/noescape_basement",
       "dt": "https://github.com/Avicii-Labs/android_device_oneplus_avicii",
       "common-dt": "",
-      "kernel": "https://github.com/Avicii-Labs/android_kernel_oneplus_avicii"
+      "kernel": "https://github.com/Avicii-Labs/android_kernel_oneplus_sm7250"
     }
   ]
 }
