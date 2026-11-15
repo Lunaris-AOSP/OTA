@@ -1,6 +1,15 @@
 Changelog
 =========
 
+15/11/2026
+---------------
+- Synced with latest source
+- Implemented Torch strength control
+- Enable ADPF powerhint nodes 
+- Use TEO as cpuidle governor
+- Switch to stock BT stack
+- Use smoother blur algorithm
+
 04/08/2026
 ---------------
 - Synced with latest source
