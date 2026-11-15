@@ -1,5 +1,15 @@
 Changelog
 =========
+14/11/2026
+---------------
+- fix Dolby AC-4 codec
+- Switch to QTI power HAL
+- Disable all CLO-specific perf features
+- Allow surfaceflinger to use the big cluster
+- Enable EXPENSIVE_RENDERING hint
+- Merge with lineageos kernel branch lineage-24.0
+- Improve systemui responsiveness
+
 05/10/2026
 ---------------
 - Set SurfaceFlinger frame-rate categories to 60–120 Hz

@@ -4,14 +4,14 @@
       "maintainer": "kibria5",
       "oem": "Xiaomi",
       "device": "garnet",
-      "filename": "Lunaris-AOSP-garnet-OFFICIAL-3.12-GMS-2026100518.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/garnet/Lunaris-AOSP-garnet-OFFICIAL-3.12-GMS-2026100518.zip/download",
-      "timestamp": 1791225477,
-      "md5": "148778811409f1c9fd5d33bd56cc8d3d",
-      "sha256": "f0fc32b334ea4d62808b29f160204a14debeddee89dc0b50d392a41b39d068f5",
-      "size": 3034715418,
-      "version": "3.12",
-      "os_patch_level": "2026-09-01",
+      "filename": "Lunaris-AOSP-garnet-OFFICIAL-3.13-GMS-2026111420.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/garnet/Lunaris-AOSP-garnet-OFFICIAL-3.13-GMS-2026111420.zip/download",
+      "timestamp": 1794687067,
+      "md5": "6c256a785c08a92fbfe1f64c723d46ee",
+      "sha256": "d4b82c8d59ec1e7a7eff334d5166be6fb5b22a7ef378481718313a17261db891",
+      "size": 3085155709,
+      "version": "3.13",
+      "os_patch_level": "2026-11-01",
       "os_sdk_level": 36,
       "buildtype": "user",
       "forum": "https://xdaforums.com/t/rom-16-garnet-official-lunaris-aosp-android-16-for-for-redmi-note-13-pro-5g-poco-x6-5g.4764237/",
@@ -20,11 +20,11 @@
       "modem": "",
       "bootloader": "",
       "recovery": "https://sourceforge.net/projects/ghosuto/files/garnet/recovery/recovery.img/download",
-      "paypal": "https://telegra.ph/Support-Our-Build-Server-08-08",
+      "paypal": "https://telegra.ph/Support-Our-Build-Server-10-26",
       "telegram": "https://t.me/PG_Supports",
       "dt": "",
       "common-dt": "",
-      "kernel": "https://gitlab.com/sm7435-garnet/android_kernel_xiaomi_sm7435.git"
+      "kernel": "https://github.com/LineageOS/android_kernel_xiaomi_sm7435.git"
     }
   ]
 }
