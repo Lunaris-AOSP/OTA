@@ -1,6 +1,17 @@
 Changelog
 =========
 
+15/11/2026
+- Switch to OSS Kernel and OSS Modules
+- Upstreamed Kernel to 6.6.144-HyperNet
+- Redo Powerhint
+- Improved AnTuTu Source
+- Merged Latest Source
+- Removed Dolby Atmos and MotCamera5
+- Fix UW Camera in Aperture
+- Removed Proprietary Firmware
+- Switched to Kawase2 Blur Algoritm
+
 27/09/2026
 - Implement Double Tap to wake
 - Disabled AOD
