@@ -1,6 +1,17 @@
 Changelog
 =========
 
+15/11/2026
+---------------
+- Sync with latest source
+- Disabled ART
+- Removed Sf Boost
+- tweeked powerhint for better battery
+- switched new Camera
+- scarlet v7
+- moto dolby and vision
+
+
 24/08/2026
 ---------------
 - Sync with latest source
