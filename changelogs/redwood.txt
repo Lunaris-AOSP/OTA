@@ -6,6 +6,8 @@ Changelog
 - Sync with latest source
 - Disabled ART
 - Removed Sf Boost
+- added filters on camera
+- Fixed systemui restart option
 - tweeked powerhint for better battery
 - switched new Camera
 - scarlet v7
