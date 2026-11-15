@@ -4,14 +4,14 @@
       "maintainer": "Drxkaii",
       "oem": "Xiaomi",
       "device": "miatoll",
-      "filename": "Lunaris-AOSP-miatoll-EOL-OFFICIAL-3.12-GMS-2026082311.zip",
-      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-EOL-OFFICIAL-3.12-GMS-2026082311.zip/download",
-      "timestamp": 1787483702,
-      "md5": "24a4c5356ccd98ede17855426ebce244",
-      "sha256": "bb317c8a806e976ce69a1c630ce8931a963ba63c3793def842750c0811e4d178",
-      "size": 3148212085,
-      "version": "OFFICIAL.OFFICIAL",
-      "os_patch_level": "2026-08-01",
+      "filename": "Lunaris-AOSP-miatoll-OFFICIAL-EOL-EXTENDED-3.13-GMS-2026111518.zip",
+      "download": "https://sourceforge.net/projects/ghosuto/files/miatoll/Lunaris-AOSP-miatoll-OFFICIAL-EOL-EXTENDED-3.13-GMS-2026111518.zip/download",
+      "timestamp": 1794767233,
+      "md5": "2c09adfa88288951a5a5f4cffcf6424d",
+      "sha256": "d5d6053e6f876ba13310edbada883aafe8342a694e73e94adcd15034e02b1140",
+      "size": 2911705845,
+      "version": "3.13",
+      "os_patch_level": "2026-11-01",
       "os_sdk_level": 36,
       "buildtype": "user",
       "forum": "",
@@ -28,4 +28,3 @@
     }
   ]
 }
-
