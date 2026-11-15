@@ -1,6 +1,16 @@
 Changelog
 =========
 
+15/11/2026
+---------------
+- Synced with latest source
+- Switched to ResukiSU 4.2.0-rc3, SUSFS 2.3.0
+- Fixed portrait, video mode issues in miui camera
+- Use smoother blur algorithm
+- Fixed voice breaks in VoIP calls
+- Enable ADPF powerhint nodes 
+- Use TEO as cpuidle governor
+
 04/08/2026
 ---------------
 - Synced with latest source
