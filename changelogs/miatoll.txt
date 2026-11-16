@@ -1,5 +1,12 @@
 Changelog
 =========
+16/11/2026
+---------
+- Synced Latest Source Changes
+- Shift with Kinesis kernel
+- Dropped Revanced
+- Added Bypass Charging Support
+
 23/08/2026
 ---------
 - Synced Latest Source Changes
