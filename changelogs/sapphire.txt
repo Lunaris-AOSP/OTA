@@ -1,5 +1,11 @@
 Changelog
 =========
+17/11/2026
+---------------
+Migrate Miuicamera port 6.1 by @HiSiuDz
+switch to kernel-oss decompiled by @Angelpro09_Devv
+Miui-Gallery dropped
+
 13/11/2026
 ---------------
 November 2026 security patch
