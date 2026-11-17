@@ -1,6 +1,183 @@
 Changelog
 =========
 
+17/11/2026
+----------
+
+Onyx Parts
+----------
+- Added Onyx Parts hardware control suite (Settings > System)
+- GPU manager with Adreno info and the frequency controls the kernel honours
+- CPU Core Control
+- Kernel Manager
+- Display saturation with boot-time restore
+- ClearSpeaker playback
+- Thermal / GameMode scenario switching (NotGameTurbo)
+- sepolicy and init wiring for the Parts controls
+
+Leica Camera
+------------
+- Added Leica Camera
+- Enable the Leica watermarks and filters, and drop the permissions-limited popup
+- Add Video Pro mode
+- Unlock the Dual Video multi-camera mode
+- Update the launcher icon to HyperOS 4 and fix the long-press shortcut icons
+- Select the watermark branding by hardware region (POCO F7 / REDMI Turbo 4 Pro)
+- Fix the green line in 960fps super slow-motion video
+- Fix the camera freeze when returning from Google Lens
+- Fix the Leica watermark and filter missing from the saved photo
+- Fix the watermark settings scroll jank by capping the preview bitmaps at 512px
+- Disable camera usage and settings reporting
+- Disable ML Kit Firelog reporting
+- Disable Xiaomi AI SDK tracking by default
+- sepolicy: Label the Xiaomi Codec2 store as hal_codec2_service
+- sepolicy: Drop the rules that violate the AOSP and qcom neverallows
+
+Device Tree
+-----------
+- network: Fixed 5G Icon Disappearing from Statusbar
+- gpu: Updated the Adreno driver blobs to V842.33.1
+- gpu: Advertise Vulkan 1.4 and dEQP 2025-03-01 from the V842 driver
+- gpu: Label the hexlp NDK blobs as same_process_hal_file
+- audioflinger: Do not allow DAP_OFFLOAD effect to be suspended
+- audio: Stop auto-applying the Dolby music volume listener (Fixes Noice In BGMI and PUBG)
+- audio: Import Xiaomi SeaAudio AIDL service and model configs
+- audio: Drop the prebuilt soundfx blobs
+- audio: Remove redundant writepid directive from audio HAL init
+- Bluetooth: Move PAN properties to system_ext
+- camera: Drop the privapp list, the leicacamera tree now sets it
+- camera: Enable CameraX extensions support
+- camera: Expose aux cameras to com.android.camera and Aperture
+- camera: Remove some camera-daemon commands
+- camera: Fix SELinux denials for camera HAL
+- camera: Allow the camera HAL to read proc pressure cpu and io
+- camera: Allow camera HAL to access miev device
+- camera: Allow camera HAL to read KGSL devfreq symlinks
+- carrierconfig: Enable VoWiFi for Grameenphone and Banglalink (Bangladesh, MCC 470)
+- carrierconfig: Enable VoWiFi for NTC and Ncell (Nepal, MCC 429)
+- dalvik: Optimize the dalvik heap configs
+- firmware: Update the firmware blobs path
+- init: Allow SurfaceFlinger to use the big and prime clusters
+- init: Keep the prime core out of the foreground cpuset
+- init: Restrict the background cpuset to the little cluster
+- init: Pin the restricted cpuset to system-background
+- init: Cap background and dex2oat CPU utilisation with uclamp
+- init: Remove sdcard legacy support
+- init: Remove unused services and property triggers
+- init: Remove unnecessary QTI logkit directories
+- init: Remove core dump/file generation references
+- init: Remove duplicate 'start logd'
+- init: Remove unused LKCore service entries
+- init: Remove cnss_diag service
+- init: Don't mount TraceFS twice
+- kernel: Disable Kernel MTE
+- kernel: Switch to dot product CPU variant
+- kernel: Drop mem-offline module
+- kernel: Explicitly build wcn7750 qcacld module
+- misc: Repair the MiSyS watermark file modes at boot
+- misc: Remove irsc_util
+- misc: Remove unused vendor.qsap.location.rc
+- misc: Remove virtual framebuffer
+- misc: Disable minidebuginfo generation
+- misc: Add feature flag for IPSEC_TUNNEL_MIGRATION
+- misc: Fix failing symlinks
+- misc: Add restart SystemUI in Advanced Reboot
+- misc: Remove useless qvop-daemon
+- misc: Remove persist.demo.hdmirotationlock
+- network: Change default preferred network mode value
+- network: Remove platform_number_verification_package
+- overlay: Add the PowerInsight battery current divisor
+- overlay: Improve signal reception
+- overlay: Show min/max refresh rate in settings
+- overlay: Disable config show smooth display
+- overlay: Remove fastboot option from restart actions list
+- overlay: Reduce blur radius
+- overlay: Downscale task snapshots to 80%
+- overlay: Disable world_mode_enabled_bool (fixes the preferred network type menu)
+- overlay: Remove deprecated world_phone flag
+- overlay: Use CarrierConfig DTMF & CSP booleans
+- overlay: Delete configs set to default values
+- overlay: Disable Smart Pixels on UDFPS
+- overlay: Enable Smart Pixels support
+- overlay: Use the new auto network selection UI
+- overlay: Set default pin amount for home app
+- overlay: Add some libraries to pinner list
+- overlay: Show CPU temperature in Celsius
+- performance: Enable debug.performance.tuning
+- performance: Use HWUI and add HWUI props to improve performance
+- performance: Tweaks for smoother scrolling and better responsiveness
+- performance: Enable support for kernel idle timer
+- performance: Force 'speed' compiler filter for SystemServer and SystemUI
+- performance: Optimize CPU frequency floors
+- performance: Pin core system files via PinnerService
+- powerhint: Correct the camera hispeed target and pin foreground capacity
+- powerhint: Adopt the Pong scheduler and bus tuning
+- powerhint: Lift the GPU floor and open RTG migration on INTERACTION
+- powerhint: Fix uclamp boost priority
+- powerhint: Order the remaining boost nodes by strength
+- powerhint: Apply RT uclamp from the post-boot script
+- props: Enable VoLTE and VoWiFi for all carriers
+- props: Drop the duplicated ro.max.fling_velocity entry
+- props: Set debug.sf.auto_latch_unsignaled to 1
+- props: Further reduce uclamp values
+- props: Disable Skia tracing by default
+- props: Set ro.netflix.bsp_rev from stock
+- props: Move read only HWUI properties to system.prop
+- props: Add media.settings prop to fix some issues
+- props: Disable Async MTE on System Server
+- props: Add Ultra HDR shaders to SurfaceFlinger pre-warming cache
+- props: Set touch timer to 1100ms
+- props: Update Skia Tracing Properties
+- props: Remove qcomsysd prop
+- rootdir: Set default Wi-Fi country code to '00'
+- rootdir: Drop deprecated nqnfcinfo service
+- rootdir: Drop legacy blkio cgroup writes
+- rootdir: Drop obsolete legacy storage, cgroup v1, and uclamp nodes
+- rootdir: Restrict apps access to /proc/net/unix
+- rootdir: Remove time_daemon rc definition
+- rootdir: Remove unused daemon services
+- rootdir: Remove redundant writepid directive from audio HAL init
+- rootdir: Remove useless qvop-daemon
+- rootdir: Delete the dhcpcd entries
+- sepolicy: Fix the property drops and SELinux gaps found in the boot audit
+- sepolicy: Add com.android.bluetooth context to seapp_contexts
+- sepolicy: Use vendor_sysfs_battery_supply for qcom-battery
+- sepolicy: Label ro.vendor.audio.unite.record.type property
+- sepolicy: Label ro.product.marketname property
+- sepolicy: Allow camera HAL to read KGSL devfreq symlinks
+- sepolicy: Allow vendor_init to write proc_perf file
+- sepolicy: Allow vendor_init to access cgroup files for cpuset configuration
+- sepolicy: Allow vendor_init to access miev_device, migt_dev and metis_link
+- sepolicy: Address init denials
+- sepolicy: Allow vendor_modprobe to write vendor_modprobe key
+- sepolicy: Allow vendor_modprobe the sys_nice capability
+- sepolicy: Give setattr permission to vendor_qrtr
+- sepolicy: Allow vendor_qrtr to manage its own data
+- sepolicy: Address filesystem decryption denial
+- sepolicy: Satisfy SELinux permission check
+- sepolicy: Fix the ro.hardware.chipname denial
+- surfaceflinger: Enable the ADPF CPU hint session for SurfaceFlinger and HWUI
+- surfaceflinger: Reduce max acquired frame buffers to 2
+- surfaceflinger: Explicitly disable GL comp backpressure
+- surfaceflinger: Disable sf EGL image tracking
+- surfaceflinger: Wire up per-FPS SurfaceFlinger durations
+- surfaceflinger: Revert the gs201 vsync work duration sync
+- surfaceflinger: Enable SurfaceFlinger's display power timer
+- wifi: Disable qcom_rx_wakelock
+- wifi: Sync WCNSS_qcom_cfg.ini from LA.VENDOR.15.4.0.r1
+- wifi: Remove entry for gEnableNUDTracking
+- wifi: Smarter 2.4/5 GHz AP selection
+- wifi: Set roam_bg_scan_bad_rssi_thresh to -85 dBm
+- wifi: Set gTDLSExternalControl=1
+- wifi: Relax WiFi re-association RSSI thresholds
+- wifi: Disable WLAN firmware logging
+- wifi: Enable fast BSS transition
+- wifi: Disable Wi-Fi firmware roaming when idle
+- wifi: Enable concurrent restricted connectivity
+- wifi: Tune the BMPS listening interval
+- wifi: Enable Optimized Power Management
+- And Many More Improvements
+
 22/09/2026
 ----------
 - Latest Source Synced
