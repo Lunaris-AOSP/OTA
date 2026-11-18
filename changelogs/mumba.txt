@@ -1,6 +1,13 @@
 Changelog
 =========
 
+18/11/2026
+- Implement Moto Parts
+- Add Dolby Atmos back
+- Add Torch Strength Back
+- Fix AUX not working
+- Fix Animations lag
+
 15/11/2026
 - Switch to OSS Kernel and OSS Modules
 - Upstreamed Kernel to 6.6.144-HyperNet
