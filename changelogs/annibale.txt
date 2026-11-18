@@ -1,6 +1,13 @@
 Changelog
 =========
 
+18/11/2026
+----------
+- Synced with latest source
+- Silenced some log spams
+- Tweaked brightness config for auto brightness
+- Many more underhood changes
+
 01/10/2026
 ----------
 - Synced with latest source
