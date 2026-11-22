@@ -1,6 +1,12 @@
 Changelog
 =========
 
+22/11/2026
+---------------
+- Added back ViperFX
+- Fixed libperfmgr logspams
+- Added workaround for modem crashes on few variants
+
 15/11/2026
 ---------------
 - Synced with latest source
