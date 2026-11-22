@@ -1,6 +1,20 @@
 Changelog
 =========
 
+11/22/2026
+---------------
+-Synced with latest source
+-Updated firmware blobs to CPH2653_16.0.10.600(EX01)
+-Add PD mode and charging status to device settings
+-Import face unlock and panelchaplin blobs
+-Drop custom refresh rate controls from dodge hub
+-Enabled spatial audio
+-Imported thermal configs from stock
+-Included HighTouchPollingRate (HTPR)
+-Added DuckRKP hal (may not work on some devices)
+-Tweaked powerhint for better efficiency and tune ADPF hints
+-Enabled VoNR for supported carriers
+
 09/21/2026
 ---------------
 -Synced with latest source
