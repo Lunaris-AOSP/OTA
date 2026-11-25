@@ -1,6 +1,21 @@
 Changelog
 =========
 
+24/11/2026
+---------------   
+• Switched to SW-NG kernel
+• Fixed USB audio output
+• Included DTB in boot image
+• Switched to Kawase2 render engine blur algorithm
+• Rework DMS access rules
+• Sync with hardware_dolby
+• Remove legacy OMX aliases from Dolby Codec2 decoders
+• Drop unused Doze package
+• Update blobs from LA.QSSI.17.0.r1-02900-qssi.0 (Audio, Audio FX modules, ANT+, CNE, DPM, Listen, Media, QMI)
+• Remove EXPENSIVE_RENDERING
+• Import Uclamp sysctl tunings from Raphael
+• Switch back to uclamp
+
 24/09/2026
 ---------------   
 • Fixed Error1 when flashing via Orangefox
