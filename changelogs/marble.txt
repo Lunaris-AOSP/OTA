@@ -1,6 +1,26 @@
 Changelog
 =========
 
+**25/11/26**
+- Optimize Gaming and Default thermal profiles
+- Enable advanced display colors flag
+- Use instance 2 of PCM_RECORD for voice recognition
+- Use mic-asr path for voice recognition
+- Fix invalid voice recognition stream KVs
+- Drop unused Aperture camera app configuration
+- Replace DEVICE_HOST_WHITE_LIST with DEVICE_HOST_ALLOW_LIST
+- Improve thermal profile switching and recovery
+- Restore default thermal profile and cache successful writes only
+- Switch default thermal profile index to 0
+- Reconfigure cpuset CPU masks
+- Restore thermal profile when service starts
+- Match thermal profile packages by exact name
+- Add balanced GAME powerhint tuning
+- Optimize Gaming and Default thermal profiles
+- Sync vendor with device tree
+- Prioritize sound controls and adapt settings layout to available width
+- Fine-tune Dynamic volume boost and Music headphone EQ strength
+
 12/11/26
 Pixel launcher back
 No more freeze Bluetooth connecting
