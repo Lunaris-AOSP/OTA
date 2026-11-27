@@ -1,5 +1,14 @@
 Changelog
 =========
+27/11/2026
+---------------
+- Switch to libperf
+- Enable ADPF hint
+- Better responsiveness
+- set blur algorithm to kawase
+- Build NotGameTurbo
+- haptic: Map standard FF gain range to full scale
+
 15/11/2026
 ---------------
 - Update from OS3.0.304.0.WNPMIXM
