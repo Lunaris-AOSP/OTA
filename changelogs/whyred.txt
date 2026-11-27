@@ -1,6 +1,16 @@
 Changelog
 =========
 
+27/11/2026
+----------
+- Synced with latest source
+- DeviceSettings: Add doze help strings dropped from devicesettings
+- rootdir: Drop setting ro.opengles.version via init
+- overlay: Disable Always On Display
+- Disable displayBlanksAfterDoze
+- Redesigned WhyredParts in Material 3 Expressive
+- Many more underhood changes
+
 19/11/2026
 ----------
 - Synced with latest source
