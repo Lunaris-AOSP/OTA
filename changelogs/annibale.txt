@@ -1,6 +1,22 @@
 Changelog
 =========
 
+28/11/2026
+----------
+- Synced with latest source
+- Fixed offline charging
+- Updated some blobs from OS3.0.301.0.WPKMIXM
+- Import camera libs from OS3.0.303.0.WPKCNXM
+- Switch back to QTI vibrator service
+- Updated dolby stacks
+- Updated LunarisDolby Manager into latest
+- Adjusted status bar paddings
+- Implemented HTSR toggle
+- Switch to libperfmgr & removed QTI perf service
+- Updated audio configs & tune it
+- Updated kernel from OS3.0.301.0.WPKMIXM
+- Many more underhood changes
+
 18/11/2026
 ----------
 - Synced with latest source
